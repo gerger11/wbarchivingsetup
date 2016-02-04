@@ -52,7 +52,7 @@
 	<summary>
 		<codepage>1252</codepage>
 		<title>Installation Database</title>
-		<subject/>
+		<subject></subject>
 		<author>##ID_STRING2##</author>
 		<keywords>Installer,MSI,Database</keywords>
 		<comments>Contact:  Your local administrator</comments>
@@ -339,31 +339,132 @@
 		<col def="S0">ISDotNetInstallerArgsCommit</col>
 		<col def="S0">ISDotNetInstallerArgsUninstall</col>
 		<col def="S0">ISDotNetInstallerArgsRollback</col>
-		<row><td>IBM.Data.DB2.dll</td><td>{66E03B19-303E-4FFC-A75F-A306EAA8DD03}</td><td>DEBUG</td><td>2</td><td/><td>ibm.data.db2.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>ISX_DEFAULTCOMPONENT</td><td>{95953F12-EB64-41D2-AB38-59DCE703FBA4}</td><td>WORKBRAINARCHIVINGTOOL</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>ISX_DEFAULTCOMPONENT1</td><td>{5B3C9162-DBA6-410A-A06A-6C37BEB57E9F}</td><td>BIN</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>ISX_DEFAULTCOMPONENT10</td><td>{9867A99D-EC12-4A21-B003-A753511B2277}</td><td>DEBUG2</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>ISX_DEFAULTCOMPONENT11</td><td>{C47CDDD6-2633-45A4-8CBB-43B58ACD6082}</td><td>TEMPPE</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>ISX_DEFAULTCOMPONENT12</td><td>{E139DBAF-2CAE-47CB-BBE6-6307AAD80A31}</td><td>X861</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>ISX_DEFAULTCOMPONENT13</td><td>{AE15FD76-E2D4-49E9-99BC-947496751E19}</td><td>DEBUG3</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>ISX_DEFAULTCOMPONENT14</td><td>{ACE46F3D-58C8-4ACC-AE1E-FB1520DCDCE0}</td><td>TEMPPE1</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>ISX_DEFAULTCOMPONENT15</td><td>{E6CD50FD-23F6-475A-B536-54D6E9F6BF6F}</td><td>PROPERTIES</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>ISX_DEFAULTCOMPONENT16</td><td>{8DF8914C-DC46-448C-9725-0DEA28AB8080}</td><td>RESOURCES</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>ISX_DEFAULTCOMPONENT2</td><td>{9E5816EF-6358-484D-95EF-155AC6DD254B}</td><td>DEBUG</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>ISX_DEFAULTCOMPONENT3</td><td>{0EC625AA-E23D-4503-A9D2-AAD325F7D0A1}</td><td>APP.PUBLISH</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>ISX_DEFAULTCOMPONENT4</td><td>{B44B631C-8585-4179-BBFE-CB3BEB1386AD}</td><td>APPLICATION_FILES</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>ISX_DEFAULTCOMPONENT5</td><td>{CC6BB3C3-A04C-46C4-A743-63F80931A15F}</td><td>WORKBRAINARCHIVINGTOOL_1_0_0_0</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>ISX_DEFAULTCOMPONENT6</td><td>{0A8BC29D-BD9E-479A-BB32-AD81ECCF30C5}</td><td>RELEASE</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>ISX_DEFAULTCOMPONENT7</td><td>{22028BBB-75E6-4F5B-A844-7B1DBB782111}</td><td>X86</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>ISX_DEFAULTCOMPONENT8</td><td>{51118B2A-136C-483E-AA1C-F6381CB70FDF}</td><td>DEBUG1</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>ISX_DEFAULTCOMPONENT9</td><td>{3CDA846D-0660-4CC7-8836-8EF38B312CB1}</td><td>OBJ</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>Properties.Resources.Designer.cs.dll</td><td>{52570ACA-08C9-498A-9789-10458E9657F4}</td><td>TEMPPE</td><td>2</td><td/><td>properties.resources.designe</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>Properties.Resources.Designer.cs.dll1</td><td>{61018183-CB99-4D4D-A654-3A0728C45E2F}</td><td>TEMPPE1</td><td>2</td><td/><td>properties.resources.designe1</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>WorkbrainArchivingTool.exe</td><td>{6C32DC66-F85E-423A-97A0-9C53D7E6E51F}</td><td>DEBUG</td><td>2</td><td/><td>workbrainarchivingtool.exe</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>WorkbrainArchivingTool.exe1</td><td>{F0972C07-85E8-47F6-A951-7E15C51AE97B}</td><td>DEBUG2</td><td>2</td><td/><td>workbrainarchivingtool.exe1</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>WorkbrainArchivingTool.vshost.exe</td><td>{4BE6647D-D664-47D1-8C12-FAAAF42F6490}</td><td>DEBUG</td><td>2</td><td/><td>workbrainarchivingtool.vshos1</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>WorkbrainArchivingTool.vshost.exe1</td><td>{3C03EFD9-E781-4FD3-A4E8-E83BD17349CA}</td><td>DEBUG1</td><td>2</td><td/><td>workbrainarchivingtool.vshos4</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>setup.exe</td><td>{5BC3D484-3A1E-4500-A9C3-9C2CE5879E1A}</td><td>APP.PUBLISH</td><td>2</td><td/><td>setup.exe</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>IBM.Data.DB2.dll</td><td>{C949E3FD-3565-4F68-8135-3135CC40140D}</td><td>DEBUG</td><td>2</td><td/><td>ibm.data.db2.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ISX_DEFAULTCOMPONENT</td><td>{AFE066A2-6D1C-4B98-998F-1609174EF759}</td><td>WORKBRAINARCHIVINGTOOL</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ISX_DEFAULTCOMPONENT1</td><td>{F96EF733-A7D1-49E2-B364-DF3519B03478}</td><td>_GIT</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ISX_DEFAULTCOMPONENT10</td><td>{39818A98-4D5F-4E8A-AE16-C396DF7C0DF8}</td><td>_0</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ISX_DEFAULTCOMPONENT100</td><td>{876B2F8E-EA0D-42E9-8A60-1A2B0B8E2E10}</td><td>TAGS</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ISX_DEFAULTCOMPONENT101</td><td>{259BA43D-AABE-4ECA-95F5-032D33B8207B}</td><td>WORKBRAINARCHIVINGTOOL1</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ISX_DEFAULTCOMPONENT102</td><td>{269D4B72-847A-474A-A3CB-AE14F22D87C1}</td><td>BIN</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ISX_DEFAULTCOMPONENT103</td><td>{09E08B1F-6955-4169-816A-F1B8550BADF4}</td><td>DEBUG</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ISX_DEFAULTCOMPONENT104</td><td>{A55B596B-B3BB-4159-8DEA-5CEA5E602085}</td><td>APP.PUBLISH</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ISX_DEFAULTCOMPONENT105</td><td>{B7ADC61B-6636-40A1-9523-FF2CE3B2C9EA}</td><td>APPLICATION_FILES</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ISX_DEFAULTCOMPONENT106</td><td>{C07F4682-34C2-45EB-B5D1-1B3F4A3FE89E}</td><td>WORKBRAINARCHIVINGTOOL_1_0_0_0</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ISX_DEFAULTCOMPONENT107</td><td>{CA4ECB5C-D2B6-49C5-AFEF-F6DACC12C9BA}</td><td>RELEASE</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ISX_DEFAULTCOMPONENT108</td><td>{2B7F9E8E-89C6-49D2-BD02-466E73F9A8D8}</td><td>X86</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ISX_DEFAULTCOMPONENT109</td><td>{DB2D3CD0-B509-43F7-88BC-6943F8AEB0B9}</td><td>DEBUG1</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ISX_DEFAULTCOMPONENT11</td><td>{487A59A2-F268-4DB8-8B9B-98BC12DEA865}</td><td>_5</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ISX_DEFAULTCOMPONENT110</td><td>{AA9E0A50-5B4F-42F8-93AA-7A33AAC08BE3}</td><td>OBJ</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ISX_DEFAULTCOMPONENT111</td><td>{67B48B52-8624-403A-B474-2CFE5E260401}</td><td>DEBUG2</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ISX_DEFAULTCOMPONENT112</td><td>{FFA5B1A0-C641-4BA0-80C8-FC14DB95C51E}</td><td>TEMPPE</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ISX_DEFAULTCOMPONENT113</td><td>{15C63ED6-07F3-4161-9E18-A142FF5A924F}</td><td>X861</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ISX_DEFAULTCOMPONENT114</td><td>{7EF9D381-0813-41A8-95F8-EC9EEF11ADC6}</td><td>DEBUG3</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ISX_DEFAULTCOMPONENT115</td><td>{944C9F31-309E-4F6A-86B5-6B6040961CFA}</td><td>TEMPPE1</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ISX_DEFAULTCOMPONENT116</td><td>{9B7A6E0F-6C84-43C2-9947-9E6B66F0F4BF}</td><td>PROPERTIES</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ISX_DEFAULTCOMPONENT117</td><td>{C6CF1603-CAAC-4037-971E-17F0314B1BDD}</td><td>RESOURCES</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ISX_DEFAULTCOMPONENT12</td><td>{43DF0CFF-2231-4BDD-A5D2-37A0AB0E9216}</td><td>_A</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ISX_DEFAULTCOMPONENT13</td><td>{038FD4DE-D2B0-4CBF-B5BD-82026BD0264D}</td><td>_F</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ISX_DEFAULTCOMPONENT14</td><td>{41900967-3901-4297-B74F-27136EEAC519}</td><td>_01</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ISX_DEFAULTCOMPONENT15</td><td>{06735843-D2E9-4C91-B9AF-FEA7C5DC9E0D}</td><td>_2</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ISX_DEFAULTCOMPONENT16</td><td>{F92BE1C9-F4CA-429B-B222-9A4F1EAC8A07}</td><td>_51</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ISX_DEFAULTCOMPONENT17</td><td>{195D923B-74AC-4CAB-8521-6908AE2B84BC}</td><td>INSTALLDIR</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ISX_DEFAULTCOMPONENT18</td><td>{3E04F500-673D-4176-A570-FC9C1BDF2883}</td><td>_7</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ISX_DEFAULTCOMPONENT19</td><td>{A95AD2F8-0DD9-4535-AC1F-B511FA8F7726}</td><td>_9</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ISX_DEFAULTCOMPONENT2</td><td>{CC1299BE-4DA1-459B-BA7F-283572A96ABB}</td><td>HOOKS</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ISX_DEFAULTCOMPONENT20</td><td>{B8D50034-4E12-4942-AE65-4B7195A55DD4}</td><td>_A1</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ISX_DEFAULTCOMPONENT21</td><td>{27B300ED-3920-4D15-BDF5-BB938ADB9860}</td><td>_B</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ISX_DEFAULTCOMPONENT22</td><td>{73DA14E6-93C6-49BA-84E1-90AA47E96322}</td><td>_D</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ISX_DEFAULTCOMPONENT23</td><td>{09DF1F93-CBE0-4715-826D-C5FED090C509}</td><td>_F1</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ISX_DEFAULTCOMPONENT24</td><td>{7689ED72-B890-41A1-900D-5775EE6044BE}</td><td>_02</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ISX_DEFAULTCOMPONENT25</td><td>{86C32B13-4BB6-489A-A45E-D07B92258D63}</td><td>_21</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ISX_DEFAULTCOMPONENT26</td><td>{B91BFD0E-2962-4E9E-9B85-D886879CA331}</td><td>_1</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ISX_DEFAULTCOMPONENT27</td><td>{B1DC466F-4465-40FA-B3F6-B652623C2CA2}</td><td>_22</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ISX_DEFAULTCOMPONENT28</td><td>{C4EE2412-BD50-49B4-B565-13BFF7C6B06A}</td><td>_3</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ISX_DEFAULTCOMPONENT29</td><td>{3EA32133-3524-467A-BDC0-BD342C6546CB}</td><td>_71</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ISX_DEFAULTCOMPONENT3</td><td>{C0A4C1FE-C0E3-4132-A6D0-638A27995787}</td><td>INFO</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ISX_DEFAULTCOMPONENT30</td><td>{3829A3BC-97AE-49C1-9899-CE5D8C1D3FA1}</td><td>_8</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ISX_DEFAULTCOMPONENT31</td><td>{268499B4-6635-4DC9-921B-691AF3359FB6}</td><td>_91</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ISX_DEFAULTCOMPONENT32</td><td>{7ED777A7-D635-45C4-A61E-22F6D317FE65}</td><td>_E</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ISX_DEFAULTCOMPONENT33</td><td>{04C93B51-86D1-4325-BFE5-590CCE5294C6}</td><td>_31</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ISX_DEFAULTCOMPONENT34</td><td>{1C3E4619-D9A7-41CB-9E6F-05A826F8E7B1}</td><td>_81</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ISX_DEFAULTCOMPONENT35</td><td>{2A323077-D670-42C7-9672-384486A6D2A4}</td><td>_B1</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ISX_DEFAULTCOMPONENT36</td><td>{9BD32F5C-389E-4F09-994C-74DBEF530B7A}</td><td>_C</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ISX_DEFAULTCOMPONENT37</td><td>{8BB71F15-0C86-46C9-92DA-7E32120D4311}</td><td>_D1</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ISX_DEFAULTCOMPONENT38</td><td>{A0FB2E24-F7AD-4379-A3CB-2DAD75492382}</td><td>_23</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ISX_DEFAULTCOMPONENT39</td><td>{88E83D43-8E80-47CB-A53B-CF0F65ADC614}</td><td>_32</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ISX_DEFAULTCOMPONENT4</td><td>{B0521035-AEB7-42B7-935C-9ECC14149DCB}</td><td>LOGS</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ISX_DEFAULTCOMPONENT40</td><td>{1C194838-EF16-4F97-93D0-7F4B9C4C3846}</td><td>_4</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ISX_DEFAULTCOMPONENT41</td><td>{AF02AE01-9B4D-4261-A9C9-DBE503EFE744}</td><td>_6</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ISX_DEFAULTCOMPONENT42</td><td>{FAB5F5B6-3FEF-4AAD-807B-DADD8EF2D6FF}</td><td>_03</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ISX_DEFAULTCOMPONENT43</td><td>{AC790311-E978-4B24-BA12-5C4A3F5D9E7C}</td><td>_11</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ISX_DEFAULTCOMPONENT44</td><td>{D55F162D-0301-4D28-A0CD-F2507228F9C9}</td><td>_24</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ISX_DEFAULTCOMPONENT45</td><td>{4C02E183-92ED-4404-96FD-5E11073573BD}</td><td>_52</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ISX_DEFAULTCOMPONENT46</td><td>{35B9D5A1-2E7B-4241-8565-4773E1F57C64}</td><td>_82</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ISX_DEFAULTCOMPONENT47</td><td>{0C7599DE-5909-4EA5-B0C4-D1A398026554}</td><td>_D2</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ISX_DEFAULTCOMPONENT48</td><td>{C51AC22B-7BA3-46B0-A473-EDFC899B19CB}</td><td>_E1</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ISX_DEFAULTCOMPONENT49</td><td>{2310DE57-37C8-4460-8BC8-C65707BB0567}</td><td>_12</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ISX_DEFAULTCOMPONENT5</td><td>{C57DA36A-CA40-49DD-9339-1A934375AD6E}</td><td>REFS</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ISX_DEFAULTCOMPONENT50</td><td>{47449F0B-55F7-493E-9833-94134311474A}</td><td>_41</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ISX_DEFAULTCOMPONENT51</td><td>{C115B4BE-F8EB-46D7-B3F3-A4EE8690AEF5}</td><td>_53</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ISX_DEFAULTCOMPONENT52</td><td>{00CEBCD7-8E69-447B-B1FB-695902ECC4FF}</td><td>_72</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ISX_DEFAULTCOMPONENT53</td><td>{35D657EE-1E9F-4E85-8322-4CF32F6C57CF}</td><td>_83</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ISX_DEFAULTCOMPONENT54</td><td>{FF3AAF5E-B483-40B5-A9DB-B0DDB3054517}</td><td>_13</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ISX_DEFAULTCOMPONENT55</td><td>{8E26B6FA-8AE4-4A0C-9F4A-94EF940D8BF4}</td><td>_42</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ISX_DEFAULTCOMPONENT56</td><td>{FC3403E6-56C0-4DE0-82AF-6AB791C5C0F8}</td><td>_54</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ISX_DEFAULTCOMPONENT57</td><td>{D5F5B7C1-B4D9-4183-BF06-F2AFD56979C4}</td><td>_A2</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ISX_DEFAULTCOMPONENT58</td><td>{7D207C63-7F45-4A28-9C0B-2B224CEECC0E}</td><td>_C1</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ISX_DEFAULTCOMPONENT59</td><td>{49A30384-565C-48C5-99D9-1A5ECDE5A3E6}</td><td>_D3</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ISX_DEFAULTCOMPONENT6</td><td>{B0B070C6-F504-46CA-B693-D365D2F4C580}</td><td>HEADS</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ISX_DEFAULTCOMPONENT60</td><td>{13A1C376-5570-4F02-9871-131AE043A8EB}</td><td>_E2</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ISX_DEFAULTCOMPONENT61</td><td>{6C9BFEDF-4D9E-4C12-82E2-2CB63F027734}</td><td>_F2</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ISX_DEFAULTCOMPONENT62</td><td>{FE020F9E-E725-4189-84F3-A0E407401FC0}</td><td>_04</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ISX_DEFAULTCOMPONENT63</td><td>{F0312683-C8A6-4B64-BF72-4596F3E25AB2}</td><td>_61</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ISX_DEFAULTCOMPONENT64</td><td>{041FF677-1EE7-4096-8119-16FABBDFB6E2}</td><td>_73</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ISX_DEFAULTCOMPONENT65</td><td>{011C6DC5-EF50-4A78-B95E-0D1ABE0854D4}</td><td>_92</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ISX_DEFAULTCOMPONENT66</td><td>{4500A3B7-E492-4CB5-821B-D99AB404A204}</td><td>_B2</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ISX_DEFAULTCOMPONENT67</td><td>{7260C1DA-4ABD-4898-9E65-59D5110C8A9F}</td><td>_E3</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ISX_DEFAULTCOMPONENT68</td><td>{8238EF51-6652-4998-9D79-6864DB1CF8D6}</td><td>A1</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ISX_DEFAULTCOMPONENT69</td><td>{0F40473E-6EAB-49E6-9B9B-1428A93F9BC8}</td><td>A6</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ISX_DEFAULTCOMPONENT7</td><td>{E27AC322-53FA-4C20-86C6-15B46C0113ED}</td><td>REMOTES</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ISX_DEFAULTCOMPONENT70</td><td>{3B81459A-4326-4332-89FE-5880C416CA8E}</td><td>A9</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ISX_DEFAULTCOMPONENT71</td><td>{AE19D6FC-BC79-449E-BC3A-5EB18AD06CEF}</td><td>AA</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ISX_DEFAULTCOMPONENT72</td><td>{7E83C36C-D1D1-4B75-BB16-02EB0CA3BB10}</td><td>BB</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ISX_DEFAULTCOMPONENT73</td><td>{89A83920-5592-4B11-88D4-10749C26C6DD}</td><td>BF</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ISX_DEFAULTCOMPONENT74</td><td>{50D66973-494B-4F2C-98BB-10747B6CFA97}</td><td>C0</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ISX_DEFAULTCOMPONENT75</td><td>{BA9FB44C-D532-44D8-B546-ED0DA2C75409}</td><td>C1</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ISX_DEFAULTCOMPONENT76</td><td>{04AD3C9C-6301-4C11-B123-CAAEC0FBB29C}</td><td>C9</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ISX_DEFAULTCOMPONENT77</td><td>{17EBDAEB-AF23-4182-B0D7-D22C4D0E5A0A}</td><td>CA</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ISX_DEFAULTCOMPONENT78</td><td>{AFE2496B-6CBA-403C-AAF9-8D8042404912}</td><td>CB</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ISX_DEFAULTCOMPONENT79</td><td>{CD4A1903-CE0B-44F7-8125-2A44334C603E}</td><td>D1</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ISX_DEFAULTCOMPONENT8</td><td>{F3B051E6-21B0-4C70-985F-DF673EA4F238}</td><td>WBMAINT</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ISX_DEFAULTCOMPONENT80</td><td>{4152A824-BA71-48C0-81B5-EDA6FC7A8CC7}</td><td>D2</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ISX_DEFAULTCOMPONENT81</td><td>{3DBE9902-7021-45EE-AA17-8D0F5AA34F51}</td><td>D5</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ISX_DEFAULTCOMPONENT82</td><td>{08349D47-6E32-4A00-A567-8D1BB185D851}</td><td>DC</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ISX_DEFAULTCOMPONENT83</td><td>{70A2738E-77CA-475C-82DC-362811FF6F87}</td><td>E1</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ISX_DEFAULTCOMPONENT84</td><td>{BF02AB9A-4D8E-4CC2-89F0-2D54205D30E2}</td><td>E7</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ISX_DEFAULTCOMPONENT85</td><td>{6864A651-62C4-4EA9-9689-FCA7ED59A4A0}</td><td>E9</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ISX_DEFAULTCOMPONENT86</td><td>{C77554FB-432B-43E1-B3D6-BCF368B30A31}</td><td>EE</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ISX_DEFAULTCOMPONENT87</td><td>{6A3632EB-EB13-4A22-AAC8-E98958E25246}</td><td>EF</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ISX_DEFAULTCOMPONENT88</td><td>{3BCC2020-D8EC-43CC-95BB-7A0E96FFEA97}</td><td>F1</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ISX_DEFAULTCOMPONENT89</td><td>{1C8ACB08-838E-4468-8B6E-04142D617215}</td><td>F5</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ISX_DEFAULTCOMPONENT9</td><td>{02521A6B-6B62-42B7-8E6E-596E24C82546}</td><td>OBJECTS</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ISX_DEFAULTCOMPONENT90</td><td>{7A5DF59E-7724-4F04-9741-28AD4CA520B0}</td><td>F9</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ISX_DEFAULTCOMPONENT91</td><td>{EAE82C77-D9A9-4E52-9E15-CBF6D131BE14}</td><td>FA</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ISX_DEFAULTCOMPONENT92</td><td>{985C5C0E-6E9F-40E2-A350-A4DF7BB34FE2}</td><td>FB</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ISX_DEFAULTCOMPONENT93</td><td>{44D71B0A-CAA2-4D4C-9098-B0AD3D6D4A32}</td><td>INFO1</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ISX_DEFAULTCOMPONENT94</td><td>{EFC9160E-24FA-4C5E-9DED-E892C13D7C5F}</td><td>PACK</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ISX_DEFAULTCOMPONENT95</td><td>{DD8C0210-37FF-472D-BB77-177E085A0118}</td><td>REFS1</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ISX_DEFAULTCOMPONENT96</td><td>{33F63AE1-5E06-45E6-8C4F-C92B738524BB}</td><td>HEADS1</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ISX_DEFAULTCOMPONENT97</td><td>{F7DAD81F-01D7-4169-A7C3-36E89C46BB2F}</td><td>REMOTES1</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ISX_DEFAULTCOMPONENT98</td><td>{2A9F5126-A4BE-455B-B0B7-EF33C4F51B66}</td><td>ORIGIN</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ISX_DEFAULTCOMPONENT99</td><td>{A2746A36-05E4-401E-ADF1-45D58F474A36}</td><td>WBMAINT1</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>Properties.Resources.Designer.cs.dll</td><td>{6FC86281-FF93-45AD-9FFE-348E2B04139C}</td><td>TEMPPE</td><td>2</td><td/><td>properties.resources.designe</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>Properties.Resources.Designer.cs.dll1</td><td>{2D948841-BCF9-4106-97FD-4E557CBE56AB}</td><td>TEMPPE1</td><td>2</td><td/><td>properties.resources.designe1</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>WorkbrainArchivingTool.exe</td><td>{D43525AF-1346-446F-9A81-65BDBA95D165}</td><td>DEBUG</td><td>2</td><td/><td>workbrainarchivingtool.exe</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>WorkbrainArchivingTool.exe1</td><td>{2146A90D-A737-482E-A818-4FBEC0F8319D}</td><td>DEBUG2</td><td>2</td><td/><td>workbrainarchivingtool.exe1</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>WorkbrainArchivingTool.vshost.exe</td><td>{70B900EB-6F78-4353-93A1-75FDDE499159}</td><td>DEBUG</td><td>2</td><td/><td>workbrainarchivingtool.vshos1</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>WorkbrainArchivingTool.vshost.exe1</td><td>{B08B02E7-288A-4DFD-B6AA-BDFAAC1FA3BC}</td><td>DEBUG1</td><td>2</td><td/><td>workbrainarchivingtool.vshos4</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>setup.exe</td><td>{72E5EE09-5E08-40FC-BDB6-68B718E31F16}</td><td>APP.PUBLISH</td><td>2</td><td/><td>setup.exe</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
 	</table>
 
 	<table name="Condition">
@@ -1072,37 +1173,168 @@
 	<table name="CreateFolder">
 		<col key="yes" def="s72">Directory_</col>
 		<col key="yes" def="s72">Component_</col>
-		<row><td>APP.PUBLISH</td><td>ISX_DEFAULTCOMPONENT3</td></row>
+		<row><td>A1</td><td>ISX_DEFAULTCOMPONENT68</td></row>
+		<row><td>A6</td><td>ISX_DEFAULTCOMPONENT69</td></row>
+		<row><td>A9</td><td>ISX_DEFAULTCOMPONENT70</td></row>
+		<row><td>AA</td><td>ISX_DEFAULTCOMPONENT71</td></row>
+		<row><td>APP.PUBLISH</td><td>ISX_DEFAULTCOMPONENT104</td></row>
 		<row><td>APP.PUBLISH</td><td>setup.exe</td></row>
-		<row><td>APPLICATION_FILES</td><td>ISX_DEFAULTCOMPONENT4</td></row>
-		<row><td>BIN</td><td>ISX_DEFAULTCOMPONENT1</td></row>
+		<row><td>APPLICATION_FILES</td><td>ISX_DEFAULTCOMPONENT105</td></row>
+		<row><td>BB</td><td>ISX_DEFAULTCOMPONENT72</td></row>
+		<row><td>BF</td><td>ISX_DEFAULTCOMPONENT73</td></row>
+		<row><td>BIN</td><td>ISX_DEFAULTCOMPONENT102</td></row>
+		<row><td>C0</td><td>ISX_DEFAULTCOMPONENT74</td></row>
+		<row><td>C1</td><td>ISX_DEFAULTCOMPONENT75</td></row>
+		<row><td>C9</td><td>ISX_DEFAULTCOMPONENT76</td></row>
+		<row><td>CA</td><td>ISX_DEFAULTCOMPONENT77</td></row>
+		<row><td>CB</td><td>ISX_DEFAULTCOMPONENT78</td></row>
+		<row><td>D1</td><td>ISX_DEFAULTCOMPONENT79</td></row>
+		<row><td>D2</td><td>ISX_DEFAULTCOMPONENT80</td></row>
+		<row><td>D5</td><td>ISX_DEFAULTCOMPONENT81</td></row>
+		<row><td>DC</td><td>ISX_DEFAULTCOMPONENT82</td></row>
 		<row><td>DEBUG</td><td>IBM.Data.DB2.dll</td></row>
-		<row><td>DEBUG</td><td>ISX_DEFAULTCOMPONENT2</td></row>
+		<row><td>DEBUG</td><td>ISX_DEFAULTCOMPONENT103</td></row>
 		<row><td>DEBUG</td><td>WorkbrainArchivingTool.exe</td></row>
 		<row><td>DEBUG</td><td>WorkbrainArchivingTool.vshost.exe</td></row>
-		<row><td>DEBUG1</td><td>ISX_DEFAULTCOMPONENT8</td></row>
+		<row><td>DEBUG1</td><td>ISX_DEFAULTCOMPONENT109</td></row>
 		<row><td>DEBUG1</td><td>WorkbrainArchivingTool.vshost.exe1</td></row>
-		<row><td>DEBUG2</td><td>ISX_DEFAULTCOMPONENT10</td></row>
+		<row><td>DEBUG2</td><td>ISX_DEFAULTCOMPONENT111</td></row>
 		<row><td>DEBUG2</td><td>WorkbrainArchivingTool.exe1</td></row>
-		<row><td>DEBUG3</td><td>ISX_DEFAULTCOMPONENT13</td></row>
+		<row><td>DEBUG3</td><td>ISX_DEFAULTCOMPONENT114</td></row>
+		<row><td>E1</td><td>ISX_DEFAULTCOMPONENT83</td></row>
+		<row><td>E7</td><td>ISX_DEFAULTCOMPONENT84</td></row>
+		<row><td>E9</td><td>ISX_DEFAULTCOMPONENT85</td></row>
+		<row><td>EE</td><td>ISX_DEFAULTCOMPONENT86</td></row>
+		<row><td>EF</td><td>ISX_DEFAULTCOMPONENT87</td></row>
+		<row><td>F1</td><td>ISX_DEFAULTCOMPONENT88</td></row>
+		<row><td>F5</td><td>ISX_DEFAULTCOMPONENT89</td></row>
+		<row><td>F9</td><td>ISX_DEFAULTCOMPONENT90</td></row>
+		<row><td>FA</td><td>ISX_DEFAULTCOMPONENT91</td></row>
+		<row><td>FB</td><td>ISX_DEFAULTCOMPONENT92</td></row>
+		<row><td>HEADS</td><td>ISX_DEFAULTCOMPONENT6</td></row>
+		<row><td>HEADS1</td><td>ISX_DEFAULTCOMPONENT96</td></row>
+		<row><td>HOOKS</td><td>ISX_DEFAULTCOMPONENT2</td></row>
+		<row><td>INFO</td><td>ISX_DEFAULTCOMPONENT3</td></row>
+		<row><td>INFO1</td><td>ISX_DEFAULTCOMPONENT93</td></row>
 		<row><td>INSTALLDIR</td><td>IBM.Data.DB2.dll</td></row>
 		<row><td>INSTALLDIR</td><td>ISX_DEFAULTCOMPONENT</td></row>
 		<row><td>INSTALLDIR</td><td>ISX_DEFAULTCOMPONENT1</td></row>
 		<row><td>INSTALLDIR</td><td>ISX_DEFAULTCOMPONENT10</td></row>
+		<row><td>INSTALLDIR</td><td>ISX_DEFAULTCOMPONENT100</td></row>
+		<row><td>INSTALLDIR</td><td>ISX_DEFAULTCOMPONENT101</td></row>
+		<row><td>INSTALLDIR</td><td>ISX_DEFAULTCOMPONENT102</td></row>
+		<row><td>INSTALLDIR</td><td>ISX_DEFAULTCOMPONENT103</td></row>
+		<row><td>INSTALLDIR</td><td>ISX_DEFAULTCOMPONENT104</td></row>
+		<row><td>INSTALLDIR</td><td>ISX_DEFAULTCOMPONENT105</td></row>
+		<row><td>INSTALLDIR</td><td>ISX_DEFAULTCOMPONENT106</td></row>
+		<row><td>INSTALLDIR</td><td>ISX_DEFAULTCOMPONENT107</td></row>
+		<row><td>INSTALLDIR</td><td>ISX_DEFAULTCOMPONENT108</td></row>
+		<row><td>INSTALLDIR</td><td>ISX_DEFAULTCOMPONENT109</td></row>
 		<row><td>INSTALLDIR</td><td>ISX_DEFAULTCOMPONENT11</td></row>
+		<row><td>INSTALLDIR</td><td>ISX_DEFAULTCOMPONENT110</td></row>
+		<row><td>INSTALLDIR</td><td>ISX_DEFAULTCOMPONENT111</td></row>
+		<row><td>INSTALLDIR</td><td>ISX_DEFAULTCOMPONENT112</td></row>
+		<row><td>INSTALLDIR</td><td>ISX_DEFAULTCOMPONENT113</td></row>
+		<row><td>INSTALLDIR</td><td>ISX_DEFAULTCOMPONENT114</td></row>
+		<row><td>INSTALLDIR</td><td>ISX_DEFAULTCOMPONENT115</td></row>
+		<row><td>INSTALLDIR</td><td>ISX_DEFAULTCOMPONENT116</td></row>
+		<row><td>INSTALLDIR</td><td>ISX_DEFAULTCOMPONENT117</td></row>
 		<row><td>INSTALLDIR</td><td>ISX_DEFAULTCOMPONENT12</td></row>
 		<row><td>INSTALLDIR</td><td>ISX_DEFAULTCOMPONENT13</td></row>
 		<row><td>INSTALLDIR</td><td>ISX_DEFAULTCOMPONENT14</td></row>
 		<row><td>INSTALLDIR</td><td>ISX_DEFAULTCOMPONENT15</td></row>
 		<row><td>INSTALLDIR</td><td>ISX_DEFAULTCOMPONENT16</td></row>
+		<row><td>INSTALLDIR</td><td>ISX_DEFAULTCOMPONENT17</td></row>
+		<row><td>INSTALLDIR</td><td>ISX_DEFAULTCOMPONENT18</td></row>
+		<row><td>INSTALLDIR</td><td>ISX_DEFAULTCOMPONENT19</td></row>
 		<row><td>INSTALLDIR</td><td>ISX_DEFAULTCOMPONENT2</td></row>
+		<row><td>INSTALLDIR</td><td>ISX_DEFAULTCOMPONENT20</td></row>
+		<row><td>INSTALLDIR</td><td>ISX_DEFAULTCOMPONENT21</td></row>
+		<row><td>INSTALLDIR</td><td>ISX_DEFAULTCOMPONENT22</td></row>
+		<row><td>INSTALLDIR</td><td>ISX_DEFAULTCOMPONENT23</td></row>
+		<row><td>INSTALLDIR</td><td>ISX_DEFAULTCOMPONENT24</td></row>
+		<row><td>INSTALLDIR</td><td>ISX_DEFAULTCOMPONENT25</td></row>
+		<row><td>INSTALLDIR</td><td>ISX_DEFAULTCOMPONENT26</td></row>
+		<row><td>INSTALLDIR</td><td>ISX_DEFAULTCOMPONENT27</td></row>
+		<row><td>INSTALLDIR</td><td>ISX_DEFAULTCOMPONENT28</td></row>
+		<row><td>INSTALLDIR</td><td>ISX_DEFAULTCOMPONENT29</td></row>
 		<row><td>INSTALLDIR</td><td>ISX_DEFAULTCOMPONENT3</td></row>
+		<row><td>INSTALLDIR</td><td>ISX_DEFAULTCOMPONENT30</td></row>
+		<row><td>INSTALLDIR</td><td>ISX_DEFAULTCOMPONENT31</td></row>
+		<row><td>INSTALLDIR</td><td>ISX_DEFAULTCOMPONENT32</td></row>
+		<row><td>INSTALLDIR</td><td>ISX_DEFAULTCOMPONENT33</td></row>
+		<row><td>INSTALLDIR</td><td>ISX_DEFAULTCOMPONENT34</td></row>
+		<row><td>INSTALLDIR</td><td>ISX_DEFAULTCOMPONENT35</td></row>
+		<row><td>INSTALLDIR</td><td>ISX_DEFAULTCOMPONENT36</td></row>
+		<row><td>INSTALLDIR</td><td>ISX_DEFAULTCOMPONENT37</td></row>
+		<row><td>INSTALLDIR</td><td>ISX_DEFAULTCOMPONENT38</td></row>
+		<row><td>INSTALLDIR</td><td>ISX_DEFAULTCOMPONENT39</td></row>
 		<row><td>INSTALLDIR</td><td>ISX_DEFAULTCOMPONENT4</td></row>
+		<row><td>INSTALLDIR</td><td>ISX_DEFAULTCOMPONENT40</td></row>
+		<row><td>INSTALLDIR</td><td>ISX_DEFAULTCOMPONENT41</td></row>
+		<row><td>INSTALLDIR</td><td>ISX_DEFAULTCOMPONENT42</td></row>
+		<row><td>INSTALLDIR</td><td>ISX_DEFAULTCOMPONENT43</td></row>
+		<row><td>INSTALLDIR</td><td>ISX_DEFAULTCOMPONENT44</td></row>
+		<row><td>INSTALLDIR</td><td>ISX_DEFAULTCOMPONENT45</td></row>
+		<row><td>INSTALLDIR</td><td>ISX_DEFAULTCOMPONENT46</td></row>
+		<row><td>INSTALLDIR</td><td>ISX_DEFAULTCOMPONENT47</td></row>
+		<row><td>INSTALLDIR</td><td>ISX_DEFAULTCOMPONENT48</td></row>
+		<row><td>INSTALLDIR</td><td>ISX_DEFAULTCOMPONENT49</td></row>
 		<row><td>INSTALLDIR</td><td>ISX_DEFAULTCOMPONENT5</td></row>
+		<row><td>INSTALLDIR</td><td>ISX_DEFAULTCOMPONENT50</td></row>
+		<row><td>INSTALLDIR</td><td>ISX_DEFAULTCOMPONENT51</td></row>
+		<row><td>INSTALLDIR</td><td>ISX_DEFAULTCOMPONENT52</td></row>
+		<row><td>INSTALLDIR</td><td>ISX_DEFAULTCOMPONENT53</td></row>
+		<row><td>INSTALLDIR</td><td>ISX_DEFAULTCOMPONENT54</td></row>
+		<row><td>INSTALLDIR</td><td>ISX_DEFAULTCOMPONENT55</td></row>
+		<row><td>INSTALLDIR</td><td>ISX_DEFAULTCOMPONENT56</td></row>
+		<row><td>INSTALLDIR</td><td>ISX_DEFAULTCOMPONENT57</td></row>
+		<row><td>INSTALLDIR</td><td>ISX_DEFAULTCOMPONENT58</td></row>
+		<row><td>INSTALLDIR</td><td>ISX_DEFAULTCOMPONENT59</td></row>
 		<row><td>INSTALLDIR</td><td>ISX_DEFAULTCOMPONENT6</td></row>
+		<row><td>INSTALLDIR</td><td>ISX_DEFAULTCOMPONENT60</td></row>
+		<row><td>INSTALLDIR</td><td>ISX_DEFAULTCOMPONENT61</td></row>
+		<row><td>INSTALLDIR</td><td>ISX_DEFAULTCOMPONENT62</td></row>
+		<row><td>INSTALLDIR</td><td>ISX_DEFAULTCOMPONENT63</td></row>
+		<row><td>INSTALLDIR</td><td>ISX_DEFAULTCOMPONENT64</td></row>
+		<row><td>INSTALLDIR</td><td>ISX_DEFAULTCOMPONENT65</td></row>
+		<row><td>INSTALLDIR</td><td>ISX_DEFAULTCOMPONENT66</td></row>
+		<row><td>INSTALLDIR</td><td>ISX_DEFAULTCOMPONENT67</td></row>
+		<row><td>INSTALLDIR</td><td>ISX_DEFAULTCOMPONENT68</td></row>
+		<row><td>INSTALLDIR</td><td>ISX_DEFAULTCOMPONENT69</td></row>
 		<row><td>INSTALLDIR</td><td>ISX_DEFAULTCOMPONENT7</td></row>
+		<row><td>INSTALLDIR</td><td>ISX_DEFAULTCOMPONENT70</td></row>
+		<row><td>INSTALLDIR</td><td>ISX_DEFAULTCOMPONENT71</td></row>
+		<row><td>INSTALLDIR</td><td>ISX_DEFAULTCOMPONENT72</td></row>
+		<row><td>INSTALLDIR</td><td>ISX_DEFAULTCOMPONENT73</td></row>
+		<row><td>INSTALLDIR</td><td>ISX_DEFAULTCOMPONENT74</td></row>
+		<row><td>INSTALLDIR</td><td>ISX_DEFAULTCOMPONENT75</td></row>
+		<row><td>INSTALLDIR</td><td>ISX_DEFAULTCOMPONENT76</td></row>
+		<row><td>INSTALLDIR</td><td>ISX_DEFAULTCOMPONENT77</td></row>
+		<row><td>INSTALLDIR</td><td>ISX_DEFAULTCOMPONENT78</td></row>
+		<row><td>INSTALLDIR</td><td>ISX_DEFAULTCOMPONENT79</td></row>
 		<row><td>INSTALLDIR</td><td>ISX_DEFAULTCOMPONENT8</td></row>
+		<row><td>INSTALLDIR</td><td>ISX_DEFAULTCOMPONENT80</td></row>
+		<row><td>INSTALLDIR</td><td>ISX_DEFAULTCOMPONENT81</td></row>
+		<row><td>INSTALLDIR</td><td>ISX_DEFAULTCOMPONENT82</td></row>
+		<row><td>INSTALLDIR</td><td>ISX_DEFAULTCOMPONENT83</td></row>
+		<row><td>INSTALLDIR</td><td>ISX_DEFAULTCOMPONENT84</td></row>
+		<row><td>INSTALLDIR</td><td>ISX_DEFAULTCOMPONENT85</td></row>
+		<row><td>INSTALLDIR</td><td>ISX_DEFAULTCOMPONENT86</td></row>
+		<row><td>INSTALLDIR</td><td>ISX_DEFAULTCOMPONENT87</td></row>
+		<row><td>INSTALLDIR</td><td>ISX_DEFAULTCOMPONENT88</td></row>
+		<row><td>INSTALLDIR</td><td>ISX_DEFAULTCOMPONENT89</td></row>
 		<row><td>INSTALLDIR</td><td>ISX_DEFAULTCOMPONENT9</td></row>
+		<row><td>INSTALLDIR</td><td>ISX_DEFAULTCOMPONENT90</td></row>
+		<row><td>INSTALLDIR</td><td>ISX_DEFAULTCOMPONENT91</td></row>
+		<row><td>INSTALLDIR</td><td>ISX_DEFAULTCOMPONENT92</td></row>
+		<row><td>INSTALLDIR</td><td>ISX_DEFAULTCOMPONENT93</td></row>
+		<row><td>INSTALLDIR</td><td>ISX_DEFAULTCOMPONENT94</td></row>
+		<row><td>INSTALLDIR</td><td>ISX_DEFAULTCOMPONENT95</td></row>
+		<row><td>INSTALLDIR</td><td>ISX_DEFAULTCOMPONENT96</td></row>
+		<row><td>INSTALLDIR</td><td>ISX_DEFAULTCOMPONENT97</td></row>
+		<row><td>INSTALLDIR</td><td>ISX_DEFAULTCOMPONENT98</td></row>
+		<row><td>INSTALLDIR</td><td>ISX_DEFAULTCOMPONENT99</td></row>
 		<row><td>INSTALLDIR</td><td>Properties.Resources.Designer.cs.dll</td></row>
 		<row><td>INSTALLDIR</td><td>Properties.Resources.Designer.cs.dll1</td></row>
 		<row><td>INSTALLDIR</td><td>WorkbrainArchivingTool.exe</td></row>
@@ -1110,18 +1342,88 @@
 		<row><td>INSTALLDIR</td><td>WorkbrainArchivingTool.vshost.exe</td></row>
 		<row><td>INSTALLDIR</td><td>WorkbrainArchivingTool.vshost.exe1</td></row>
 		<row><td>INSTALLDIR</td><td>setup.exe</td></row>
-		<row><td>OBJ</td><td>ISX_DEFAULTCOMPONENT9</td></row>
-		<row><td>PROPERTIES</td><td>ISX_DEFAULTCOMPONENT15</td></row>
-		<row><td>RELEASE</td><td>ISX_DEFAULTCOMPONENT6</td></row>
-		<row><td>RESOURCES</td><td>ISX_DEFAULTCOMPONENT16</td></row>
-		<row><td>TEMPPE</td><td>ISX_DEFAULTCOMPONENT11</td></row>
+		<row><td>LOGS</td><td>ISX_DEFAULTCOMPONENT4</td></row>
+		<row><td>OBJ</td><td>ISX_DEFAULTCOMPONENT110</td></row>
+		<row><td>OBJECTS</td><td>ISX_DEFAULTCOMPONENT9</td></row>
+		<row><td>ORIGIN</td><td>ISX_DEFAULTCOMPONENT98</td></row>
+		<row><td>PACK</td><td>ISX_DEFAULTCOMPONENT94</td></row>
+		<row><td>PROPERTIES</td><td>ISX_DEFAULTCOMPONENT116</td></row>
+		<row><td>REFS</td><td>ISX_DEFAULTCOMPONENT5</td></row>
+		<row><td>REFS1</td><td>ISX_DEFAULTCOMPONENT95</td></row>
+		<row><td>RELEASE</td><td>ISX_DEFAULTCOMPONENT107</td></row>
+		<row><td>REMOTES</td><td>ISX_DEFAULTCOMPONENT7</td></row>
+		<row><td>REMOTES1</td><td>ISX_DEFAULTCOMPONENT97</td></row>
+		<row><td>RESOURCES</td><td>ISX_DEFAULTCOMPONENT117</td></row>
+		<row><td>TAGS</td><td>ISX_DEFAULTCOMPONENT100</td></row>
+		<row><td>TEMPPE</td><td>ISX_DEFAULTCOMPONENT112</td></row>
 		<row><td>TEMPPE</td><td>Properties.Resources.Designer.cs.dll</td></row>
-		<row><td>TEMPPE1</td><td>ISX_DEFAULTCOMPONENT14</td></row>
+		<row><td>TEMPPE1</td><td>ISX_DEFAULTCOMPONENT115</td></row>
 		<row><td>TEMPPE1</td><td>Properties.Resources.Designer.cs.dll1</td></row>
+		<row><td>WBMAINT</td><td>ISX_DEFAULTCOMPONENT8</td></row>
+		<row><td>WBMAINT1</td><td>ISX_DEFAULTCOMPONENT99</td></row>
 		<row><td>WORKBRAINARCHIVINGTOOL</td><td>ISX_DEFAULTCOMPONENT</td></row>
-		<row><td>WORKBRAINARCHIVINGTOOL_1_0_0_0</td><td>ISX_DEFAULTCOMPONENT5</td></row>
-		<row><td>X86</td><td>ISX_DEFAULTCOMPONENT7</td></row>
-		<row><td>X861</td><td>ISX_DEFAULTCOMPONENT12</td></row>
+		<row><td>WORKBRAINARCHIVINGTOOL1</td><td>ISX_DEFAULTCOMPONENT101</td></row>
+		<row><td>WORKBRAINARCHIVINGTOOL_1_0_0_0</td><td>ISX_DEFAULTCOMPONENT106</td></row>
+		<row><td>X86</td><td>ISX_DEFAULTCOMPONENT108</td></row>
+		<row><td>X861</td><td>ISX_DEFAULTCOMPONENT113</td></row>
+		<row><td>_0</td><td>ISX_DEFAULTCOMPONENT10</td></row>
+		<row><td>_01</td><td>ISX_DEFAULTCOMPONENT14</td></row>
+		<row><td>_02</td><td>ISX_DEFAULTCOMPONENT24</td></row>
+		<row><td>_03</td><td>ISX_DEFAULTCOMPONENT42</td></row>
+		<row><td>_04</td><td>ISX_DEFAULTCOMPONENT62</td></row>
+		<row><td>_1</td><td>ISX_DEFAULTCOMPONENT26</td></row>
+		<row><td>_11</td><td>ISX_DEFAULTCOMPONENT43</td></row>
+		<row><td>_12</td><td>ISX_DEFAULTCOMPONENT49</td></row>
+		<row><td>_13</td><td>ISX_DEFAULTCOMPONENT54</td></row>
+		<row><td>_2</td><td>ISX_DEFAULTCOMPONENT15</td></row>
+		<row><td>_21</td><td>ISX_DEFAULTCOMPONENT25</td></row>
+		<row><td>_22</td><td>ISX_DEFAULTCOMPONENT27</td></row>
+		<row><td>_23</td><td>ISX_DEFAULTCOMPONENT38</td></row>
+		<row><td>_24</td><td>ISX_DEFAULTCOMPONENT44</td></row>
+		<row><td>_3</td><td>ISX_DEFAULTCOMPONENT28</td></row>
+		<row><td>_31</td><td>ISX_DEFAULTCOMPONENT33</td></row>
+		<row><td>_32</td><td>ISX_DEFAULTCOMPONENT39</td></row>
+		<row><td>_4</td><td>ISX_DEFAULTCOMPONENT40</td></row>
+		<row><td>_41</td><td>ISX_DEFAULTCOMPONENT50</td></row>
+		<row><td>_42</td><td>ISX_DEFAULTCOMPONENT55</td></row>
+		<row><td>_5</td><td>ISX_DEFAULTCOMPONENT11</td></row>
+		<row><td>_51</td><td>ISX_DEFAULTCOMPONENT16</td></row>
+		<row><td>_52</td><td>ISX_DEFAULTCOMPONENT45</td></row>
+		<row><td>_53</td><td>ISX_DEFAULTCOMPONENT51</td></row>
+		<row><td>_54</td><td>ISX_DEFAULTCOMPONENT56</td></row>
+		<row><td>_6</td><td>ISX_DEFAULTCOMPONENT41</td></row>
+		<row><td>_61</td><td>ISX_DEFAULTCOMPONENT63</td></row>
+		<row><td>_7</td><td>ISX_DEFAULTCOMPONENT18</td></row>
+		<row><td>_71</td><td>ISX_DEFAULTCOMPONENT29</td></row>
+		<row><td>_72</td><td>ISX_DEFAULTCOMPONENT52</td></row>
+		<row><td>_73</td><td>ISX_DEFAULTCOMPONENT64</td></row>
+		<row><td>_8</td><td>ISX_DEFAULTCOMPONENT30</td></row>
+		<row><td>_81</td><td>ISX_DEFAULTCOMPONENT34</td></row>
+		<row><td>_82</td><td>ISX_DEFAULTCOMPONENT46</td></row>
+		<row><td>_83</td><td>ISX_DEFAULTCOMPONENT53</td></row>
+		<row><td>_9</td><td>ISX_DEFAULTCOMPONENT19</td></row>
+		<row><td>_91</td><td>ISX_DEFAULTCOMPONENT31</td></row>
+		<row><td>_92</td><td>ISX_DEFAULTCOMPONENT65</td></row>
+		<row><td>_A</td><td>ISX_DEFAULTCOMPONENT12</td></row>
+		<row><td>_A1</td><td>ISX_DEFAULTCOMPONENT20</td></row>
+		<row><td>_A2</td><td>ISX_DEFAULTCOMPONENT57</td></row>
+		<row><td>_B</td><td>ISX_DEFAULTCOMPONENT21</td></row>
+		<row><td>_B1</td><td>ISX_DEFAULTCOMPONENT35</td></row>
+		<row><td>_B2</td><td>ISX_DEFAULTCOMPONENT66</td></row>
+		<row><td>_C</td><td>ISX_DEFAULTCOMPONENT36</td></row>
+		<row><td>_C1</td><td>ISX_DEFAULTCOMPONENT58</td></row>
+		<row><td>_D</td><td>ISX_DEFAULTCOMPONENT22</td></row>
+		<row><td>_D1</td><td>ISX_DEFAULTCOMPONENT37</td></row>
+		<row><td>_D2</td><td>ISX_DEFAULTCOMPONENT47</td></row>
+		<row><td>_D3</td><td>ISX_DEFAULTCOMPONENT59</td></row>
+		<row><td>_E</td><td>ISX_DEFAULTCOMPONENT32</td></row>
+		<row><td>_E1</td><td>ISX_DEFAULTCOMPONENT48</td></row>
+		<row><td>_E2</td><td>ISX_DEFAULTCOMPONENT60</td></row>
+		<row><td>_E3</td><td>ISX_DEFAULTCOMPONENT67</td></row>
+		<row><td>_F</td><td>ISX_DEFAULTCOMPONENT13</td></row>
+		<row><td>_F1</td><td>ISX_DEFAULTCOMPONENT23</td></row>
+		<row><td>_F2</td><td>ISX_DEFAULTCOMPONENT61</td></row>
+		<row><td>_GIT</td><td>ISX_DEFAULTCOMPONENT1</td></row>
 	</table>
 
 	<table name="CustomAction">
@@ -1200,44 +1502,82 @@
 		<col def="S255">ISDescription</col>
 		<col def="I4">ISAttributes</col>
 		<col def="S255">ISFolderName</col>
+		<row><td>A1</td><td>OBJECTS</td><td>a1</td><td/><td>0</td><td/></row>
+		<row><td>A6</td><td>OBJECTS</td><td>a6</td><td/><td>0</td><td/></row>
+		<row><td>A9</td><td>OBJECTS</td><td>a9</td><td/><td>0</td><td/></row>
+		<row><td>AA</td><td>OBJECTS</td><td>aa</td><td/><td>0</td><td/></row>
 		<row><td>ALLUSERSPROFILE</td><td>TARGETDIR</td><td>.:ALLUSE~1|All Users</td><td/><td>0</td><td/></row>
 		<row><td>APP.PUBLISH</td><td>DEBUG</td><td>APP_PU~1|app.publish</td><td/><td>0</td><td/></row>
 		<row><td>APPLICATION_FILES</td><td>APP.PUBLISH</td><td>APPLIC~1|Application Files</td><td/><td>0</td><td/></row>
 		<row><td>AdminToolsFolder</td><td>TARGETDIR</td><td>.:Admint~1|AdminTools</td><td/><td>0</td><td/></row>
 		<row><td>AppDataFolder</td><td>TARGETDIR</td><td>.:APPLIC~1|Application Data</td><td/><td>0</td><td/></row>
-		<row><td>BIN</td><td>WORKBRAINARCHIVINGTOOL</td><td>bin</td><td/><td>0</td><td/></row>
+		<row><td>BB</td><td>OBJECTS</td><td>bb</td><td/><td>0</td><td/></row>
+		<row><td>BF</td><td>OBJECTS</td><td>bf</td><td/><td>0</td><td/></row>
+		<row><td>BIN</td><td>WORKBRAINARCHIVINGTOOL1</td><td>bin</td><td/><td>0</td><td/></row>
+		<row><td>C0</td><td>OBJECTS</td><td>c0</td><td/><td>0</td><td/></row>
+		<row><td>C1</td><td>OBJECTS</td><td>c1</td><td/><td>0</td><td/></row>
+		<row><td>C9</td><td>OBJECTS</td><td>c9</td><td/><td>0</td><td/></row>
+		<row><td>CA</td><td>OBJECTS</td><td>ca</td><td/><td>0</td><td/></row>
+		<row><td>CB</td><td>OBJECTS</td><td>cb</td><td/><td>0</td><td/></row>
 		<row><td>CommonAppDataFolder</td><td>TARGETDIR</td><td>.:Common~1|CommonAppData</td><td/><td>0</td><td/></row>
 		<row><td>CommonFiles64Folder</td><td>TARGETDIR</td><td>.:Common64</td><td/><td>0</td><td/></row>
 		<row><td>CommonFilesFolder</td><td>TARGETDIR</td><td>.:Common</td><td/><td>0</td><td/></row>
+		<row><td>D1</td><td>OBJECTS</td><td>d1</td><td/><td>0</td><td/></row>
+		<row><td>D2</td><td>OBJECTS</td><td>d2</td><td/><td>0</td><td/></row>
+		<row><td>D5</td><td>OBJECTS</td><td>d5</td><td/><td>0</td><td/></row>
 		<row><td>DATABASEDIR</td><td>ISYourDataBaseDir</td><td>.</td><td/><td>0</td><td/></row>
+		<row><td>DC</td><td>OBJECTS</td><td>dc</td><td/><td>0</td><td/></row>
 		<row><td>DEBUG</td><td>BIN</td><td>Debug</td><td/><td>0</td><td/></row>
 		<row><td>DEBUG1</td><td>X86</td><td>Debug</td><td/><td>0</td><td/></row>
 		<row><td>DEBUG2</td><td>OBJ</td><td>Debug</td><td/><td>0</td><td/></row>
 		<row><td>DEBUG3</td><td>X861</td><td>Debug</td><td/><td>0</td><td/></row>
 		<row><td>DesktopFolder</td><td>TARGETDIR</td><td>.:Desktop</td><td/><td>3</td><td/></row>
+		<row><td>E1</td><td>OBJECTS</td><td>e1</td><td/><td>0</td><td/></row>
+		<row><td>E7</td><td>OBJECTS</td><td>e7</td><td/><td>0</td><td/></row>
+		<row><td>E9</td><td>OBJECTS</td><td>e9</td><td/><td>0</td><td/></row>
+		<row><td>EE</td><td>OBJECTS</td><td>ee</td><td/><td>0</td><td/></row>
+		<row><td>EF</td><td>OBJECTS</td><td>ef</td><td/><td>0</td><td/></row>
+		<row><td>F1</td><td>OBJECTS</td><td>f1</td><td/><td>0</td><td/></row>
+		<row><td>F5</td><td>OBJECTS</td><td>f5</td><td/><td>0</td><td/></row>
+		<row><td>F9</td><td>OBJECTS</td><td>f9</td><td/><td>0</td><td/></row>
+		<row><td>FA</td><td>OBJECTS</td><td>fa</td><td/><td>0</td><td/></row>
+		<row><td>FB</td><td>OBJECTS</td><td>fb</td><td/><td>0</td><td/></row>
 		<row><td>FavoritesFolder</td><td>TARGETDIR</td><td>.:FAVORI~1|Favorites</td><td/><td>0</td><td/></row>
 		<row><td>FontsFolder</td><td>TARGETDIR</td><td>.:Fonts</td><td/><td>0</td><td/></row>
 		<row><td>GlobalAssemblyCache</td><td>TARGETDIR</td><td>.:Global~1|GlobalAssemblyCache</td><td/><td>0</td><td/></row>
+		<row><td>HEADS</td><td>REFS</td><td>heads</td><td/><td>0</td><td/></row>
+		<row><td>HEADS1</td><td>REFS1</td><td>heads</td><td/><td>0</td><td/></row>
+		<row><td>HOOKS</td><td>_GIT</td><td>hooks</td><td/><td>0</td><td/></row>
+		<row><td>INFO</td><td>_GIT</td><td>info</td><td/><td>0</td><td/></row>
+		<row><td>INFO1</td><td>OBJECTS</td><td>info</td><td/><td>0</td><td/></row>
 		<row><td>INSTALLDIR</td><td>MY_PRODUCT_NAME1</td><td>.</td><td/><td>0</td><td/></row>
 		<row><td>ISCommonFilesFolder</td><td>CommonFilesFolder</td><td>Instal~1|InstallShield</td><td/><td>0</td><td/></row>
 		<row><td>ISMyCompanyDir</td><td>ProgramFilesFolder</td><td>MYCOMP~1|My Company Name</td><td/><td>0</td><td/></row>
 		<row><td>ISMyProductDir</td><td>ISMyCompanyDir</td><td>MYPROD~1|My Product Name</td><td/><td>0</td><td/></row>
 		<row><td>ISYourDataBaseDir</td><td>INSTALLDIR</td><td>Database</td><td/><td>0</td><td/></row>
+		<row><td>LOGS</td><td>_GIT</td><td>logs</td><td/><td>0</td><td/></row>
 		<row><td>LocalAppDataFolder</td><td>TARGETDIR</td><td>.:LocalA~1|LocalAppData</td><td/><td>0</td><td/></row>
 		<row><td>MY_PRODUCT_NAME</td><td>SAFEWAY__INC.</td><td>MYPROD~1|My Product Name</td><td/><td>0</td><td/></row>
 		<row><td>MY_PRODUCT_NAME1</td><td>SAFEWAY_INC.</td><td>MYPROD~1|My Product Name</td><td/><td>0</td><td/></row>
 		<row><td>MyPicturesFolder</td><td>TARGETDIR</td><td>.:MyPict~1|MyPictures</td><td/><td>0</td><td/></row>
 		<row><td>NetHoodFolder</td><td>TARGETDIR</td><td>.:NetHood</td><td/><td>0</td><td/></row>
-		<row><td>OBJ</td><td>WORKBRAINARCHIVINGTOOL</td><td>obj</td><td/><td>0</td><td/></row>
-		<row><td>PROPERTIES</td><td>WORKBRAINARCHIVINGTOOL</td><td>PROPER~1|Properties</td><td/><td>0</td><td/></row>
+		<row><td>OBJ</td><td>WORKBRAINARCHIVINGTOOL1</td><td>obj</td><td/><td>0</td><td/></row>
+		<row><td>OBJECTS</td><td>_GIT</td><td>objects</td><td/><td>0</td><td/></row>
+		<row><td>ORIGIN</td><td>REMOTES1</td><td>origin</td><td/><td>0</td><td/></row>
+		<row><td>PACK</td><td>OBJECTS</td><td>pack</td><td/><td>0</td><td/></row>
+		<row><td>PROPERTIES</td><td>WORKBRAINARCHIVINGTOOL1</td><td>PROPER~1|Properties</td><td/><td>0</td><td/></row>
 		<row><td>PersonalFolder</td><td>TARGETDIR</td><td>.:Personal</td><td/><td>0</td><td/></row>
 		<row><td>PrimaryVolumePath</td><td>TARGETDIR</td><td>.:Primar~1|PrimaryVolumePath</td><td/><td>0</td><td/></row>
 		<row><td>PrintHoodFolder</td><td>TARGETDIR</td><td>.:PRINTH~1|PrintHood</td><td/><td>0</td><td/></row>
 		<row><td>ProgramFiles64Folder</td><td>TARGETDIR</td><td>.:Prog64~1|Program Files 64</td><td/><td>0</td><td/></row>
 		<row><td>ProgramFilesFolder</td><td>TARGETDIR</td><td>.:PROGRA~1|program files</td><td/><td>0</td><td/></row>
 		<row><td>ProgramMenuFolder</td><td>TARGETDIR</td><td>.:Programs</td><td/><td>3</td><td/></row>
+		<row><td>REFS</td><td>LOGS</td><td>refs</td><td/><td>0</td><td/></row>
+		<row><td>REFS1</td><td>_GIT</td><td>refs</td><td/><td>0</td><td/></row>
 		<row><td>RELEASE</td><td>BIN</td><td>Release</td><td/><td>0</td><td/></row>
-		<row><td>RESOURCES</td><td>WORKBRAINARCHIVINGTOOL</td><td>RESOUR~1|Resources</td><td/><td>0</td><td/></row>
+		<row><td>REMOTES</td><td>REFS</td><td>remotes</td><td/><td>0</td><td/></row>
+		<row><td>REMOTES1</td><td>REFS1</td><td>remotes</td><td/><td>0</td><td/></row>
+		<row><td>RESOURCES</td><td>WORKBRAINARCHIVINGTOOL1</td><td>RESOUR~1|Resources</td><td/><td>0</td><td/></row>
 		<row><td>RecentFolder</td><td>TARGETDIR</td><td>.:Recent</td><td/><td>0</td><td/></row>
 		<row><td>SAFEWAY_INC.</td><td>ProgramFilesFolder</td><td>SAFEWA~1|Safeway Inc.</td><td/><td>0</td><td/></row>
 		<row><td>SAFEWAY__INC.</td><td>ProgramFilesFolder</td><td>SAFEWA~1|Safeway, Inc.</td><td/><td>0</td><td/></row>
@@ -1247,20 +1587,83 @@
 		<row><td>System16Folder</td><td>TARGETDIR</td><td>.:System</td><td/><td>0</td><td/></row>
 		<row><td>System64Folder</td><td>TARGETDIR</td><td>.:System64</td><td/><td>0</td><td/></row>
 		<row><td>SystemFolder</td><td>TARGETDIR</td><td>.:System32</td><td/><td>0</td><td/></row>
+		<row><td>TAGS</td><td>REFS1</td><td>tags</td><td/><td>0</td><td/></row>
 		<row><td>TARGETDIR</td><td/><td>SourceDir</td><td/><td>0</td><td/></row>
 		<row><td>TEMPPE</td><td>DEBUG2</td><td>TempPE</td><td/><td>0</td><td/></row>
 		<row><td>TEMPPE1</td><td>DEBUG3</td><td>TempPE</td><td/><td>0</td><td/></row>
 		<row><td>TempFolder</td><td>TARGETDIR</td><td>.:Temp</td><td/><td>0</td><td/></row>
 		<row><td>TemplateFolder</td><td>TARGETDIR</td><td>.:ShellNew</td><td/><td>0</td><td/></row>
 		<row><td>USERPROFILE</td><td>TARGETDIR</td><td>.:USERPR~1|UserProfile</td><td/><td>0</td><td/></row>
+		<row><td>WBMAINT</td><td>REMOTES</td><td>wbMaint</td><td/><td>0</td><td/></row>
+		<row><td>WBMAINT1</td><td>REMOTES1</td><td>wbMaint</td><td/><td>0</td><td/></row>
 		<row><td>WORKBRAINARCHIVINGTOOL</td><td>INSTALLDIR</td><td>WORKBR~1|WorkbrainArchivingTool</td><td/><td>0</td><td/></row>
+		<row><td>WORKBRAINARCHIVINGTOOL1</td><td>WORKBRAINARCHIVINGTOOL</td><td>WORKBR~1|WorkbrainArchivingTool</td><td/><td>0</td><td/></row>
 		<row><td>WORKBRAINARCHIVINGTOOL_1_0_0_0</td><td>APPLICATION_FILES</td><td>WORKBR~1|WorkbrainArchivingTool_1_0_0_0</td><td/><td>0</td><td/></row>
 		<row><td>WindowsFolder</td><td>TARGETDIR</td><td>.:Windows</td><td/><td>0</td><td/></row>
 		<row><td>WindowsVolume</td><td>TARGETDIR</td><td>.:WinRoot</td><td/><td>0</td><td/></row>
 		<row><td>X86</td><td>BIN</td><td>x86</td><td/><td>0</td><td/></row>
 		<row><td>X861</td><td>OBJ</td><td>x86</td><td/><td>0</td><td/></row>
+		<row><td>_0</td><td>OBJECTS</td><td>00</td><td/><td>0</td><td/></row>
+		<row><td>_01</td><td>OBJECTS</td><td>10</td><td/><td>0</td><td/></row>
+		<row><td>_02</td><td>OBJECTS</td><td>20</td><td/><td>0</td><td/></row>
+		<row><td>_03</td><td>OBJECTS</td><td>60</td><td/><td>0</td><td/></row>
+		<row><td>_04</td><td>OBJECTS</td><td>90</td><td/><td>0</td><td/></row>
+		<row><td>_1</td><td>OBJECTS</td><td>31</td><td/><td>0</td><td/></row>
+		<row><td>_11</td><td>OBJECTS</td><td>61</td><td/><td>0</td><td/></row>
+		<row><td>_12</td><td>OBJECTS</td><td>71</td><td/><td>0</td><td/></row>
+		<row><td>_13</td><td>OBJECTS</td><td>81</td><td/><td>0</td><td/></row>
+		<row><td>_2</td><td>OBJECTS</td><td>12</td><td/><td>0</td><td/></row>
+		<row><td>_21</td><td>OBJECTS</td><td>22</td><td/><td>0</td><td/></row>
+		<row><td>_22</td><td>OBJECTS</td><td>32</td><td/><td>0</td><td/></row>
+		<row><td>_23</td><td>OBJECTS</td><td>52</td><td/><td>0</td><td/></row>
+		<row><td>_24</td><td>OBJECTS</td><td>62</td><td/><td>0</td><td/></row>
+		<row><td>_3</td><td>OBJECTS</td><td>33</td><td/><td>0</td><td/></row>
+		<row><td>_31</td><td>OBJECTS</td><td>43</td><td/><td>0</td><td/></row>
+		<row><td>_32</td><td>OBJECTS</td><td>53</td><td/><td>0</td><td/></row>
+		<row><td>_4</td><td>OBJECTS</td><td>54</td><td/><td>0</td><td/></row>
+		<row><td>_41</td><td>OBJECTS</td><td>74</td><td/><td>0</td><td/></row>
+		<row><td>_42</td><td>OBJECTS</td><td>84</td><td/><td>0</td><td/></row>
+		<row><td>_5</td><td>OBJECTS</td><td>05</td><td/><td>0</td><td/></row>
+		<row><td>_51</td><td>OBJECTS</td><td>15</td><td/><td>0</td><td/></row>
+		<row><td>_52</td><td>OBJECTS</td><td>65</td><td/><td>0</td><td/></row>
+		<row><td>_53</td><td>OBJECTS</td><td>75</td><td/><td>0</td><td/></row>
+		<row><td>_54</td><td>OBJECTS</td><td>85</td><td/><td>0</td><td/></row>
+		<row><td>_6</td><td>OBJECTS</td><td>56</td><td/><td>0</td><td/></row>
+		<row><td>_61</td><td>OBJECTS</td><td>96</td><td/><td>0</td><td/></row>
+		<row><td>_7</td><td>OBJECTS</td><td>17</td><td/><td>0</td><td/></row>
+		<row><td>_71</td><td>OBJECTS</td><td>37</td><td/><td>0</td><td/></row>
+		<row><td>_72</td><td>OBJECTS</td><td>77</td><td/><td>0</td><td/></row>
+		<row><td>_73</td><td>OBJECTS</td><td>97</td><td/><td>0</td><td/></row>
+		<row><td>_8</td><td>OBJECTS</td><td>38</td><td/><td>0</td><td/></row>
+		<row><td>_81</td><td>OBJECTS</td><td>48</td><td/><td>0</td><td/></row>
+		<row><td>_82</td><td>OBJECTS</td><td>68</td><td/><td>0</td><td/></row>
+		<row><td>_83</td><td>OBJECTS</td><td>78</td><td/><td>0</td><td/></row>
+		<row><td>_9</td><td>OBJECTS</td><td>19</td><td/><td>0</td><td/></row>
+		<row><td>_91</td><td>OBJECTS</td><td>39</td><td/><td>0</td><td/></row>
+		<row><td>_92</td><td>OBJECTS</td><td>99</td><td/><td>0</td><td/></row>
+		<row><td>_A</td><td>OBJECTS</td><td>0a</td><td/><td>0</td><td/></row>
+		<row><td>_A1</td><td>OBJECTS</td><td>1a</td><td/><td>0</td><td/></row>
+		<row><td>_A2</td><td>OBJECTS</td><td>8a</td><td/><td>0</td><td/></row>
+		<row><td>_B</td><td>OBJECTS</td><td>1b</td><td/><td>0</td><td/></row>
+		<row><td>_B1</td><td>OBJECTS</td><td>4b</td><td/><td>0</td><td/></row>
+		<row><td>_B2</td><td>OBJECTS</td><td>9b</td><td/><td>0</td><td/></row>
+		<row><td>_C</td><td>OBJECTS</td><td>4c</td><td/><td>0</td><td/></row>
+		<row><td>_C1</td><td>OBJECTS</td><td>8c</td><td/><td>0</td><td/></row>
+		<row><td>_D</td><td>OBJECTS</td><td>1d</td><td/><td>0</td><td/></row>
+		<row><td>_D1</td><td>OBJECTS</td><td>4d</td><td/><td>0</td><td/></row>
+		<row><td>_D2</td><td>OBJECTS</td><td>6d</td><td/><td>0</td><td/></row>
+		<row><td>_D3</td><td>OBJECTS</td><td>8d</td><td/><td>0</td><td/></row>
+		<row><td>_E</td><td>OBJECTS</td><td>3e</td><td/><td>0</td><td/></row>
+		<row><td>_E1</td><td>OBJECTS</td><td>6e</td><td/><td>0</td><td/></row>
+		<row><td>_E2</td><td>OBJECTS</td><td>8e</td><td/><td>0</td><td/></row>
+		<row><td>_E3</td><td>OBJECTS</td><td>9e</td><td/><td>0</td><td/></row>
+		<row><td>_F</td><td>OBJECTS</td><td>0f</td><td/><td>0</td><td/></row>
+		<row><td>_F1</td><td>OBJECTS</td><td>1f</td><td/><td>0</td><td/></row>
+		<row><td>_F2</td><td>OBJECTS</td><td>8f</td><td/><td>0</td><td/></row>
+		<row><td>_GIT</td><td>WORKBRAINARCHIVINGTOOL</td><td>.git</td><td/><td>0</td><td/></row>
 		<row><td>safewa_1_safeway_inc.</td><td>ProgramMenuFolder</td><td>SAFEWA~1|Safeway Inc.</td><td/><td>1</td><td/></row>
 		<row><td>wbarch_1_wbarchivingsetup</td><td>safewa_1_safeway_inc.</td><td>WBARCH~1|WBArchivingSetup</td><td/><td>1</td><td/></row>
+		<row><td>workbr_1_workbrain_archiving_tool</td><td>safewa_1_safeway_inc.</td><td>WORKBR~1|Workbrain Archiving Tool</td><td/><td>1</td><td/></row>
 	</table>
 
 	<table name="DrLocator">
@@ -1956,20 +2359,121 @@
 		<row><td>AlwaysInstall</td><td>ISX_DEFAULTCOMPONENT</td></row>
 		<row><td>AlwaysInstall</td><td>ISX_DEFAULTCOMPONENT1</td></row>
 		<row><td>AlwaysInstall</td><td>ISX_DEFAULTCOMPONENT10</td></row>
+		<row><td>AlwaysInstall</td><td>ISX_DEFAULTCOMPONENT100</td></row>
+		<row><td>AlwaysInstall</td><td>ISX_DEFAULTCOMPONENT101</td></row>
+		<row><td>AlwaysInstall</td><td>ISX_DEFAULTCOMPONENT102</td></row>
+		<row><td>AlwaysInstall</td><td>ISX_DEFAULTCOMPONENT103</td></row>
+		<row><td>AlwaysInstall</td><td>ISX_DEFAULTCOMPONENT104</td></row>
+		<row><td>AlwaysInstall</td><td>ISX_DEFAULTCOMPONENT105</td></row>
+		<row><td>AlwaysInstall</td><td>ISX_DEFAULTCOMPONENT106</td></row>
+		<row><td>AlwaysInstall</td><td>ISX_DEFAULTCOMPONENT107</td></row>
+		<row><td>AlwaysInstall</td><td>ISX_DEFAULTCOMPONENT108</td></row>
+		<row><td>AlwaysInstall</td><td>ISX_DEFAULTCOMPONENT109</td></row>
 		<row><td>AlwaysInstall</td><td>ISX_DEFAULTCOMPONENT11</td></row>
+		<row><td>AlwaysInstall</td><td>ISX_DEFAULTCOMPONENT110</td></row>
+		<row><td>AlwaysInstall</td><td>ISX_DEFAULTCOMPONENT111</td></row>
+		<row><td>AlwaysInstall</td><td>ISX_DEFAULTCOMPONENT112</td></row>
+		<row><td>AlwaysInstall</td><td>ISX_DEFAULTCOMPONENT113</td></row>
+		<row><td>AlwaysInstall</td><td>ISX_DEFAULTCOMPONENT114</td></row>
+		<row><td>AlwaysInstall</td><td>ISX_DEFAULTCOMPONENT115</td></row>
+		<row><td>AlwaysInstall</td><td>ISX_DEFAULTCOMPONENT116</td></row>
+		<row><td>AlwaysInstall</td><td>ISX_DEFAULTCOMPONENT117</td></row>
 		<row><td>AlwaysInstall</td><td>ISX_DEFAULTCOMPONENT12</td></row>
 		<row><td>AlwaysInstall</td><td>ISX_DEFAULTCOMPONENT13</td></row>
 		<row><td>AlwaysInstall</td><td>ISX_DEFAULTCOMPONENT14</td></row>
 		<row><td>AlwaysInstall</td><td>ISX_DEFAULTCOMPONENT15</td></row>
 		<row><td>AlwaysInstall</td><td>ISX_DEFAULTCOMPONENT16</td></row>
+		<row><td>AlwaysInstall</td><td>ISX_DEFAULTCOMPONENT17</td></row>
+		<row><td>AlwaysInstall</td><td>ISX_DEFAULTCOMPONENT18</td></row>
+		<row><td>AlwaysInstall</td><td>ISX_DEFAULTCOMPONENT19</td></row>
 		<row><td>AlwaysInstall</td><td>ISX_DEFAULTCOMPONENT2</td></row>
+		<row><td>AlwaysInstall</td><td>ISX_DEFAULTCOMPONENT20</td></row>
+		<row><td>AlwaysInstall</td><td>ISX_DEFAULTCOMPONENT21</td></row>
+		<row><td>AlwaysInstall</td><td>ISX_DEFAULTCOMPONENT22</td></row>
+		<row><td>AlwaysInstall</td><td>ISX_DEFAULTCOMPONENT23</td></row>
+		<row><td>AlwaysInstall</td><td>ISX_DEFAULTCOMPONENT24</td></row>
+		<row><td>AlwaysInstall</td><td>ISX_DEFAULTCOMPONENT25</td></row>
+		<row><td>AlwaysInstall</td><td>ISX_DEFAULTCOMPONENT26</td></row>
+		<row><td>AlwaysInstall</td><td>ISX_DEFAULTCOMPONENT27</td></row>
+		<row><td>AlwaysInstall</td><td>ISX_DEFAULTCOMPONENT28</td></row>
+		<row><td>AlwaysInstall</td><td>ISX_DEFAULTCOMPONENT29</td></row>
 		<row><td>AlwaysInstall</td><td>ISX_DEFAULTCOMPONENT3</td></row>
+		<row><td>AlwaysInstall</td><td>ISX_DEFAULTCOMPONENT30</td></row>
+		<row><td>AlwaysInstall</td><td>ISX_DEFAULTCOMPONENT31</td></row>
+		<row><td>AlwaysInstall</td><td>ISX_DEFAULTCOMPONENT32</td></row>
+		<row><td>AlwaysInstall</td><td>ISX_DEFAULTCOMPONENT33</td></row>
+		<row><td>AlwaysInstall</td><td>ISX_DEFAULTCOMPONENT34</td></row>
+		<row><td>AlwaysInstall</td><td>ISX_DEFAULTCOMPONENT35</td></row>
+		<row><td>AlwaysInstall</td><td>ISX_DEFAULTCOMPONENT36</td></row>
+		<row><td>AlwaysInstall</td><td>ISX_DEFAULTCOMPONENT37</td></row>
+		<row><td>AlwaysInstall</td><td>ISX_DEFAULTCOMPONENT38</td></row>
+		<row><td>AlwaysInstall</td><td>ISX_DEFAULTCOMPONENT39</td></row>
 		<row><td>AlwaysInstall</td><td>ISX_DEFAULTCOMPONENT4</td></row>
+		<row><td>AlwaysInstall</td><td>ISX_DEFAULTCOMPONENT40</td></row>
+		<row><td>AlwaysInstall</td><td>ISX_DEFAULTCOMPONENT41</td></row>
+		<row><td>AlwaysInstall</td><td>ISX_DEFAULTCOMPONENT42</td></row>
+		<row><td>AlwaysInstall</td><td>ISX_DEFAULTCOMPONENT43</td></row>
+		<row><td>AlwaysInstall</td><td>ISX_DEFAULTCOMPONENT44</td></row>
+		<row><td>AlwaysInstall</td><td>ISX_DEFAULTCOMPONENT45</td></row>
+		<row><td>AlwaysInstall</td><td>ISX_DEFAULTCOMPONENT46</td></row>
+		<row><td>AlwaysInstall</td><td>ISX_DEFAULTCOMPONENT47</td></row>
+		<row><td>AlwaysInstall</td><td>ISX_DEFAULTCOMPONENT48</td></row>
+		<row><td>AlwaysInstall</td><td>ISX_DEFAULTCOMPONENT49</td></row>
 		<row><td>AlwaysInstall</td><td>ISX_DEFAULTCOMPONENT5</td></row>
+		<row><td>AlwaysInstall</td><td>ISX_DEFAULTCOMPONENT50</td></row>
+		<row><td>AlwaysInstall</td><td>ISX_DEFAULTCOMPONENT51</td></row>
+		<row><td>AlwaysInstall</td><td>ISX_DEFAULTCOMPONENT52</td></row>
+		<row><td>AlwaysInstall</td><td>ISX_DEFAULTCOMPONENT53</td></row>
+		<row><td>AlwaysInstall</td><td>ISX_DEFAULTCOMPONENT54</td></row>
+		<row><td>AlwaysInstall</td><td>ISX_DEFAULTCOMPONENT55</td></row>
+		<row><td>AlwaysInstall</td><td>ISX_DEFAULTCOMPONENT56</td></row>
+		<row><td>AlwaysInstall</td><td>ISX_DEFAULTCOMPONENT57</td></row>
+		<row><td>AlwaysInstall</td><td>ISX_DEFAULTCOMPONENT58</td></row>
+		<row><td>AlwaysInstall</td><td>ISX_DEFAULTCOMPONENT59</td></row>
 		<row><td>AlwaysInstall</td><td>ISX_DEFAULTCOMPONENT6</td></row>
+		<row><td>AlwaysInstall</td><td>ISX_DEFAULTCOMPONENT60</td></row>
+		<row><td>AlwaysInstall</td><td>ISX_DEFAULTCOMPONENT61</td></row>
+		<row><td>AlwaysInstall</td><td>ISX_DEFAULTCOMPONENT62</td></row>
+		<row><td>AlwaysInstall</td><td>ISX_DEFAULTCOMPONENT63</td></row>
+		<row><td>AlwaysInstall</td><td>ISX_DEFAULTCOMPONENT64</td></row>
+		<row><td>AlwaysInstall</td><td>ISX_DEFAULTCOMPONENT65</td></row>
+		<row><td>AlwaysInstall</td><td>ISX_DEFAULTCOMPONENT66</td></row>
+		<row><td>AlwaysInstall</td><td>ISX_DEFAULTCOMPONENT67</td></row>
+		<row><td>AlwaysInstall</td><td>ISX_DEFAULTCOMPONENT68</td></row>
+		<row><td>AlwaysInstall</td><td>ISX_DEFAULTCOMPONENT69</td></row>
 		<row><td>AlwaysInstall</td><td>ISX_DEFAULTCOMPONENT7</td></row>
+		<row><td>AlwaysInstall</td><td>ISX_DEFAULTCOMPONENT70</td></row>
+		<row><td>AlwaysInstall</td><td>ISX_DEFAULTCOMPONENT71</td></row>
+		<row><td>AlwaysInstall</td><td>ISX_DEFAULTCOMPONENT72</td></row>
+		<row><td>AlwaysInstall</td><td>ISX_DEFAULTCOMPONENT73</td></row>
+		<row><td>AlwaysInstall</td><td>ISX_DEFAULTCOMPONENT74</td></row>
+		<row><td>AlwaysInstall</td><td>ISX_DEFAULTCOMPONENT75</td></row>
+		<row><td>AlwaysInstall</td><td>ISX_DEFAULTCOMPONENT76</td></row>
+		<row><td>AlwaysInstall</td><td>ISX_DEFAULTCOMPONENT77</td></row>
+		<row><td>AlwaysInstall</td><td>ISX_DEFAULTCOMPONENT78</td></row>
+		<row><td>AlwaysInstall</td><td>ISX_DEFAULTCOMPONENT79</td></row>
 		<row><td>AlwaysInstall</td><td>ISX_DEFAULTCOMPONENT8</td></row>
+		<row><td>AlwaysInstall</td><td>ISX_DEFAULTCOMPONENT80</td></row>
+		<row><td>AlwaysInstall</td><td>ISX_DEFAULTCOMPONENT81</td></row>
+		<row><td>AlwaysInstall</td><td>ISX_DEFAULTCOMPONENT82</td></row>
+		<row><td>AlwaysInstall</td><td>ISX_DEFAULTCOMPONENT83</td></row>
+		<row><td>AlwaysInstall</td><td>ISX_DEFAULTCOMPONENT84</td></row>
+		<row><td>AlwaysInstall</td><td>ISX_DEFAULTCOMPONENT85</td></row>
+		<row><td>AlwaysInstall</td><td>ISX_DEFAULTCOMPONENT86</td></row>
+		<row><td>AlwaysInstall</td><td>ISX_DEFAULTCOMPONENT87</td></row>
+		<row><td>AlwaysInstall</td><td>ISX_DEFAULTCOMPONENT88</td></row>
+		<row><td>AlwaysInstall</td><td>ISX_DEFAULTCOMPONENT89</td></row>
 		<row><td>AlwaysInstall</td><td>ISX_DEFAULTCOMPONENT9</td></row>
+		<row><td>AlwaysInstall</td><td>ISX_DEFAULTCOMPONENT90</td></row>
+		<row><td>AlwaysInstall</td><td>ISX_DEFAULTCOMPONENT91</td></row>
+		<row><td>AlwaysInstall</td><td>ISX_DEFAULTCOMPONENT92</td></row>
+		<row><td>AlwaysInstall</td><td>ISX_DEFAULTCOMPONENT93</td></row>
+		<row><td>AlwaysInstall</td><td>ISX_DEFAULTCOMPONENT94</td></row>
+		<row><td>AlwaysInstall</td><td>ISX_DEFAULTCOMPONENT95</td></row>
+		<row><td>AlwaysInstall</td><td>ISX_DEFAULTCOMPONENT96</td></row>
+		<row><td>AlwaysInstall</td><td>ISX_DEFAULTCOMPONENT97</td></row>
+		<row><td>AlwaysInstall</td><td>ISX_DEFAULTCOMPONENT98</td></row>
+		<row><td>AlwaysInstall</td><td>ISX_DEFAULTCOMPONENT99</td></row>
 		<row><td>AlwaysInstall</td><td>Properties.Resources.Designer.cs.dll</td></row>
 		<row><td>AlwaysInstall</td><td>Properties.Resources.Designer.cs.dll1</td></row>
 		<row><td>AlwaysInstall</td><td>WorkbrainArchivingTool.exe</td></row>
@@ -1991,70 +2495,195 @@
 		<col def="S255">ISBuildSourcePath</col>
 		<col def="I4">ISAttributes</col>
 		<col def="S72">ISComponentSubFolder_</col>
-		<row><td>app.config</td><td>ISX_DEFAULTCOMPONENT</td><td>APP~1.CON|App.config</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\WorkbrainArchivingTool\App.config</td><td>1</td><td/></row>
-		<row><td>archivingfooter.jpg</td><td>ISX_DEFAULTCOMPONENT16</td><td>ARCHIV~1.JPG|ArchivingFooter.jpg</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\WorkbrainArchivingTool\Resources\ArchivingFooter.jpg</td><td>1</td><td/></row>
-		<row><td>archivingicon.ico</td><td>ISX_DEFAULTCOMPONENT</td><td>ARCHIV~1.ICO|ArchivingIcon.ico</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\WorkbrainArchivingTool\ArchivingIcon.ico</td><td>1</td><td/></row>
-		<row><td>archivingicon.ico.deploy</td><td>ISX_DEFAULTCOMPONENT5</td><td>ARCHIV~1.DEP|ArchivingIcon.ico.deploy</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\WorkbrainArchivingTool\bin\Debug\app.publish\Application Files\WorkbrainArchivingTool_1_0_0_0\ArchivingIcon.ico.deploy</td><td>1</td><td/></row>
-		<row><td>archivingtool.jpg</td><td>ISX_DEFAULTCOMPONENT16</td><td>ARCHIV~1.JPG|ArchivingTool.jpg</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\WorkbrainArchivingTool\Resources\ArchivingTool.jpg</td><td>1</td><td/></row>
-		<row><td>assemblyinfo.cs</td><td>ISX_DEFAULTCOMPONENT15</td><td>ASSEMB~1.CS|AssemblyInfo.cs</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\WorkbrainArchivingTool\Properties\AssemblyInfo.cs</td><td>1</td><td/></row>
-		<row><td>designtimeresolveassemblyref</td><td>ISX_DEFAULTCOMPONENT10</td><td>DESIGN~1.CAC|DesignTimeResolveAssemblyReferences.cache</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\WorkbrainArchivingTool\obj\Debug\DesignTimeResolveAssemblyReferences.cache</td><td>1</td><td/></row>
-		<row><td>designtimeresolveassemblyref1</td><td>ISX_DEFAULTCOMPONENT10</td><td>DESIGN~1.CAC|DesignTimeResolveAssemblyReferencesInput.cache</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\WorkbrainArchivingTool\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache</td><td>1</td><td/></row>
-		<row><td>designtimeresolveassemblyref2</td><td>ISX_DEFAULTCOMPONENT13</td><td>DESIGN~1.CAC|DesignTimeResolveAssemblyReferencesInput.cache</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\WorkbrainArchivingTool\obj\x86\Debug\DesignTimeResolveAssemblyReferencesInput.cache</td><td>1</td><td/></row>
-		<row><td>form1.cs</td><td>ISX_DEFAULTCOMPONENT</td><td>Form1.cs</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\WorkbrainArchivingTool\Form1.cs</td><td>1</td><td/></row>
-		<row><td>form1.designer.cs</td><td>ISX_DEFAULTCOMPONENT</td><td>FORM1D~1.CS|Form1.Designer.cs</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\WorkbrainArchivingTool\Form1.Designer.cs</td><td>1</td><td/></row>
-		<row><td>form_aboutthetool.cs</td><td>ISX_DEFAULTCOMPONENT</td><td>FORM_A~1.CS|Form_AboutTheTool.cs</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\WorkbrainArchivingTool\Form_AboutTheTool.cs</td><td>1</td><td/></row>
-		<row><td>form_aboutthetool.designer.c</td><td>ISX_DEFAULTCOMPONENT</td><td>FORM_A~1.CS|Form_AboutTheTool.Designer.cs</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\WorkbrainArchivingTool\Form_AboutTheTool.Designer.cs</td><td>1</td><td/></row>
-		<row><td>form_aboutthetool.resx</td><td>ISX_DEFAULTCOMPONENT</td><td>FORM_A~1.RES|Form_AboutTheTool.resx</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\WorkbrainArchivingTool\Form_AboutTheTool.resx</td><td>1</td><td/></row>
-		<row><td>form_mainform.cs</td><td>ISX_DEFAULTCOMPONENT</td><td>FORM_M~1.CS|Form_Mainform.cs</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\WorkbrainArchivingTool\Form_Mainform.cs</td><td>1</td><td/></row>
-		<row><td>form_mainform.designer.cs</td><td>ISX_DEFAULTCOMPONENT</td><td>FORM_M~1.CS|Form_MainForm.Designer.cs</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\WorkbrainArchivingTool\Form_MainForm.Designer.cs</td><td>1</td><td/></row>
-		<row><td>form_mainform.resx</td><td>ISX_DEFAULTCOMPONENT</td><td>FORM_M~1.RES|Form_Mainform.resx</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\WorkbrainArchivingTool\Form_Mainform.resx</td><td>1</td><td/></row>
+		<row><td>_005195b61a47cae997511f86f0c</td><td>ISX_DEFAULTCOMPONENT87</td><td>200519~1|2005195b61a47cae997511f86f0ca7c6690604</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\.git\objects\ef\2005195b61a47cae997511f86f0ca7c6690604</td><td>1</td><td/></row>
+		<row><td>_04f01d9bd72d1da41889a0e8aaf</td><td>ISX_DEFAULTCOMPONENT25</td><td>004F01~1|004f01d9bd72d1da41889a0e8aaf6a04166074</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\.git\objects\22\004f01d9bd72d1da41889a0e8aaf6a04166074</td><td>1</td><td/></row>
+		<row><td>_13ac8ab29bc2127d8edcda88a68</td><td>ISX_DEFAULTCOMPONENT83</td><td>913AC8~1|913ac8ab29bc2127d8edcda88a68c5cf5e7fc6</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\.git\objects\e1\913ac8ab29bc2127d8edcda88a68c5cf5e7fc6</td><td>1</td><td/></row>
+		<row><td>_16da6c92847ab816cadb4345a23</td><td>ISX_DEFAULTCOMPONENT12</td><td>516DA6~1|516da6c92847ab816cadb4345a23d49652ca55</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\.git\objects\0a\516da6c92847ab816cadb4345a23d49652ca55</td><td>1</td><td/></row>
+		<row><td>_17b161f8b4607a6f25b0e650f68</td><td>ISX_DEFAULTCOMPONENT91</td><td>217B16~1|217b161f8b4607a6f25b0e650f68345adf51e1</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\.git\objects\fa\217b161f8b4607a6f25b0e650f68345adf51e1</td><td>1</td><td/></row>
+		<row><td>_1900612b39c2f100b253125eef3</td><td>ISX_DEFAULTCOMPONENT36</td><td>119006~1|11900612b39c2f100b253125eef3770a2dd8aa</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\.git\objects\4c\11900612b39c2f100b253125eef3770a2dd8aa</td><td>1</td><td/></row>
+		<row><td>_1e8bd29ef3d85b65a9e50d2fe4c</td><td>ISX_DEFAULTCOMPONENT76</td><td>41E8BD~1|41e8bd29ef3d85b65a9e50d2fe4cdc8b16577a</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\.git\objects\c9\41e8bd29ef3d85b65a9e50d2fe4cdc8b16577a</td><td>1</td><td/></row>
+		<row><td>_1f111ec1802474bb5cb33378b67</td><td>ISX_DEFAULTCOMPONENT66</td><td>11F111~1|11f111ec1802474bb5cb33378b679cd2bedf65</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\.git\objects\9b\11f111ec1802474bb5cb33378b679cd2bedf65</td><td>1</td><td/></row>
+		<row><td>_25dc642cb6eb9a060e54bf8d692</td><td>ISX_DEFAULTCOMPONENT35</td><td>825DC6~1|825dc642cb6eb9a060e54bf8d69288fbee4904</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\.git\objects\4b\825dc642cb6eb9a060e54bf8d69288fbee4904</td><td>1</td><td/></row>
+		<row><td>_27a9bd30d5ffe795a47cafdd6dd</td><td>ISX_DEFAULTCOMPONENT78</td><td>827A9B~1|827a9bd30d5ffe795a47cafdd6ddbb759646e8</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\.git\objects\cb\827a9bd30d5ffe795a47cafdd6ddbb759646e8</td><td>1</td><td/></row>
+		<row><td>_2b98007ce670ede325c75370555</td><td>ISX_DEFAULTCOMPONENT84</td><td>02B980~1|02b98007ce670ede325c75370555c8ca245067</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\.git\objects\e7\02b98007ce670ede325c75370555c8ca245067</td><td>1</td><td/></row>
+		<row><td>_30cfcff09950e758f1391f3b46e</td><td>ISX_DEFAULTCOMPONENT51</td><td>230CFC~1|230cfcff09950e758f1391f3b46e632239f1af</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\.git\objects\75\230cfcff09950e758f1391f3b46e632239f1af</td><td>1</td><td/></row>
+		<row><td>_349bcbb6a2360320357eca28855</td><td>ISX_DEFAULTCOMPONENT10</td><td>4349BC~1|4349bcbb6a2360320357eca288552160695146</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\.git\objects\00\4349bcbb6a2360320357eca288552160695146</td><td>1</td><td/></row>
+		<row><td>_3eb1323a964dc85e251f5bd40d6</td><td>ISX_DEFAULTCOMPONENT61</td><td>53EB13~1|53eb1323a964dc85e251f5bd40d66a3a250e69</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\.git\objects\8f\53eb1323a964dc85e251f5bd40d66a3a250e69</td><td>1</td><td/></row>
+		<row><td>_42cf0c452e9897b527d214c32ba</td><td>ISX_DEFAULTCOMPONENT36</td><td>442CF0~1|442cf0c452e9897b527d214c32baee3402a118</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\.git\objects\4c\442cf0c452e9897b527d214c32baee3402a118</td><td>1</td><td/></row>
+		<row><td>_4456d7a69bea05965cd5002b77e</td><td>ISX_DEFAULTCOMPONENT68</td><td>74456D~1|74456d7a69bea05965cd5002b77e1b693b99fc</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\.git\objects\a1\74456d7a69bea05965cd5002b77e1b693b99fc</td><td>1</td><td/></row>
+		<row><td>_447115c18ec71a38b49c0953871</td><td>ISX_DEFAULTCOMPONENT49</td><td>044711~1|0447115c18ec71a38b49c09538712ac9babf33</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\.git\objects\71\0447115c18ec71a38b49c09538712ac9babf33</td><td>1</td><td/></row>
+		<row><td>_45652af62950ebf3b28ec3a5400</td><td>ISX_DEFAULTCOMPONENT31</td><td>645652~1|645652af62950ebf3b28ec3a5400dcec30b1c4</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\.git\objects\39\645652af62950ebf3b28ec3a5400dcec30b1c4</td><td>1</td><td/></row>
+		<row><td>_48df2fdf47d66198f3196d61e63</td><td>ISX_DEFAULTCOMPONENT67</td><td>648DF2~1|648df2fdf47d66198f3196d61e632f53de37e3</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\.git\objects\9e\648df2fdf47d66198f3196d61e632f53de37e3</td><td>1</td><td/></row>
+		<row><td>_4c886a65d9e101530173ec39dc5</td><td>ISX_DEFAULTCOMPONENT59</td><td>24C886~1|24c886a65d9e101530173ec39dc5f8bcab4452</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\.git\objects\8d\24c886a65d9e101530173ec39dc5f8bcab4452</td><td>1</td><td/></row>
+		<row><td>_511322f10f21b2fa5bdf2c5ee4f</td><td>ISX_DEFAULTCOMPONENT63</td><td>751132~1|7511322f10f21b2fa5bdf2c5ee4f90e7ff7a83</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\.git\objects\96\7511322f10f21b2fa5bdf2c5ee4f90e7ff7a83</td><td>1</td><td/></row>
+		<row><td>_560ff72c25080993d14032c0b86</td><td>ISX_DEFAULTCOMPONENT24</td><td>7560FF~1|7560ff72c25080993d14032c0b86cc028c6991</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\.git\objects\20\7560ff72c25080993d14032c0b86cc028c6991</td><td>1</td><td/></row>
+		<row><td>_563e970972d40f23f33153cb99b</td><td>ISX_DEFAULTCOMPONENT90</td><td>2563E9~1|2563e970972d40f23f33153cb99b3fa1b74111</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\.git\objects\f9\2563e970972d40f23f33153cb99b3fa1b74111</td><td>1</td><td/></row>
+		<row><td>_5646352ec1d9a84bbc6504ef6b4</td><td>ISX_DEFAULTCOMPONENT60</td><td>156463~1|15646352ec1d9a84bbc6504ef6b46e16bf7823</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\.git\objects\8e\15646352ec1d9a84bbc6504ef6b46e16bf7823</td><td>1</td><td/></row>
+		<row><td>_576b0aaf06737103b18758e9320</td><td>ISX_DEFAULTCOMPONENT18</td><td>5576B0~1|5576b0aaf06737103b18758e93200a22595b1a</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\.git\objects\17\5576b0aaf06737103b18758e93200a22595b1a</td><td>1</td><td/></row>
+		<row><td>_5b74876dad52424bc94bce0b6ac</td><td>ISX_DEFAULTCOMPONENT11</td><td>85B748~1|85b74876dad52424bc94bce0b6ac704825dd55</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\.git\objects\05\85b74876dad52424bc94bce0b6ac704825dd55</td><td>1</td><td/></row>
+		<row><td>_631ee8e6bcccfbc5f2ae6fb174a</td><td>ISX_DEFAULTCOMPONENT54</td><td>0631EE~1|0631ee8e6bcccfbc5f2ae6fb174a837c3ae332</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\.git\objects\81\0631ee8e6bcccfbc5f2ae6fb174a837c3ae332</td><td>1</td><td/></row>
+		<row><td>_680c8e69acf200b3e375c1baf0a</td><td>ISX_DEFAULTCOMPONENT72</td><td>4680C8~1|4680c8e69acf200b3e375c1baf0a038d4d6313</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\.git\objects\bb\4680c8e69acf200b3e375c1baf0a038d4d6313</td><td>1</td><td/></row>
+		<row><td>_6f5cdbcee14f647171722244eb9</td><td>ISX_DEFAULTCOMPONENT38</td><td>56F5CD~1|56f5cdbcee14f647171722244eb94ba780bf64</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\.git\objects\52\56f5cdbcee14f647171722244eb94ba780bf64</td><td>1</td><td/></row>
+		<row><td>_708dad47b66bf18b2296b1ddce8</td><td>ISX_DEFAULTCOMPONENT62</td><td>2708DA~1|2708dad47b66bf18b2296b1ddce8e2f542e7b4</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\.git\objects\90\2708dad47b66bf18b2296b1ddce8e2f542e7b4</td><td>1</td><td/></row>
+		<row><td>_70de4d901682dd67d999542e48e</td><td>ISX_DEFAULTCOMPONENT81</td><td>970DE4~1|970de4d901682dd67d999542e48e484f296e57</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\.git\objects\d5\970de4d901682dd67d999542e48e484f296e57</td><td>1</td><td/></row>
+		<row><td>_807e2f0c8e50b3e0c6592cb07a2</td><td>ISX_DEFAULTCOMPONENT82</td><td>1807E2~1|1807e2f0c8e50b3e0c6592cb07a279c4e41248</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\.git\objects\dc\1807e2f0c8e50b3e0c6592cb07a279c4e41248</td><td>1</td><td/></row>
+		<row><td>_85c3626455ce003d7fcfb482150</td><td>ISX_DEFAULTCOMPONENT46</td><td>185C36~1|185c3626455ce003d7fcfb482150a73b2a1c11</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\.git\objects\68\185c3626455ce003d7fcfb482150a73b2a1c11</td><td>1</td><td/></row>
+		<row><td>_85e61c25b7b256242b925fb9304</td><td>ISX_DEFAULTCOMPONENT35</td><td>885E61~1|885e61c25b7b256242b925fb93048cef7e22d1</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\.git\objects\4b\885e61c25b7b256242b925fb93048cef7e22d1</td><td>1</td><td/></row>
+		<row><td>_881196b6ea84e51013efbbbe68d</td><td>ISX_DEFAULTCOMPONENT78</td><td>388119~1|3881196b6ea84e51013efbbbe68d6577dfed37</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\.git\objects\cb\3881196b6ea84e51013efbbbe68d6577dfed37</td><td>1</td><td/></row>
+		<row><td>_8ec7c7ddeb3428a454c341c62d2</td><td>ISX_DEFAULTCOMPONENT39</td><td>98EC7C~1|98ec7c7ddeb3428a454c341c62d282bf3e0e69</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\.git\objects\53\98ec7c7ddeb3428a454c341c62d282bf3e0e69</td><td>1</td><td/></row>
+		<row><td>_90fec6c8612a6395426c09d7c7e</td><td>ISX_DEFAULTCOMPONENT69</td><td>090FEC~1|090fec6c8612a6395426c09d7c7e1991b02a75</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\.git\objects\a6\090fec6c8612a6395426c09d7c7e1991b02a75</td><td>1</td><td/></row>
+		<row><td>_9123344f1da4d26ce64b6f3f573</td><td>ISX_DEFAULTCOMPONENT13</td><td>291233~1|29123344f1da4d26ce64b6f3f5737adf24ca24</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\.git\objects\0f\29123344f1da4d26ce64b6f3f5737adf24ca24</td><td>1</td><td/></row>
+		<row><td>_9d4181f55044dd8d394da0d04d2</td><td>ISX_DEFAULTCOMPONENT74</td><td>39D418~1|39d4181f55044dd8d394da0d04d2de046c4fec</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\.git\objects\c0\39d4181f55044dd8d394da0d04d2de046c4fec</td><td>1</td><td/></row>
+		<row><td>_a0ca4e6605520d12a5f8ac34134</td><td>ISX_DEFAULTCOMPONENT78</td><td>0A0CA4~1|0a0ca4e6605520d12a5f8ac3413413c53cf8a6</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\.git\objects\cb\0a0ca4e6605520d12a5f8ac3413413c53cf8a6</td><td>1</td><td/></row>
+		<row><td>_a48b61b53cda47760885e42d7a8</td><td>ISX_DEFAULTCOMPONENT24</td><td>3A48B6~1|3a48b61b53cda47760885e42d7a8ba3b9c9852</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\.git\objects\20\3a48b61b53cda47760885e42d7a8ba3b9c9852</td><td>1</td><td/></row>
+		<row><td>_a8d2144fb65c3662c74d9c18606</td><td>ISX_DEFAULTCOMPONENT52</td><td>4A8D21~1|4a8d2144fb65c3662c74d9c18606fd3d7a80c6</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\.git\objects\77\4a8d2144fb65c3662c74d9c18606fd3d7a80c6</td><td>1</td><td/></row>
+		<row><td>_abe9a4979eb04576563f137a323</td><td>ISX_DEFAULTCOMPONENT88</td><td>5ABE9A~1|5abe9a4979eb04576563f137a3230f9685a4b4</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\.git\objects\f1\5abe9a4979eb04576563f137a3230f9685a4b4</td><td>1</td><td/></row>
+		<row><td>_b3adce98bbaaff23b7873205108</td><td>ISX_DEFAULTCOMPONENT64</td><td>1B3ADC~1|1b3adce98bbaaff23b7873205108c07a26d44c</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\.git\objects\97\1b3adce98bbaaff23b7873205108c07a26d44c</td><td>1</td><td/></row>
+		<row><td>_be4008d504c625aae92ab4c4900</td><td>ISX_DEFAULTCOMPONENT70</td><td>8BE400~1|8be4008d504c625aae92ab4c4900b77eede418</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\.git\objects\a9\8be4008d504c625aae92ab4c4900b77eede418</td><td>1</td><td/></row>
+		<row><td>_c22fede5fb2e1d43c9b534fa965</td><td>ISX_DEFAULTCOMPONENT48</td><td>4C22FE~1|4c22fede5fb2e1d43c9b534fa965861a830bcd</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\.git\objects\6e\4c22fede5fb2e1d43c9b534fa965861a830bcd</td><td>1</td><td/></row>
+		<row><td>_c6f59ebf226ffead745c40546ae</td><td>ISX_DEFAULTCOMPONENT79</td><td>4C6F59~1|4c6f59ebf226ffead745c40546ae2ebe7e79b4</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\.git\objects\d1\4c6f59ebf226ffead745c40546ae2ebe7e79b4</td><td>1</td><td/></row>
+		<row><td>_cbb8cba4a23f2b84839cf87c5af</td><td>ISX_DEFAULTCOMPONENT15</td><td>8CBB8C~1|8cbb8cba4a23f2b84839cf87c5af36a20416c3</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\.git\objects\12\8cbb8cba4a23f2b84839cf87c5af36a20416c3</td><td>1</td><td/></row>
+		<row><td>_d038f9456a583b87f9ceff0ad45</td><td>ISX_DEFAULTCOMPONENT44</td><td>7D038F~1|7d038f9456a583b87f9ceff0ad45106eec9400</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\.git\objects\62\7d038f9456a583b87f9ceff0ad45106eec9400</td><td>1</td><td/></row>
+		<row><td>_d3c0253a5cd881864b7b39cc45a</td><td>ISX_DEFAULTCOMPONENT23</td><td>8D3C02~1|8d3c0253a5cd881864b7b39cc45a083a310bdf</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\.git\objects\1f\8d3c0253a5cd881864b7b39cc45a083a310bdf</td><td>1</td><td/></row>
+		<row><td>_d4d4798fa1737d62eb5e6b19dc4</td><td>ISX_DEFAULTCOMPONENT33</td><td>4D4D47~1|4d4d4798fa1737d62eb5e6b19dc4a67eb8a76f</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\.git\objects\43\4d4d4798fa1737d62eb5e6b19dc4a67eb8a76f</td><td>1</td><td/></row>
+		<row><td>_dc69c32f064a40603b3da8f73c6</td><td>ISX_DEFAULTCOMPONENT34</td><td>0DC69C~1|0dc69c32f064a40603b3da8f73c6fd13edcd96</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\.git\objects\48\0dc69c32f064a40603b3da8f73c6fd13edcd96</td><td>1</td><td/></row>
+		<row><td>_dff4c1d1c178bd467b59615d9ac</td><td>ISX_DEFAULTCOMPONENT41</td><td>9DFF4C~1|9dff4c1d1c178bd467b59615d9ac929349dac2</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\.git\objects\56\9dff4c1d1c178bd467b59615d9ac929349dac2</td><td>1</td><td/></row>
+		<row><td>_e490378bc964202a20e41ed31b5</td><td>ISX_DEFAULTCOMPONENT26</td><td>0E4903~1|0e490378bc964202a20e41ed31b5aae634a7ef</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\.git\objects\31\0e490378bc964202a20e41ed31b5aae634a7ef</td><td>1</td><td/></row>
+		<row><td>_e605be1566b9c033c715c1066ca</td><td>ISX_DEFAULTCOMPONENT22</td><td>1E605B~1|1e605be1566b9c033c715c1066ca8b5c77a8b8</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\.git\objects\1d\1e605be1566b9c033c715c1066ca8b5c77a8b8</td><td>1</td><td/></row>
+		<row><td>_e78bb7597f1367c92ffc7009dcb</td><td>ISX_DEFAULTCOMPONENT58</td><td>5E78BB~1|5e78bb7597f1367c92ffc7009dcb0dc7c6be38</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\.git\objects\8c\5e78bb7597f1367c92ffc7009dcb0dc7c6be38</td><td>1</td><td/></row>
+		<row><td>_e7b90ebdfed82638e58eb4d4de9</td><td>ISX_DEFAULTCOMPONENT29</td><td>1E7B90~1|1e7b90ebdfed82638e58eb4d4de9594e1ce172</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\.git\objects\37\1e7b90ebdfed82638e58eb4d4de9594e1ce172</td><td>1</td><td/></row>
+		<row><td>_f987107fd7fbabb01985b124e5f</td><td>ISX_DEFAULTCOMPONENT27</td><td>5F9871~1|5f987107fd7fbabb01985b124e5f199f61f0dc</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\.git\objects\32\5f987107fd7fbabb01985b124e5f199f61f0dc</td><td>1</td><td/></row>
+		<row><td>_gitattributes</td><td>ISX_DEFAULTCOMPONENT</td><td>GITATT~1|.gitattributes</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\.gitattributes</td><td>1</td><td/></row>
+		<row><td>_gitignore</td><td>ISX_DEFAULTCOMPONENT</td><td>GITIGN~1|.gitignore</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\.gitignore</td><td>1</td><td/></row>
+		<row><td>a11ed20f91dd36fb6ad0bd2c9802</td><td>ISX_DEFAULTCOMPONENT47</td><td>A11ED2~1|a11ed20f91dd36fb6ad0bd2c980266e562a912</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\.git\objects\6d\a11ed20f91dd36fb6ad0bd2c980266e562a912</td><td>1</td><td/></row>
+		<row><td>a1600ad74b4445eae81364b06eb5</td><td>ISX_DEFAULTCOMPONENT78</td><td>A1600A~1|a1600ad74b4445eae81364b06eb571e48f3441</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\.git\objects\cb\a1600ad74b4445eae81364b06eb571e48f3441</td><td>1</td><td/></row>
+		<row><td>a36360ef882913be986b73b42711</td><td>ISX_DEFAULTCOMPONENT75</td><td>A36360~1|a36360ef882913be986b73b427118553d2e5e3</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\.git\objects\c1\a36360ef882913be986b73b427118553d2e5e3</td><td>1</td><td/></row>
+		<row><td>a643356a9642fd779064ef3313b0</td><td>ISX_DEFAULTCOMPONENT71</td><td>A64335~1|a643356a9642fd779064ef3313b09cba80e91b</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\.git\objects\aa\a643356a9642fd779064ef3313b09cba80e91b</td><td>1</td><td/></row>
+		<row><td>a682eda65745b5bf67ae94292e9e</td><td>ISX_DEFAULTCOMPONENT78</td><td>A682ED~1|a682eda65745b5bf67ae94292e9ee96f425831</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\.git\objects\cb\a682eda65745b5bf67ae94292e9ee96f425831</td><td>1</td><td/></row>
+		<row><td>a69ae18e2522d68e135d39c382e5</td><td>ISX_DEFAULTCOMPONENT42</td><td>A69AE1~1|a69ae18e2522d68e135d39c382e57d1b119693</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\.git\objects\60\a69ae18e2522d68e135d39c382e57d1b119693</td><td>1</td><td/></row>
+		<row><td>a77269ac4f271a68390064ff0317</td><td>ISX_DEFAULTCOMPONENT89</td><td>A77269~1|a77269ac4f271a68390064ff0317ae98bc08c6</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\.git\objects\f5\a77269ac4f271a68390064ff0317ae98bc08c6</td><td>1</td><td/></row>
+		<row><td>aa2cf80b23af212a374a32b3ffcc</td><td>ISX_DEFAULTCOMPONENT73</td><td>AA2CF8~1|aa2cf80b23af212a374a32b3ffcca871f75c36</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\.git\objects\bf\aa2cf80b23af212a374a32b3ffcca871f75c36</td><td>1</td><td/></row>
+		<row><td>ab416650ca0ba1ff58927fa9dbfb</td><td>ISX_DEFAULTCOMPONENT65</td><td>AB4166~1|ab416650ca0ba1ff58927fa9dbfbf687bc73d1</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\.git\objects\99\ab416650ca0ba1ff58927fa9dbfbf687bc73d1</td><td>1</td><td/></row>
+		<row><td>ad7e087dfdcc9ee2bccf50eb5273</td><td>ISX_DEFAULTCOMPONENT32</td><td>AD7E08~1|ad7e087dfdcc9ee2bccf50eb5273a1953380af</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\.git\objects\3e\ad7e087dfdcc9ee2bccf50eb5273a1953380af</td><td>1</td><td/></row>
+		<row><td>adfdd32492a3d277fe50e2808bcf</td><td>ISX_DEFAULTCOMPONENT14</td><td>ADFDD3~1|adfdd32492a3d277fe50e2808bcfaa3caaaf51</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\.git\objects\10\adfdd32492a3d277fe50e2808bcfaa3caaaf51</td><td>1</td><td/></row>
+		<row><td>aefc55f0f340a7b9c090fb7ede7f</td><td>ISX_DEFAULTCOMPONENT85</td><td>AEFC55~1|aefc55f0f340a7b9c090fb7ede7feccdce4b1f</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\.git\objects\e9\aefc55f0f340a7b9c090fb7ede7feccdce4b1f</td><td>1</td><td/></row>
+		<row><td>app.config</td><td>ISX_DEFAULTCOMPONENT101</td><td>APP~1.CON|App.config</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\WorkbrainArchivingTool\App.config</td><td>1</td><td/></row>
+		<row><td>applypatch_msg.sample</td><td>ISX_DEFAULTCOMPONENT2</td><td>APPLYP~1.SAM|applypatch-msg.sample</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\.git\hooks\applypatch-msg.sample</td><td>1</td><td/></row>
+		<row><td>archivingfooter.jpg</td><td>ISX_DEFAULTCOMPONENT117</td><td>ARCHIV~1.JPG|ArchivingFooter.jpg</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\WorkbrainArchivingTool\Resources\ArchivingFooter.jpg</td><td>1</td><td/></row>
+		<row><td>archivingicon.ico</td><td>ISX_DEFAULTCOMPONENT101</td><td>ARCHIV~1.ICO|ArchivingIcon.ico</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\WorkbrainArchivingTool\ArchivingIcon.ico</td><td>1</td><td/></row>
+		<row><td>archivingicon.ico.deploy</td><td>ISX_DEFAULTCOMPONENT106</td><td>ARCHIV~1.DEP|ArchivingIcon.ico.deploy</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\WorkbrainArchivingTool\bin\Debug\app.publish\Application Files\WorkbrainArchivingTool_1_0_0_0\ArchivingIcon.ico.deploy</td><td>1</td><td/></row>
+		<row><td>archivingtool.jpg</td><td>ISX_DEFAULTCOMPONENT117</td><td>ARCHIV~1.JPG|ArchivingTool.jpg</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\WorkbrainArchivingTool\Resources\ArchivingTool.jpg</td><td>1</td><td/></row>
+		<row><td>assemblyinfo.cs</td><td>ISX_DEFAULTCOMPONENT116</td><td>ASSEMB~1.CS|AssemblyInfo.cs</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\WorkbrainArchivingTool\Properties\AssemblyInfo.cs</td><td>1</td><td/></row>
+		<row><td>b4a702dea1d5150bec1d8b81c5ba</td><td>ISX_DEFAULTCOMPONENT50</td><td>B4A702~1|b4a702dea1d5150bec1d8b81c5ba6fefade3d5</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\.git\objects\74\b4a702dea1d5150bec1d8b81c5ba6fefade3d5</td><td>1</td><td/></row>
+		<row><td>c011e99bef5e0082ad249f435133</td><td>ISX_DEFAULTCOMPONENT45</td><td>C011E9~1|c011e99bef5e0082ad249f435133caa26a293d</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\.git\objects\65\c011e99bef5e0082ad249f435133caa26a293d</td><td>1</td><td/></row>
+		<row><td>c03c3e8458dab5835c083a3eaa1f</td><td>ISX_DEFAULTCOMPONENT56</td><td>C03C3E~1|c03c3e8458dab5835c083a3eaa1fb04b8194ca</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\.git\objects\85\c03c3e8458dab5835c083a3eaa1fb04b8194ca</td><td>1</td><td/></row>
+		<row><td>c34b5bb3ecf974b5617620c2262a</td><td>ISX_DEFAULTCOMPONENT84</td><td>C34B5B~1|c34b5bb3ecf974b5617620c2262a8cef18b4d4</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\.git\objects\e7\c34b5bb3ecf974b5617620c2262a8cef18b4d4</td><td>1</td><td/></row>
+		<row><td>c42b3dd1dfe8beff3fee6b270904</td><td>ISX_DEFAULTCOMPONENT92</td><td>C42B3D~1|c42b3dd1dfe8beff3fee6b2709041215b5496a</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\.git\objects\fb\c42b3dd1dfe8beff3fee6b2709041215b5496a</td><td>1</td><td/></row>
+		<row><td>c46d1909c4653277a286c904c7f5</td><td>ISX_DEFAULTCOMPONENT51</td><td>C46D19~1|c46d1909c4653277a286c904c7f51b0057a942</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\.git\objects\75\c46d1909c4653277a286c904c7f51b0057a942</td><td>1</td><td/></row>
+		<row><td>c4d99f392212e6f63ee63242652f</td><td>ISX_DEFAULTCOMPONENT28</td><td>C4D99F~1|c4d99f392212e6f63ee63242652f14dc0a0107</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\.git\objects\33\c4d99f392212e6f63ee63242652f14dc0a0107</td><td>1</td><td/></row>
+		<row><td>c51e228fb2ce54d44b1afa7a9558</td><td>ISX_DEFAULTCOMPONENT40</td><td>C51E22~1|c51e228fb2ce54d44b1afa7a9558fb3a8f5a36</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\.git\objects\54\c51e228fb2ce54d44b1afa7a9558fb3a8f5a36</td><td>1</td><td/></row>
+		<row><td>c553d950a64d2bd87301c54286b9</td><td>ISX_DEFAULTCOMPONENT82</td><td>C553D9~1|c553d950a64d2bd87301c54286b90cba546956</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\.git\objects\dc\c553d950a64d2bd87301c54286b90cba546956</td><td>1</td><td/></row>
+		<row><td>c654e25ad2495fba93cd4c79c845</td><td>ISX_DEFAULTCOMPONENT43</td><td>C654E2~1|c654e25ad2495fba93cd4c79c84538a554e91b</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\.git\objects\61\c654e25ad2495fba93cd4c79c84538a554e91b</td><td>1</td><td/></row>
+		<row><td>c915c5cb7185a9438de28a7b1a7d</td><td>ISX_DEFAULTCOMPONENT21</td><td>C915C5~1|c915c5cb7185a9438de28a7b1a7dfe8c01ee7f</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\.git\objects\1b\c915c5cb7185a9438de28a7b1a7dfe8c01ee7f</td><td>1</td><td/></row>
+		<row><td>c91e385a6e621fb0cc14a474c768</td><td>ISX_DEFAULTCOMPONENT30</td><td>C91E38~1|c91e385a6e621fb0cc14a474c768871b3637e3</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\.git\objects\38\c91e385a6e621fb0cc14a474c768871b3637e3</td><td>1</td><td/></row>
+		<row><td>ca1df4be10634944f66755ac8295</td><td>ISX_DEFAULTCOMPONENT86</td><td>CA1DF4~1|ca1df4be10634944f66755ac8295846ca73772</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\.git\objects\ee\ca1df4be10634944f66755ac8295846ca73772</td><td>1</td><td/></row>
+		<row><td>cd6024c672694f373644c9203538</td><td>ISX_DEFAULTCOMPONENT20</td><td>CD6024~1|cd6024c672694f373644c9203538d9d391fc90</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\.git\objects\1a\cd6024c672694f373644c9203538d9d391fc90</td><td>1</td><td/></row>
+		<row><td>ce4d4a1e942747f8a6900c67a90e</td><td>ISX_DEFAULTCOMPONENT21</td><td>CE4D4A~1|ce4d4a1e942747f8a6900c67a90ef8c7174ef9</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\.git\objects\1b\ce4d4a1e942747f8a6900c67a90ef8c7174ef9</td><td>1</td><td/></row>
+		<row><td>commit_msg.sample</td><td>ISX_DEFAULTCOMPONENT2</td><td>COMMIT~1.SAM|commit-msg.sample</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\.git\hooks\commit-msg.sample</td><td>1</td><td/></row>
+		<row><td>config</td><td>ISX_DEFAULTCOMPONENT1</td><td>config</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\.git\config</td><td>1</td><td/></row>
+		<row><td>d3254d64f260e6ab711cc711d67d</td><td>ISX_DEFAULTCOMPONENT89</td><td>D3254D~1|d3254d64f260e6ab711cc711d67df14ce93516</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\.git\objects\f5\d3254d64f260e6ab711cc711d67df14ce93516</td><td>1</td><td/></row>
+		<row><td>dd0d2aa770569c0690fbdd169e4c</td><td>ISX_DEFAULTCOMPONENT55</td><td>DD0D2A~1|dd0d2aa770569c0690fbdd169e4cf941b65119</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\.git\objects\84\dd0d2aa770569c0690fbdd169e4cf941b65119</td><td>1</td><td/></row>
+		<row><td>dd55264dc877fb4a02512297aa99</td><td>ISX_DEFAULTCOMPONENT80</td><td>DD5526~1|dd55264dc877fb4a02512297aa99adf45f9890</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\.git\objects\d2\dd55264dc877fb4a02512297aa99adf45f9890</td><td>1</td><td/></row>
+		<row><td>deab54935e3e9ac75987656d44e0</td><td>ISX_DEFAULTCOMPONENT53</td><td>DEAB54~1|deab54935e3e9ac75987656d44e07010dd3fe0</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\.git\objects\78\deab54935e3e9ac75987656d44e07010dd3fe0</td><td>1</td><td/></row>
+		<row><td>description</td><td>ISX_DEFAULTCOMPONENT1</td><td>DESCRI~1|description</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\.git\description</td><td>1</td><td/></row>
+		<row><td>designtimeresolveassemblyref</td><td>ISX_DEFAULTCOMPONENT111</td><td>DESIGN~1.CAC|DesignTimeResolveAssemblyReferences.cache</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\WorkbrainArchivingTool\obj\Debug\DesignTimeResolveAssemblyReferences.cache</td><td>1</td><td/></row>
+		<row><td>designtimeresolveassemblyref1</td><td>ISX_DEFAULTCOMPONENT111</td><td>DESIGN~1.CAC|DesignTimeResolveAssemblyReferencesInput.cache</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\WorkbrainArchivingTool\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache</td><td>1</td><td/></row>
+		<row><td>designtimeresolveassemblyref2</td><td>ISX_DEFAULTCOMPONENT114</td><td>DESIGN~1.CAC|DesignTimeResolveAssemblyReferencesInput.cache</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\WorkbrainArchivingTool\obj\x86\Debug\DesignTimeResolveAssemblyReferencesInput.cache</td><td>1</td><td/></row>
+		<row><td>e3488c3135ea12355819b78b6f4d</td><td>ISX_DEFAULTCOMPONENT16</td><td>E3488C~1|e3488c3135ea12355819b78b6f4d45de86c4b6</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\.git\objects\15\e3488c3135ea12355819b78b6f4d45de86c4b6</td><td>1</td><td/></row>
+		<row><td>e63d8fda0f2fc1d1dbfddd42252e</td><td>ISX_DEFAULTCOMPONENT86</td><td>E63D8F~1|e63d8fda0f2fc1d1dbfddd42252ed90d29e3e3</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\.git\objects\ee\e63d8fda0f2fc1d1dbfddd42252ed90d29e3e3</td><td>1</td><td/></row>
+		<row><td>e9c1b8392d7eb2ec2686201b440f</td><td>ISX_DEFAULTCOMPONENT77</td><td>E9C1B8~1|e9c1b8392d7eb2ec2686201b440f541e6bd1bf</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\.git\objects\ca\e9c1b8392d7eb2ec2686201b440f541e6bd1bf</td><td>1</td><td/></row>
+		<row><td>ea0d2ec8071fdc73e493710d0354</td><td>ISX_DEFAULTCOMPONENT46</td><td>EA0D2E~1|ea0d2ec8071fdc73e493710d03542b68d3acbe</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\.git\objects\68\ea0d2ec8071fdc73e493710d03542b68d3acbe</td><td>1</td><td/></row>
+		<row><td>ed346b0aefa4888be44c531ffb53</td><td>ISX_DEFAULTCOMPONENT37</td><td>ED346B~1|ed346b0aefa4888be44c531ffb53252c37d9f2</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\.git\objects\4d\ed346b0aefa4888be44c531ffb53252c37d9f2</td><td>1</td><td/></row>
+		<row><td>exclude</td><td>ISX_DEFAULTCOMPONENT3</td><td>exclude</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\.git\info\exclude</td><td>1</td><td/></row>
+		<row><td>f0c423042b46cb1d617b81efb715</td><td>ISX_DEFAULTCOMPONENT23</td><td>F0C423~1|f0c423042b46cb1d617b81efb715defbe8054d</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\.git\objects\1f\f0c423042b46cb1d617b81efb715defbe8054d</td><td>1</td><td/></row>
+		<row><td>f5d8bf00fc54a3e40d740b049a3a</td><td>ISX_DEFAULTCOMPONENT20</td><td>F5D8BF~1|f5d8bf00fc54a3e40d740b049a3a561005eb1f</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\.git\objects\1a\f5d8bf00fc54a3e40d740b049a3a561005eb1f</td><td>1</td><td/></row>
+		<row><td>f76fa48ffba91b4fb337b87fd7a8</td><td>ISX_DEFAULTCOMPONENT57</td><td>F76FA4~1|f76fa48ffba91b4fb337b87fd7a813d4f40191</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\.git\objects\8a\f76fa48ffba91b4fb337b87fd7a813d4f40191</td><td>1</td><td/></row>
+		<row><td>fea7b7fc8d7fef46f6e243b419d8</td><td>ISX_DEFAULTCOMPONENT19</td><td>FEA7B7~1|fea7b7fc8d7fef46f6e243b419d8163b4a76c8</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\.git\objects\19\fea7b7fc8d7fef46f6e243b419d8163b4a76c8</td><td>1</td><td/></row>
+		<row><td>fetch_head</td><td>ISX_DEFAULTCOMPONENT1</td><td>FETCH_~1|FETCH_HEAD</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\.git\FETCH_HEAD</td><td>1</td><td/></row>
+		<row><td>form1.cs</td><td>ISX_DEFAULTCOMPONENT101</td><td>Form1.cs</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\WorkbrainArchivingTool\Form1.cs</td><td>1</td><td/></row>
+		<row><td>form1.designer.cs</td><td>ISX_DEFAULTCOMPONENT101</td><td>FORM1D~1.CS|Form1.Designer.cs</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\WorkbrainArchivingTool\Form1.Designer.cs</td><td>1</td><td/></row>
+		<row><td>form_aboutthetool.cs</td><td>ISX_DEFAULTCOMPONENT101</td><td>FORM_A~1.CS|Form_AboutTheTool.cs</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\WorkbrainArchivingTool\Form_AboutTheTool.cs</td><td>1</td><td/></row>
+		<row><td>form_aboutthetool.designer.c</td><td>ISX_DEFAULTCOMPONENT101</td><td>FORM_A~1.CS|Form_AboutTheTool.Designer.cs</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\WorkbrainArchivingTool\Form_AboutTheTool.Designer.cs</td><td>1</td><td/></row>
+		<row><td>form_aboutthetool.resx</td><td>ISX_DEFAULTCOMPONENT101</td><td>FORM_A~1.RES|Form_AboutTheTool.resx</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\WorkbrainArchivingTool\Form_AboutTheTool.resx</td><td>1</td><td/></row>
+		<row><td>form_mainform.cs</td><td>ISX_DEFAULTCOMPONENT101</td><td>FORM_M~1.CS|Form_Mainform.cs</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\WorkbrainArchivingTool\Form_Mainform.cs</td><td>1</td><td/></row>
+		<row><td>form_mainform.designer.cs</td><td>ISX_DEFAULTCOMPONENT101</td><td>FORM_M~1.CS|Form_MainForm.Designer.cs</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\WorkbrainArchivingTool\Form_MainForm.Designer.cs</td><td>1</td><td/></row>
+		<row><td>form_mainform.resx</td><td>ISX_DEFAULTCOMPONENT101</td><td>FORM_M~1.RES|Form_Mainform.resx</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\WorkbrainArchivingTool\Form_Mainform.resx</td><td>1</td><td/></row>
+		<row><td>head</td><td>ISX_DEFAULTCOMPONENT1</td><td>HEAD</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\.git\HEAD</td><td>1</td><td/></row>
+		<row><td>head1</td><td>ISX_DEFAULTCOMPONENT4</td><td>HEAD</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\.git\logs\HEAD</td><td>1</td><td/></row>
 		<row><td>ibm.data.db2.dll</td><td>IBM.Data.DB2.dll</td><td>IBMDAT~1.DLL|IBM.Data.DB2.dll</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\WorkbrainArchivingTool\bin\Debug\IBM.Data.DB2.dll</td><td>1</td><td/></row>
-		<row><td>ibm.data.db2.dll.deploy</td><td>ISX_DEFAULTCOMPONENT5</td><td>IBMDAT~1.DEP|IBM.Data.DB2.dll.deploy</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\WorkbrainArchivingTool\bin\Debug\app.publish\Application Files\WorkbrainArchivingTool_1_0_0_0\IBM.Data.DB2.dll.deploy</td><td>1</td><td/></row>
-		<row><td>program.cs</td><td>ISX_DEFAULTCOMPONENT</td><td>Program.cs</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\WorkbrainArchivingTool\Program.cs</td><td>1</td><td/></row>
+		<row><td>ibm.data.db2.dll.deploy</td><td>ISX_DEFAULTCOMPONENT106</td><td>IBMDAT~1.DEP|IBM.Data.DB2.dll.deploy</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\WorkbrainArchivingTool\bin\Debug\app.publish\Application Files\WorkbrainArchivingTool_1_0_0_0\IBM.Data.DB2.dll.deploy</td><td>1</td><td/></row>
+		<row><td>index</td><td>ISX_DEFAULTCOMPONENT1</td><td>index</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\.git\index</td><td>1</td><td/></row>
+		<row><td>master</td><td>ISX_DEFAULTCOMPONENT6</td><td>master</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\.git\logs\refs\heads\master</td><td>1</td><td/></row>
+		<row><td>master1</td><td>ISX_DEFAULTCOMPONENT96</td><td>master</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\.git\refs\heads\master</td><td>1</td><td/></row>
+		<row><td>master2</td><td>ISX_DEFAULTCOMPONENT98</td><td>master</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\.git\refs\remotes\origin\master</td><td>1</td><td/></row>
+		<row><td>ms_persist.xml</td><td>ISX_DEFAULTCOMPONENT1</td><td>MS-PER~1.XML|ms-persist.xml</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\.git\ms-persist.xml</td><td>1</td><td/></row>
+		<row><td>post_update.sample</td><td>ISX_DEFAULTCOMPONENT2</td><td>POST-U~1.SAM|post-update.sample</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\.git\hooks\post-update.sample</td><td>1</td><td/></row>
+		<row><td>pre_applypatch.sample</td><td>ISX_DEFAULTCOMPONENT2</td><td>PRE-AP~1.SAM|pre-applypatch.sample</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\.git\hooks\pre-applypatch.sample</td><td>1</td><td/></row>
+		<row><td>pre_commit.sample</td><td>ISX_DEFAULTCOMPONENT2</td><td>PRE-CO~1.SAM|pre-commit.sample</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\.git\hooks\pre-commit.sample</td><td>1</td><td/></row>
+		<row><td>pre_push.sample</td><td>ISX_DEFAULTCOMPONENT2</td><td>PRE-PU~1.SAM|pre-push.sample</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\.git\hooks\pre-push.sample</td><td>1</td><td/></row>
+		<row><td>pre_rebase.sample</td><td>ISX_DEFAULTCOMPONENT2</td><td>PRE-RE~1.SAM|pre-rebase.sample</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\.git\hooks\pre-rebase.sample</td><td>1</td><td/></row>
+		<row><td>prepare_commit_msg.sample</td><td>ISX_DEFAULTCOMPONENT2</td><td>PREPAR~1.SAM|prepare-commit-msg.sample</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\.git\hooks\prepare-commit-msg.sample</td><td>1</td><td/></row>
+		<row><td>program.cs</td><td>ISX_DEFAULTCOMPONENT101</td><td>Program.cs</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\WorkbrainArchivingTool\Program.cs</td><td>1</td><td/></row>
 		<row><td>properties.resources.designe</td><td>Properties.Resources.Designer.cs.dll</td><td>PROPER~1.DLL|Properties.Resources.Designer.cs.dll</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\WorkbrainArchivingTool\obj\Debug\TempPE\Properties.Resources.Designer.cs.dll</td><td>1</td><td/></row>
 		<row><td>properties.resources.designe1</td><td>Properties.Resources.Designer.cs.dll1</td><td>PROPER~1.DLL|Properties.Resources.Designer.cs.dll</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\WorkbrainArchivingTool\obj\x86\Debug\TempPE\Properties.Resources.Designer.cs.dll</td><td>1</td><td/></row>
-		<row><td>publish.htm</td><td>ISX_DEFAULTCOMPONENT3</td><td>publish.htm</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\WorkbrainArchivingTool\bin\Debug\app.publish\publish.htm</td><td>1</td><td/></row>
-		<row><td>resources.designer.cs</td><td>ISX_DEFAULTCOMPONENT15</td><td>RESOUR~1.CS|Resources.Designer.cs</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\WorkbrainArchivingTool\Properties\Resources.Designer.cs</td><td>1</td><td/></row>
-		<row><td>resources.resx</td><td>ISX_DEFAULTCOMPONENT15</td><td>RESOUR~1.RES|Resources.resx</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\WorkbrainArchivingTool\Properties\Resources.resx</td><td>1</td><td/></row>
-		<row><td>settings.designer.cs</td><td>ISX_DEFAULTCOMPONENT15</td><td>SETTIN~1.CS|Settings.Designer.cs</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\WorkbrainArchivingTool\Properties\Settings.Designer.cs</td><td>1</td><td/></row>
-		<row><td>settings.settings</td><td>ISX_DEFAULTCOMPONENT15</td><td>SETTIN~1.SET|Settings.settings</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\WorkbrainArchivingTool\Properties\Settings.settings</td><td>1</td><td/></row>
+		<row><td>publish.htm</td><td>ISX_DEFAULTCOMPONENT104</td><td>publish.htm</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\WorkbrainArchivingTool\bin\Debug\app.publish\publish.htm</td><td>1</td><td/></row>
+		<row><td>resources.designer.cs</td><td>ISX_DEFAULTCOMPONENT116</td><td>RESOUR~1.CS|Resources.Designer.cs</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\WorkbrainArchivingTool\Properties\Resources.Designer.cs</td><td>1</td><td/></row>
+		<row><td>resources.resx</td><td>ISX_DEFAULTCOMPONENT116</td><td>RESOUR~1.RES|Resources.resx</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\WorkbrainArchivingTool\Properties\Resources.resx</td><td>1</td><td/></row>
+		<row><td>settings.designer.cs</td><td>ISX_DEFAULTCOMPONENT116</td><td>SETTIN~1.CS|Settings.Designer.cs</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\WorkbrainArchivingTool\Properties\Settings.Designer.cs</td><td>1</td><td/></row>
+		<row><td>settings.settings</td><td>ISX_DEFAULTCOMPONENT116</td><td>SETTIN~1.SET|Settings.settings</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\WorkbrainArchivingTool\Properties\Settings.settings</td><td>1</td><td/></row>
 		<row><td>setup.exe</td><td>setup.exe</td><td>setup.exe</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\WorkbrainArchivingTool\bin\Debug\app.publish\setup.exe</td><td>1</td><td/></row>
-		<row><td>temporarygeneratedfile_036c0</td><td>ISX_DEFAULTCOMPONENT10</td><td>TEMPOR~1.CS|TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\WorkbrainArchivingTool\obj\Debug\TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs</td><td>1</td><td/></row>
-		<row><td>temporarygeneratedfile_036c01</td><td>ISX_DEFAULTCOMPONENT13</td><td>TEMPOR~1.CS|TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\WorkbrainArchivingTool\obj\x86\Debug\TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs</td><td>1</td><td/></row>
-		<row><td>temporarygeneratedfile_5937a</td><td>ISX_DEFAULTCOMPONENT10</td><td>TEMPOR~1.CS|TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\WorkbrainArchivingTool\obj\Debug\TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs</td><td>1</td><td/></row>
-		<row><td>temporarygeneratedfile_5937a1</td><td>ISX_DEFAULTCOMPONENT13</td><td>TEMPOR~1.CS|TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\WorkbrainArchivingTool\obj\x86\Debug\TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs</td><td>1</td><td/></row>
-		<row><td>temporarygeneratedfile_e7a71</td><td>ISX_DEFAULTCOMPONENT10</td><td>TEMPOR~1.CS|TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\WorkbrainArchivingTool\obj\Debug\TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs</td><td>1</td><td/></row>
-		<row><td>temporarygeneratedfile_e7a711</td><td>ISX_DEFAULTCOMPONENT13</td><td>TEMPOR~1.CS|TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\WorkbrainArchivingTool\obj\x86\Debug\TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs</td><td>1</td><td/></row>
-		<row><td>workbrainarchivingtool.appli</td><td>ISX_DEFAULTCOMPONENT3</td><td>WORKBR~1.APP|WorkbrainArchivingTool.application</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\WorkbrainArchivingTool\bin\Debug\app.publish\WorkbrainArchivingTool.application</td><td>1</td><td/></row>
-		<row><td>workbrainarchivingtool.appli1</td><td>ISX_DEFAULTCOMPONENT2</td><td>WORKBR~1.APP|WorkbrainArchivingTool.application</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\WorkbrainArchivingTool\bin\Debug\WorkbrainArchivingTool.application</td><td>1</td><td/></row>
-		<row><td>workbrainarchivingtool.appli2</td><td>ISX_DEFAULTCOMPONENT10</td><td>WORKBR~1.APP|WorkbrainArchivingTool.application</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\WorkbrainArchivingTool\obj\Debug\WorkbrainArchivingTool.application</td><td>1</td><td/></row>
-		<row><td>workbrainarchivingtool.cspro</td><td>ISX_DEFAULTCOMPONENT10</td><td>WORKBR~1.TXT|WorkbrainArchivingTool.csproj.FileListAbsolute.txt</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\WorkbrainArchivingTool\obj\Debug\WorkbrainArchivingTool.csproj.FileListAbsolute.txt</td><td>1</td><td/></row>
-		<row><td>workbrainarchivingtool.cspro1</td><td>ISX_DEFAULTCOMPONENT10</td><td>WORKBR~1.CAC|WorkbrainArchivingTool.csproj.GenerateResource.Cache</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\WorkbrainArchivingTool\obj\Debug\WorkbrainArchivingTool.csproj.GenerateResource.Cache</td><td>1</td><td/></row>
-		<row><td>workbrainarchivingtool.cspro2</td><td>ISX_DEFAULTCOMPONENT10</td><td>WORKBR~1.CAC|WorkbrainArchivingTool.csprojResolveAssemblyReference.cache</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\WorkbrainArchivingTool\obj\Debug\WorkbrainArchivingTool.csprojResolveAssemblyReference.cache</td><td>1</td><td/></row>
-		<row><td>workbrainarchivingtool.cspro3</td><td>ISX_DEFAULTCOMPONENT13</td><td>WORKBR~1.TXT|WorkbrainArchivingTool.csproj.FileListAbsolute.txt</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\WorkbrainArchivingTool\obj\x86\Debug\WorkbrainArchivingTool.csproj.FileListAbsolute.txt</td><td>1</td><td/></row>
-		<row><td>workbrainarchivingtool.cspro4</td><td>ISX_DEFAULTCOMPONENT</td><td>WORKBR~1.CSP|WorkbrainArchivingTool.csproj</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\WorkbrainArchivingTool\WorkbrainArchivingTool.csproj</td><td>1</td><td/></row>
-		<row><td>workbrainarchivingtool.cspro5</td><td>ISX_DEFAULTCOMPONENT</td><td>WORKBR~1.USE|WorkbrainArchivingTool.csproj.user</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\WorkbrainArchivingTool\WorkbrainArchivingTool.csproj.user</td><td>1</td><td/></row>
+		<row><td>temporarygeneratedfile_036c0</td><td>ISX_DEFAULTCOMPONENT111</td><td>TEMPOR~1.CS|TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\WorkbrainArchivingTool\obj\Debug\TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs</td><td>1</td><td/></row>
+		<row><td>temporarygeneratedfile_036c01</td><td>ISX_DEFAULTCOMPONENT114</td><td>TEMPOR~1.CS|TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\WorkbrainArchivingTool\obj\x86\Debug\TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs</td><td>1</td><td/></row>
+		<row><td>temporarygeneratedfile_5937a</td><td>ISX_DEFAULTCOMPONENT111</td><td>TEMPOR~1.CS|TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\WorkbrainArchivingTool\obj\Debug\TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs</td><td>1</td><td/></row>
+		<row><td>temporarygeneratedfile_5937a1</td><td>ISX_DEFAULTCOMPONENT114</td><td>TEMPOR~1.CS|TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\WorkbrainArchivingTool\obj\x86\Debug\TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs</td><td>1</td><td/></row>
+		<row><td>temporarygeneratedfile_e7a71</td><td>ISX_DEFAULTCOMPONENT111</td><td>TEMPOR~1.CS|TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\WorkbrainArchivingTool\obj\Debug\TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs</td><td>1</td><td/></row>
+		<row><td>temporarygeneratedfile_e7a711</td><td>ISX_DEFAULTCOMPONENT114</td><td>TEMPOR~1.CS|TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\WorkbrainArchivingTool\obj\x86\Debug\TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs</td><td>1</td><td/></row>
+		<row><td>update.sample</td><td>ISX_DEFAULTCOMPONENT2</td><td>UPDATE~1.SAM|update.sample</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\.git\hooks\update.sample</td><td>1</td><td/></row>
+		<row><td>wbarchiving</td><td>ISX_DEFAULTCOMPONENT6</td><td>WBARCH~1|wbarchiving</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\.git\logs\refs\heads\wbarchiving</td><td>1</td><td/></row>
+		<row><td>wbarchiving1</td><td>ISX_DEFAULTCOMPONENT96</td><td>WBARCH~1|wbarchiving</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\.git\refs\heads\wbarchiving</td><td>1</td><td/></row>
+		<row><td>wbarchiving2</td><td>ISX_DEFAULTCOMPONENT98</td><td>WBARCH~1|wbarchiving</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\.git\refs\remotes\origin\wbarchiving</td><td>1</td><td/></row>
+		<row><td>workbrainarchivingtool.appli</td><td>ISX_DEFAULTCOMPONENT104</td><td>WORKBR~1.APP|WorkbrainArchivingTool.application</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\WorkbrainArchivingTool\bin\Debug\app.publish\WorkbrainArchivingTool.application</td><td>1</td><td/></row>
+		<row><td>workbrainarchivingtool.appli1</td><td>ISX_DEFAULTCOMPONENT103</td><td>WORKBR~1.APP|WorkbrainArchivingTool.application</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\WorkbrainArchivingTool\bin\Debug\WorkbrainArchivingTool.application</td><td>1</td><td/></row>
+		<row><td>workbrainarchivingtool.appli2</td><td>ISX_DEFAULTCOMPONENT111</td><td>WORKBR~1.APP|WorkbrainArchivingTool.application</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\WorkbrainArchivingTool\obj\Debug\WorkbrainArchivingTool.application</td><td>1</td><td/></row>
+		<row><td>workbrainarchivingtool.cspro</td><td>ISX_DEFAULTCOMPONENT111</td><td>WORKBR~1.TXT|WorkbrainArchivingTool.csproj.FileListAbsolute.txt</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\WorkbrainArchivingTool\obj\Debug\WorkbrainArchivingTool.csproj.FileListAbsolute.txt</td><td>1</td><td/></row>
+		<row><td>workbrainarchivingtool.cspro1</td><td>ISX_DEFAULTCOMPONENT111</td><td>WORKBR~1.CAC|WorkbrainArchivingTool.csproj.GenerateResource.Cache</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\WorkbrainArchivingTool\obj\Debug\WorkbrainArchivingTool.csproj.GenerateResource.Cache</td><td>1</td><td/></row>
+		<row><td>workbrainarchivingtool.cspro2</td><td>ISX_DEFAULTCOMPONENT111</td><td>WORKBR~1.CAC|WorkbrainArchivingTool.csprojResolveAssemblyReference.cache</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\WorkbrainArchivingTool\obj\Debug\WorkbrainArchivingTool.csprojResolveAssemblyReference.cache</td><td>1</td><td/></row>
+		<row><td>workbrainarchivingtool.cspro3</td><td>ISX_DEFAULTCOMPONENT114</td><td>WORKBR~1.TXT|WorkbrainArchivingTool.csproj.FileListAbsolute.txt</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\WorkbrainArchivingTool\obj\x86\Debug\WorkbrainArchivingTool.csproj.FileListAbsolute.txt</td><td>1</td><td/></row>
+		<row><td>workbrainarchivingtool.cspro4</td><td>ISX_DEFAULTCOMPONENT101</td><td>WORKBR~1.CSP|WorkbrainArchivingTool.csproj</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\WorkbrainArchivingTool\WorkbrainArchivingTool.csproj</td><td>1</td><td/></row>
+		<row><td>workbrainarchivingtool.cspro5</td><td>ISX_DEFAULTCOMPONENT101</td><td>WORKBR~1.USE|WorkbrainArchivingTool.csproj.user</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\WorkbrainArchivingTool\WorkbrainArchivingTool.csproj.user</td><td>1</td><td/></row>
 		<row><td>workbrainarchivingtool.exe</td><td>WorkbrainArchivingTool.exe</td><td>WORKBR~1.EXE|WorkbrainArchivingTool.exe</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\WorkbrainArchivingTool\bin\Debug\WorkbrainArchivingTool.exe</td><td>1</td><td/></row>
-		<row><td>workbrainarchivingtool.exe.c</td><td>ISX_DEFAULTCOMPONENT5</td><td>WORKBR~1.DEP|WorkbrainArchivingTool.exe.config.deploy</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\WorkbrainArchivingTool\bin\Debug\app.publish\Application Files\WorkbrainArchivingTool_1_0_0_0\WorkbrainArchivingTool.exe.config.deploy</td><td>1</td><td/></row>
-		<row><td>workbrainarchivingtool.exe.c1</td><td>ISX_DEFAULTCOMPONENT2</td><td>WORKBR~1.CON|WorkbrainArchivingTool.exe.config</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\WorkbrainArchivingTool\bin\Debug\WorkbrainArchivingTool.exe.config</td><td>1</td><td/></row>
-		<row><td>workbrainarchivingtool.exe.c2</td><td>ISX_DEFAULTCOMPONENT8</td><td>WORKBR~1.CON|WorkbrainArchivingTool.exe.config</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\WorkbrainArchivingTool\bin\x86\Debug\WorkbrainArchivingTool.exe.config</td><td>1</td><td/></row>
-		<row><td>workbrainarchivingtool.exe.d</td><td>ISX_DEFAULTCOMPONENT5</td><td>WORKBR~1.DEP|WorkbrainArchivingTool.exe.deploy</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\WorkbrainArchivingTool\bin\Debug\app.publish\Application Files\WorkbrainArchivingTool_1_0_0_0\WorkbrainArchivingTool.exe.deploy</td><td>1</td><td/></row>
-		<row><td>workbrainarchivingtool.exe.m</td><td>ISX_DEFAULTCOMPONENT5</td><td>WORKBR~1.MAN|WorkbrainArchivingTool.exe.manifest</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\WorkbrainArchivingTool\bin\Debug\app.publish\Application Files\WorkbrainArchivingTool_1_0_0_0\WorkbrainArchivingTool.exe.manifest</td><td>1</td><td/></row>
-		<row><td>workbrainarchivingtool.exe.m1</td><td>ISX_DEFAULTCOMPONENT2</td><td>WORKBR~1.MAN|WorkbrainArchivingTool.exe.manifest</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\WorkbrainArchivingTool\bin\Debug\WorkbrainArchivingTool.exe.manifest</td><td>1</td><td/></row>
-		<row><td>workbrainarchivingtool.exe.m2</td><td>ISX_DEFAULTCOMPONENT10</td><td>WORKBR~1.MAN|WorkbrainArchivingTool.exe.manifest</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\WorkbrainArchivingTool\obj\Debug\WorkbrainArchivingTool.exe.manifest</td><td>1</td><td/></row>
+		<row><td>workbrainarchivingtool.exe.c</td><td>ISX_DEFAULTCOMPONENT106</td><td>WORKBR~1.DEP|WorkbrainArchivingTool.exe.config.deploy</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\WorkbrainArchivingTool\bin\Debug\app.publish\Application Files\WorkbrainArchivingTool_1_0_0_0\WorkbrainArchivingTool.exe.config.deploy</td><td>1</td><td/></row>
+		<row><td>workbrainarchivingtool.exe.c1</td><td>ISX_DEFAULTCOMPONENT103</td><td>WORKBR~1.CON|WorkbrainArchivingTool.exe.config</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\WorkbrainArchivingTool\bin\Debug\WorkbrainArchivingTool.exe.config</td><td>1</td><td/></row>
+		<row><td>workbrainarchivingtool.exe.c2</td><td>ISX_DEFAULTCOMPONENT109</td><td>WORKBR~1.CON|WorkbrainArchivingTool.exe.config</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\WorkbrainArchivingTool\bin\x86\Debug\WorkbrainArchivingTool.exe.config</td><td>1</td><td/></row>
+		<row><td>workbrainarchivingtool.exe.d</td><td>ISX_DEFAULTCOMPONENT106</td><td>WORKBR~1.DEP|WorkbrainArchivingTool.exe.deploy</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\WorkbrainArchivingTool\bin\Debug\app.publish\Application Files\WorkbrainArchivingTool_1_0_0_0\WorkbrainArchivingTool.exe.deploy</td><td>1</td><td/></row>
+		<row><td>workbrainarchivingtool.exe.m</td><td>ISX_DEFAULTCOMPONENT106</td><td>WORKBR~1.MAN|WorkbrainArchivingTool.exe.manifest</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\WorkbrainArchivingTool\bin\Debug\app.publish\Application Files\WorkbrainArchivingTool_1_0_0_0\WorkbrainArchivingTool.exe.manifest</td><td>1</td><td/></row>
+		<row><td>workbrainarchivingtool.exe.m1</td><td>ISX_DEFAULTCOMPONENT103</td><td>WORKBR~1.MAN|WorkbrainArchivingTool.exe.manifest</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\WorkbrainArchivingTool\bin\Debug\WorkbrainArchivingTool.exe.manifest</td><td>1</td><td/></row>
+		<row><td>workbrainarchivingtool.exe.m2</td><td>ISX_DEFAULTCOMPONENT111</td><td>WORKBR~1.MAN|WorkbrainArchivingTool.exe.manifest</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\WorkbrainArchivingTool\obj\Debug\WorkbrainArchivingTool.exe.manifest</td><td>1</td><td/></row>
 		<row><td>workbrainarchivingtool.exe1</td><td>WorkbrainArchivingTool.exe1</td><td>WORKBR~1.EXE|WorkbrainArchivingTool.exe</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\WorkbrainArchivingTool\obj\Debug\WorkbrainArchivingTool.exe</td><td>1</td><td/></row>
-		<row><td>workbrainarchivingtool.form_</td><td>ISX_DEFAULTCOMPONENT10</td><td>WORKBR~1.RES|WorkbrainArchivingTool.Form_AboutTheTool.resources</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\WorkbrainArchivingTool\obj\Debug\WorkbrainArchivingTool.Form_AboutTheTool.resources</td><td>1</td><td/></row>
-		<row><td>workbrainarchivingtool.form_1</td><td>ISX_DEFAULTCOMPONENT10</td><td>WORKBR~1.RES|WorkbrainArchivingTool.Form_MainForm.resources</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\WorkbrainArchivingTool\obj\Debug\WorkbrainArchivingTool.Form_MainForm.resources</td><td>1</td><td/></row>
-		<row><td>workbrainarchivingtool.pdb</td><td>ISX_DEFAULTCOMPONENT2</td><td>WORKBR~1.PDB|WorkbrainArchivingTool.pdb</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\WorkbrainArchivingTool\bin\Debug\WorkbrainArchivingTool.pdb</td><td>1</td><td/></row>
-		<row><td>workbrainarchivingtool.pdb1</td><td>ISX_DEFAULTCOMPONENT10</td><td>WORKBR~1.PDB|WorkbrainArchivingTool.pdb</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\WorkbrainArchivingTool\obj\Debug\WorkbrainArchivingTool.pdb</td><td>1</td><td/></row>
-		<row><td>workbrainarchivingtool.prope</td><td>ISX_DEFAULTCOMPONENT10</td><td>WORKBR~1.RES|WorkbrainArchivingTool.Properties.Resources.resources</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\WorkbrainArchivingTool\obj\Debug\WorkbrainArchivingTool.Properties.Resources.resources</td><td>1</td><td/></row>
-		<row><td>workbrainarchivingtool.vshos</td><td>ISX_DEFAULTCOMPONENT2</td><td>WORKBR~1.APP|WorkbrainArchivingTool.vshost.application</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\WorkbrainArchivingTool\bin\Debug\WorkbrainArchivingTool.vshost.application</td><td>1</td><td/></row>
+		<row><td>workbrainarchivingtool.form_</td><td>ISX_DEFAULTCOMPONENT111</td><td>WORKBR~1.RES|WorkbrainArchivingTool.Form_AboutTheTool.resources</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\WorkbrainArchivingTool\obj\Debug\WorkbrainArchivingTool.Form_AboutTheTool.resources</td><td>1</td><td/></row>
+		<row><td>workbrainarchivingtool.form_1</td><td>ISX_DEFAULTCOMPONENT111</td><td>WORKBR~1.RES|WorkbrainArchivingTool.Form_MainForm.resources</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\WorkbrainArchivingTool\obj\Debug\WorkbrainArchivingTool.Form_MainForm.resources</td><td>1</td><td/></row>
+		<row><td>workbrainarchivingtool.pdb</td><td>ISX_DEFAULTCOMPONENT103</td><td>WORKBR~1.PDB|WorkbrainArchivingTool.pdb</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\WorkbrainArchivingTool\bin\Debug\WorkbrainArchivingTool.pdb</td><td>1</td><td/></row>
+		<row><td>workbrainarchivingtool.pdb1</td><td>ISX_DEFAULTCOMPONENT111</td><td>WORKBR~1.PDB|WorkbrainArchivingTool.pdb</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\WorkbrainArchivingTool\obj\Debug\WorkbrainArchivingTool.pdb</td><td>1</td><td/></row>
+		<row><td>workbrainarchivingtool.prope</td><td>ISX_DEFAULTCOMPONENT111</td><td>WORKBR~1.RES|WorkbrainArchivingTool.Properties.Resources.resources</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\WorkbrainArchivingTool\obj\Debug\WorkbrainArchivingTool.Properties.Resources.resources</td><td>1</td><td/></row>
+		<row><td>workbrainarchivingtool.sln</td><td>ISX_DEFAULTCOMPONENT</td><td>WORKBR~1.SLN|WorkbrainArchivingTool.sln</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\WorkbrainArchivingTool.sln</td><td>1</td><td/></row>
+		<row><td>workbrainarchivingtool.v12.s</td><td>ISX_DEFAULTCOMPONENT</td><td>WORKBR~1.SUO|WorkbrainArchivingTool.v12.suo</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\WorkbrainArchivingTool.v12.suo</td><td>1</td><td/></row>
+		<row><td>workbrainarchivingtool.vshos</td><td>ISX_DEFAULTCOMPONENT103</td><td>WORKBR~1.APP|WorkbrainArchivingTool.vshost.application</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\WorkbrainArchivingTool\bin\Debug\WorkbrainArchivingTool.vshost.application</td><td>1</td><td/></row>
 		<row><td>workbrainarchivingtool.vshos1</td><td>WorkbrainArchivingTool.vshost.exe</td><td>WORKBR~1.EXE|WorkbrainArchivingTool.vshost.exe</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\WorkbrainArchivingTool\bin\Debug\WorkbrainArchivingTool.vshost.exe</td><td>1</td><td/></row>
-		<row><td>workbrainarchivingtool.vshos2</td><td>ISX_DEFAULTCOMPONENT2</td><td>WORKBR~1.CON|WorkbrainArchivingTool.vshost.exe.config</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\WorkbrainArchivingTool\bin\Debug\WorkbrainArchivingTool.vshost.exe.config</td><td>1</td><td/></row>
-		<row><td>workbrainarchivingtool.vshos3</td><td>ISX_DEFAULTCOMPONENT2</td><td>WORKBR~1.MAN|WorkbrainArchivingTool.vshost.exe.manifest</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\WorkbrainArchivingTool\bin\Debug\WorkbrainArchivingTool.vshost.exe.manifest</td><td>1</td><td/></row>
+		<row><td>workbrainarchivingtool.vshos2</td><td>ISX_DEFAULTCOMPONENT103</td><td>WORKBR~1.CON|WorkbrainArchivingTool.vshost.exe.config</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\WorkbrainArchivingTool\bin\Debug\WorkbrainArchivingTool.vshost.exe.config</td><td>1</td><td/></row>
+		<row><td>workbrainarchivingtool.vshos3</td><td>ISX_DEFAULTCOMPONENT103</td><td>WORKBR~1.MAN|WorkbrainArchivingTool.vshost.exe.manifest</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\WorkbrainArchivingTool\bin\Debug\WorkbrainArchivingTool.vshost.exe.manifest</td><td>1</td><td/></row>
 		<row><td>workbrainarchivingtool.vshos4</td><td>WorkbrainArchivingTool.vshost.exe1</td><td>WORKBR~1.EXE|WorkbrainArchivingTool.vshost.exe</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\WorkbrainArchivingTool\bin\x86\Debug\WorkbrainArchivingTool.vshost.exe</td><td>1</td><td/></row>
-		<row><td>workbrainarchivingtool.vshos5</td><td>ISX_DEFAULTCOMPONENT8</td><td>WORKBR~1.CON|WorkbrainArchivingTool.vshost.exe.config</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\WorkbrainArchivingTool\bin\x86\Debug\WorkbrainArchivingTool.vshost.exe.config</td><td>1</td><td/></row>
-		<row><td>workbrainarchivingtool_tempo</td><td>ISX_DEFAULTCOMPONENT</td><td>WORKBR~1.PFX|WorkbrainArchivingTool_TemporaryKey.pfx</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\WorkbrainArchivingTool\WorkbrainArchivingTool_TemporaryKey.pfx</td><td>1</td><td/></row>
+		<row><td>workbrainarchivingtool.vshos5</td><td>ISX_DEFAULTCOMPONENT109</td><td>WORKBR~1.CON|WorkbrainArchivingTool.vshost.exe.config</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\WorkbrainArchivingTool\bin\x86\Debug\WorkbrainArchivingTool.vshost.exe.config</td><td>1</td><td/></row>
+		<row><td>workbrainarchivingtool_tempo</td><td>ISX_DEFAULTCOMPONENT101</td><td>WORKBR~1.PFX|WorkbrainArchivingTool_TemporaryKey.pfx</td><td>0</td><td/><td/><td/><td>1</td><td>C:\GitHub\WorkbrainArchivingTool\WorkbrainArchivingTool\WorkbrainArchivingTool_TemporaryKey.pfx</td><td>1</td><td/></row>
 	</table>
 
 	<table name="FileSFPCatalog">
@@ -2197,31 +2826,132 @@
 		<col def="S0">FTPLocation</col>
 		<col def="S0">HTTPLocation</col>
 		<col def="S0">Miscellaneous</col>
-		<row><td>IBM.Data.DB2.dll</td><td/><td/><td>_FC7E0B04_2966_490E_A707_E3CFB985B155_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>ISX_DEFAULTCOMPONENT</td><td/><td/><td>_08915719_C66C_42E9_9542_DC411D925735_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>ISX_DEFAULTCOMPONENT1</td><td/><td/><td>_3FAA78CE_1C48_4513_A984_8CFD7CDC0E79_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>ISX_DEFAULTCOMPONENT10</td><td/><td/><td>_52E51C39_9A2E_4FC6_8100_813D36C72ECD_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>ISX_DEFAULTCOMPONENT11</td><td/><td/><td>_AD872036_D621_45BE_91D3_09FE13BD119A_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>ISX_DEFAULTCOMPONENT12</td><td/><td/><td>_F62E4BD3_853D_43FC_A9AB_501B0581DA84_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>ISX_DEFAULTCOMPONENT13</td><td/><td/><td>_DBBD2060_45BA_4E9E_AF94_AE975BB993CD_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>ISX_DEFAULTCOMPONENT14</td><td/><td/><td>_386C2BFF_1788_4BC3_ACE4_193AE55E4895_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>ISX_DEFAULTCOMPONENT15</td><td/><td/><td>_90AEBB39_1AC9_4FD7_8D2D_E00AF58B2BB9_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>ISX_DEFAULTCOMPONENT16</td><td/><td/><td>_C116D60D_1CF5_4558_AC39_1DEB5E73F704_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>ISX_DEFAULTCOMPONENT2</td><td/><td/><td>_0C6F7B8A_962B_4379_A42C_13791AA7B94A_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>ISX_DEFAULTCOMPONENT3</td><td/><td/><td>_0A1EBEE4_7F3E_42F6_B137_7A0473F6A99E_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>ISX_DEFAULTCOMPONENT4</td><td/><td/><td>_AD707134_DCFA_4DE4_B7DB_643883A3C30B_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>ISX_DEFAULTCOMPONENT5</td><td/><td/><td>_2061E419_16B4_4FCC_B0B6_D99795959259_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>ISX_DEFAULTCOMPONENT6</td><td/><td/><td>_3AC2FC6E_2282_4D7A_A494_A9E011B587D6_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>ISX_DEFAULTCOMPONENT7</td><td/><td/><td>_D18A1B17_6681_4BE5_B760_FF1A42C116F8_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>ISX_DEFAULTCOMPONENT8</td><td/><td/><td>_9EB0F917_ADD0_4691_99C2_DFB5FB12D8EB_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>ISX_DEFAULTCOMPONENT9</td><td/><td/><td>_8B90F293_B449_40E2_A84E_11C87F2C24DB_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>Properties.Resources.Designer.cs.dll</td><td/><td/><td>_A8483888_036F_4E22_AAB8_2835592BB07F_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>Properties.Resources.Designer.cs.dll1</td><td/><td/><td>_9C9AFB4A_1A00_4AA6_A34C_9E851F8DD555_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>WorkbrainArchivingTool.exe</td><td/><td/><td>_EC465B50_486A_4509_BD5D_3E8FFE7E6F7E_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>WorkbrainArchivingTool.exe1</td><td/><td/><td>_46DCB64D_3D99_4891_877B_1894A1451391_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>WorkbrainArchivingTool.vshost.exe</td><td/><td/><td>_E40BEAD0_13D1_437C_AEC7_5932B599FEE7_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>WorkbrainArchivingTool.vshost.exe1</td><td/><td/><td>_D0B06FBD_50C8_497A_802A_DFC3CA909566_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>setup.exe</td><td/><td/><td>_1918EB0D_4C64_4C8F_BA99_1629D3DF3D35_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>IBM.Data.DB2.dll</td><td/><td/><td>_3F92C570_184A_451B_8E60_1A9AE02E0D5A_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ISX_DEFAULTCOMPONENT</td><td/><td/><td>_E29E822C_5936_43D9_8333_8FA212A09576_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ISX_DEFAULTCOMPONENT1</td><td/><td/><td>_8F86FE5B_B61E_4089_BB12_371D4A2817FE_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ISX_DEFAULTCOMPONENT10</td><td/><td/><td>_295C2AFD_E15A_4CB3_AEEE_1AF89BF3405A_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ISX_DEFAULTCOMPONENT100</td><td/><td/><td>_CEB10D10_5D0E_4457_A0A2_355C35C66826_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ISX_DEFAULTCOMPONENT101</td><td/><td/><td>_694DBC3F_333C_4FAA_97C7_23645B07C1FD_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ISX_DEFAULTCOMPONENT102</td><td/><td/><td>_EDB3A919_3A02_4CCB_8BA4_F81D1E58DFE3_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ISX_DEFAULTCOMPONENT103</td><td/><td/><td>_B0FBF642_E5E9_473F_841A_4A73BA9B1D7B_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ISX_DEFAULTCOMPONENT104</td><td/><td/><td>_89C63300_57D9_46A7_A030_C887996AED7B_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ISX_DEFAULTCOMPONENT105</td><td/><td/><td>_571A0C09_7E09_4BAF_BC5B_45630CFF758D_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ISX_DEFAULTCOMPONENT106</td><td/><td/><td>_4B16BF78_9320_4590_B0FD_F01EA7328D6F_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ISX_DEFAULTCOMPONENT107</td><td/><td/><td>_4B49C68E_C2EB_4DB6_9C5F_E9F947E831AC_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ISX_DEFAULTCOMPONENT108</td><td/><td/><td>_66EA2F99_920F_4940_98B2_FF87E9F2D37D_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ISX_DEFAULTCOMPONENT109</td><td/><td/><td>_7A02A342_3CAA_4D6A_8E34_64469F54D167_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ISX_DEFAULTCOMPONENT11</td><td/><td/><td>_6D70E8EE_88AD_4698_BF55_16C1A8F3F147_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ISX_DEFAULTCOMPONENT110</td><td/><td/><td>_A3065D65_2420_4D5E_9930_420C31D86D01_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ISX_DEFAULTCOMPONENT111</td><td/><td/><td>_1368DFA1_0AE8_4929_B3DC_56B95DFA208B_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ISX_DEFAULTCOMPONENT112</td><td/><td/><td>_84B93108_DADE_4C14_94C6_990F705387E9_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ISX_DEFAULTCOMPONENT113</td><td/><td/><td>_DD0920F9_6978_4973_8A2B_3C5E9D584F4C_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ISX_DEFAULTCOMPONENT114</td><td/><td/><td>_DB5170AE_8182_4DA1_97E9_35DCF6C576BE_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ISX_DEFAULTCOMPONENT115</td><td/><td/><td>_28E784D6_2E69_440B_B82E_4D47FBBE5014_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ISX_DEFAULTCOMPONENT116</td><td/><td/><td>_5632F2BA_47B9_4C34_9EE3_2A8008FAD9A8_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ISX_DEFAULTCOMPONENT117</td><td/><td/><td>_C318DFAC_B6AE_4BBA_9519_751D543EB887_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ISX_DEFAULTCOMPONENT12</td><td/><td/><td>_0943DF23_D9D1_4C72_830F_F7F3042EBD3F_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ISX_DEFAULTCOMPONENT13</td><td/><td/><td>_D1827EC0_2B78_4406_9FC2_D25172FB4B3B_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ISX_DEFAULTCOMPONENT14</td><td/><td/><td>_12F1E345_95D7_486E_859F_D7D09F16321E_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ISX_DEFAULTCOMPONENT15</td><td/><td/><td>_32A87663_13DA_4A9B_9AAF_9E3AED017C77_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ISX_DEFAULTCOMPONENT16</td><td/><td/><td>_2CC40A51_492F_4DFD_9286_B48116B94100_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ISX_DEFAULTCOMPONENT17</td><td/><td/><td>_7E0C6098_C1D1_4C82_99CF_C1C1C233C1BD_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ISX_DEFAULTCOMPONENT18</td><td/><td/><td>_5B6279DA_92EE_45A2_A9E5_2D23CD2101EB_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ISX_DEFAULTCOMPONENT19</td><td/><td/><td>_4D621B37_1D50_4AED_BF3D_FA0103EFE828_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ISX_DEFAULTCOMPONENT2</td><td/><td/><td>_0F8A6DF1_15C1_457F_AE81_C709524FF85B_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ISX_DEFAULTCOMPONENT20</td><td/><td/><td>_83AA35AA_F1D5_416C_A8EB_0C8A9259A788_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ISX_DEFAULTCOMPONENT21</td><td/><td/><td>_3D510DD9_53E5_45F2_BF5F_D3DB76809F87_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ISX_DEFAULTCOMPONENT22</td><td/><td/><td>_5A8FE8CD_1CA3_47AA_901F_77B8A5C72A8B_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ISX_DEFAULTCOMPONENT23</td><td/><td/><td>_B35B5F3A_BBD3_418D_8E16_AC3D94AEB4BD_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ISX_DEFAULTCOMPONENT24</td><td/><td/><td>_F381BC9E_F711_49A1_9EED_CD7ABAB397E7_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ISX_DEFAULTCOMPONENT25</td><td/><td/><td>_85123478_1685_45BF_B256_1F5DA64AA6DC_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ISX_DEFAULTCOMPONENT26</td><td/><td/><td>_2D31F0B7_EE33_4261_9A89_12AE64EB4BDC_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ISX_DEFAULTCOMPONENT27</td><td/><td/><td>_D8033494_DF48_4E94_BEC8_0E6E38A7917C_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ISX_DEFAULTCOMPONENT28</td><td/><td/><td>_B7C8FCD3_5D7C_4D0E_9AD3_6B9E79220C87_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ISX_DEFAULTCOMPONENT29</td><td/><td/><td>_3691175E_BA76_45C2_A32C_6B1D8317B398_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ISX_DEFAULTCOMPONENT3</td><td/><td/><td>_1624D8B1_5CE5_4845_94C5_F19CD0C5697B_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ISX_DEFAULTCOMPONENT30</td><td/><td/><td>_0FC2C5C6_6FEE_44A1_983B_8AEAB796B385_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ISX_DEFAULTCOMPONENT31</td><td/><td/><td>_E2DFA3D4_8418_49A2_9E31_9082EF51EE4C_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ISX_DEFAULTCOMPONENT32</td><td/><td/><td>_91EDC3CD_B736_4AEF_92EC_403BC8A8458A_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ISX_DEFAULTCOMPONENT33</td><td/><td/><td>_8D15E94F_1F95_44CE_A5AA_A70EBB9ABF60_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ISX_DEFAULTCOMPONENT34</td><td/><td/><td>_E4925D8D_5873_4903_A35B_EC30D91E88CA_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ISX_DEFAULTCOMPONENT35</td><td/><td/><td>_A0EB810E_80B8_4BBA_968B_25AD33014E51_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ISX_DEFAULTCOMPONENT36</td><td/><td/><td>_8D5D8F53_4952_40F4_8CFB_61C5D76FA2F6_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ISX_DEFAULTCOMPONENT37</td><td/><td/><td>_F4C184E4_E6D3_4EB2_AAB4_065B3B486458_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ISX_DEFAULTCOMPONENT38</td><td/><td/><td>_1297DB9A_0F6F_4E49_BA51_B5DBCEBADB63_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ISX_DEFAULTCOMPONENT39</td><td/><td/><td>_9693A1A0_BD54_4C27_8D43_64270E2FE80F_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ISX_DEFAULTCOMPONENT4</td><td/><td/><td>_0CB3967F_39FD_485A_9849_B37B9F0170B2_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ISX_DEFAULTCOMPONENT40</td><td/><td/><td>_37A5E3BC_997D_4821_87C8_1247413F4C53_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ISX_DEFAULTCOMPONENT41</td><td/><td/><td>_EA91F1F5_9BB9_4636_BB26_602EBC14DEC8_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ISX_DEFAULTCOMPONENT42</td><td/><td/><td>_B5CB1FB6_F2E1_4DC7_90E5_E3FC8743009B_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ISX_DEFAULTCOMPONENT43</td><td/><td/><td>_52CE03B9_5497_4AC8_B9AC_585CCF407AED_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ISX_DEFAULTCOMPONENT44</td><td/><td/><td>_287FD6BF_F4CB_4EC9_B0C9_BE68A0F6EA96_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ISX_DEFAULTCOMPONENT45</td><td/><td/><td>_AA22E85D_A9FC_477B_8078_C0FDC0793BEC_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ISX_DEFAULTCOMPONENT46</td><td/><td/><td>_1E58F813_EA6F_465D_A7F7_8621FFD17591_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ISX_DEFAULTCOMPONENT47</td><td/><td/><td>_253968F3_EA0A_4FEF_81CD_BF86F1C2C081_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ISX_DEFAULTCOMPONENT48</td><td/><td/><td>_B9B4FE07_B206_4D2F_91F2_470F42F577C6_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ISX_DEFAULTCOMPONENT49</td><td/><td/><td>_E80C805B_583B_4633_A99E_939647082DB8_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ISX_DEFAULTCOMPONENT5</td><td/><td/><td>_8E74358E_68A7_402A_97F4_8EC981FC325C_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ISX_DEFAULTCOMPONENT50</td><td/><td/><td>_DCFD2F8F_3B9A_4E7B_8B99_50F28D04AD0B_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ISX_DEFAULTCOMPONENT51</td><td/><td/><td>_31BDC781_2AFF_4F49_B8F9_BED587ECDE3A_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ISX_DEFAULTCOMPONENT52</td><td/><td/><td>_831CFB0C_23E0_41D4_97C8_FF8462DE5F8C_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ISX_DEFAULTCOMPONENT53</td><td/><td/><td>_98FEC2B3_7B48_4893_AFE6_5456D0880BCD_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ISX_DEFAULTCOMPONENT54</td><td/><td/><td>_3756DD75_BD5B_4D03_9F7B_065EDB9AF243_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ISX_DEFAULTCOMPONENT55</td><td/><td/><td>_05CB0CE3_180E_44D4_AE19_C29675ECCEF6_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ISX_DEFAULTCOMPONENT56</td><td/><td/><td>_8A1735C9_E4F5_4DFC_914F_D4F46CC271DF_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ISX_DEFAULTCOMPONENT57</td><td/><td/><td>_54A6EC80_99FD_43EF_99CD_07CDCC63DFAC_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ISX_DEFAULTCOMPONENT58</td><td/><td/><td>_45421D39_7CE0_4F7B_83FA_A66EAFD8CDE2_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ISX_DEFAULTCOMPONENT59</td><td/><td/><td>_F4DDBF4D_569E_41D7_905C_66D09D37A2EF_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ISX_DEFAULTCOMPONENT6</td><td/><td/><td>_ED16534C_0E06_4B79_8242_BD7F6680B663_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ISX_DEFAULTCOMPONENT60</td><td/><td/><td>_9CA5AE8C_946B_4543_8E93_E605DDD7D9EE_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ISX_DEFAULTCOMPONENT61</td><td/><td/><td>_3466E6C1_8AF0_406C_B701_01F4F95A771C_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ISX_DEFAULTCOMPONENT62</td><td/><td/><td>_91839ACB_3FB3_45C3_909C_C9BE717D65B5_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ISX_DEFAULTCOMPONENT63</td><td/><td/><td>_1D6D2773_5BFA_46B1_A03D_7C5FC44C460A_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ISX_DEFAULTCOMPONENT64</td><td/><td/><td>_9552C762_DFF1_486C_B914_E0CBCC5E4F49_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ISX_DEFAULTCOMPONENT65</td><td/><td/><td>_B810484B_04F5_4EA9_93F0_B31251AE4F8D_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ISX_DEFAULTCOMPONENT66</td><td/><td/><td>_034E6066_A4F0_4DFE_8E0F_B6AFA6B3D968_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ISX_DEFAULTCOMPONENT67</td><td/><td/><td>_5D802B91_DB7B_42A8_85CC_A38D3BB830C1_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ISX_DEFAULTCOMPONENT68</td><td/><td/><td>_353F8BC8_1F6D_4075_A22F_8A4DD7899456_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ISX_DEFAULTCOMPONENT69</td><td/><td/><td>_F6A5788A_FD95_45CA_AD11_4313CC3ABF13_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ISX_DEFAULTCOMPONENT7</td><td/><td/><td>_8A9AF9E7_B656_4692_8845_B4F04870F739_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ISX_DEFAULTCOMPONENT70</td><td/><td/><td>_2E5BB602_A187_498D_BB03_2F1DDD232987_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ISX_DEFAULTCOMPONENT71</td><td/><td/><td>_6F7B3FD2_DBC4_4568_8C97_E3459522DF6E_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ISX_DEFAULTCOMPONENT72</td><td/><td/><td>_E84ADD71_730C_4B44_850E_4A6348AD3B5E_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ISX_DEFAULTCOMPONENT73</td><td/><td/><td>_8C6B540C_1F27_4A88_9AA2_CFB6CF191D95_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ISX_DEFAULTCOMPONENT74</td><td/><td/><td>_1DF7102E_FDBF_42CC_9F14_987B606D917D_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ISX_DEFAULTCOMPONENT75</td><td/><td/><td>_E7381413_E974_485D_BBBC_D97E9D452589_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ISX_DEFAULTCOMPONENT76</td><td/><td/><td>_C2EA2411_2550_45AC_8599_04B71F0D48E0_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ISX_DEFAULTCOMPONENT77</td><td/><td/><td>_10377723_91C4_4C20_9FCF_AFA73E73DDCC_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ISX_DEFAULTCOMPONENT78</td><td/><td/><td>_DAF6D5FE_A721_4C83_A53A_D4A8224F9859_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ISX_DEFAULTCOMPONENT79</td><td/><td/><td>_BB2E3EA0_DA44_42A3_A577_E8C10D7176C3_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ISX_DEFAULTCOMPONENT8</td><td/><td/><td>_1D4669E0_8CDB_48FE_808D_5BC513080137_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ISX_DEFAULTCOMPONENT80</td><td/><td/><td>_BCCE4722_58B8_4D1F_8C74_FA5A1C5E6C09_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ISX_DEFAULTCOMPONENT81</td><td/><td/><td>_8F514B7B_A14A_4A90_AE99_C815181BF214_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ISX_DEFAULTCOMPONENT82</td><td/><td/><td>_81C5EA32_57C5_48FE_BB5E_712B545A924C_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ISX_DEFAULTCOMPONENT83</td><td/><td/><td>_720DC950_5CDE_422A_99AE_6E674A3C2E37_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ISX_DEFAULTCOMPONENT84</td><td/><td/><td>_7353DD70_5218_45DB_AE71_6DEF6441BB70_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ISX_DEFAULTCOMPONENT85</td><td/><td/><td>_A2CEF61F_9DFB_4CEE_AC4F_D1D31EB6C674_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ISX_DEFAULTCOMPONENT86</td><td/><td/><td>_AA2F1095_62F4_4E38_9A1C_2D8D5891378D_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ISX_DEFAULTCOMPONENT87</td><td/><td/><td>_0C8FE0B6_D1F1_4693_AFA9_5E17BEF4DC47_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ISX_DEFAULTCOMPONENT88</td><td/><td/><td>_A33EF64D_8F01_4B7E_A242_CE18ABE05AED_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ISX_DEFAULTCOMPONENT89</td><td/><td/><td>_77D3B8D7_7DEE_4D7E_8868_9091D7D152D3_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ISX_DEFAULTCOMPONENT9</td><td/><td/><td>_C6AC8B87_BAD8_48B0_82BE_B2B9759E1E1D_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ISX_DEFAULTCOMPONENT90</td><td/><td/><td>_E2104BB8_C766_4CEA_93D6_D606F4E6ABDC_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ISX_DEFAULTCOMPONENT91</td><td/><td/><td>_875F1009_670E_4E92_9A63_07370390B933_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ISX_DEFAULTCOMPONENT92</td><td/><td/><td>_AC98F27A_368B_4A7C_BB22_60ABDA1FE22D_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ISX_DEFAULTCOMPONENT93</td><td/><td/><td>_BDB46751_A3F2_4765_B6B7_7F9B39F4B3AE_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ISX_DEFAULTCOMPONENT94</td><td/><td/><td>_7D602C7B_7F6A_451B_B4FB_019DF7C51C25_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ISX_DEFAULTCOMPONENT95</td><td/><td/><td>_5D396AA8_2511_4E96_B293_590E9EA732C7_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ISX_DEFAULTCOMPONENT96</td><td/><td/><td>_A8B34CEB_1756_4CFC_87F9_F9B99988799C_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ISX_DEFAULTCOMPONENT97</td><td/><td/><td>_C1BE9257_C9EA_4268_9223_1298148D26D2_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ISX_DEFAULTCOMPONENT98</td><td/><td/><td>_F496095C_0DFB_4C68_A40F_5A79D29550CB_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ISX_DEFAULTCOMPONENT99</td><td/><td/><td>_92C82ADF_332B_437C_BBBA_C9D1F119CFF6_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>Properties.Resources.Designer.cs.dll</td><td/><td/><td>_816C55FC_C925_4F27_9F60_AA49A026232A_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>Properties.Resources.Designer.cs.dll1</td><td/><td/><td>_8CE3D82D_269F_42AF_A80A_DD83E278F9B6_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>WorkbrainArchivingTool.exe</td><td/><td/><td>_16F9B8FB_DC9D_484F_A5AD_711D79205EF9_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>WorkbrainArchivingTool.exe1</td><td/><td/><td>_8C6A27EC_B276_4D6E_82C0_D6ED9FECCD99_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>WorkbrainArchivingTool.vshost.exe</td><td/><td/><td>_1CF54397_9807_4CA8_9BE8_26DF2B6D2E2F_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>WorkbrainArchivingTool.vshost.exe1</td><td/><td/><td>_9C85BB85_D512_4557_A5C9_2FAA401EF454_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>setup.exe</td><td/><td/><td>_004B009B_E5E5_45C6_AC6B_9B22948C47DF_FILTER</td><td/><td/><td/><td/></row>
 	</table>
 
 	<table name="ISCustomActionReference">
@@ -2809,7 +3539,7 @@
 		<col def="I2">Encoded</col>
 		<col def="S0">Comment</col>
 		<col def="I4">TimeStamp</col>
-		<row><td>COMPANY_NAME</td><td>1033</td><td>Safeway Inc.</td><td>0</td><td/><td>-1465609424</td></row>
+		<row><td>COMPANY_NAME</td><td>1033</td><td>Safeway Inc.</td><td>0</td><td/><td>556049105</td></row>
 		<row><td>DN_AlwaysInstall</td><td>1033</td><td>Always Install</td><td>0</td><td/><td>-1465601264</td></row>
 		<row><td>IDPROP_EXPRESS_LAUNCH_CONDITION_COLOR</td><td>1033</td><td>The color settings of your system are not adequate for running [ProductName].</td><td>0</td><td/><td>-1465601264</td></row>
 		<row><td>IDPROP_EXPRESS_LAUNCH_CONDITION_OS</td><td>1033</td><td>The operating system is not adequate for running [ProductName].</td><td>0</td><td/><td>-1465601264</td></row>
@@ -3622,10 +4352,24 @@
 		<row><td>IDS_SETUPEXE_EXPIRE_MSG</td><td>1033</td><td>This setup works until %s. The setup will now exit.</td><td>0</td><td/><td>-1465601264</td></row>
 		<row><td>IDS_SETUPEXE_LAUNCH_COND_E</td><td>1033</td><td>This setup was built with an evaluation version of InstallShield and can only be launched from setup.exe.</td><td>0</td><td/><td>-1465601264</td></row>
 		<row><td>IDS_SHORTCUT_DISPLAY_NAME1</td><td>1033</td><td>LAUNCH~1.EXE|Launch setup.exe</td><td>0</td><td/><td>-1465613488</td></row>
+		<row><td>IDS_SHORTCUT_DISPLAY_NAME10</td><td>1033</td><td>LAUNCH~1.EXE|Launch WorkbrainArchivingTool.exe</td><td>0</td><td/><td>556061457</td></row>
+		<row><td>IDS_SHORTCUT_DISPLAY_NAME11</td><td>1033</td><td>LAUNCH~1.EXE|Launch setup.exe</td><td>0</td><td/><td>556027057</td></row>
+		<row><td>IDS_SHORTCUT_DISPLAY_NAME12</td><td>1033</td><td>LAUNCH~1.EXE|Launch WorkbrainArchivingTool.exe</td><td>0</td><td/><td>556027057</td></row>
+		<row><td>IDS_SHORTCUT_DISPLAY_NAME13</td><td>1033</td><td>LAUNCH~1.EXE|Launch WorkbrainArchivingTool.vshost.exe</td><td>0</td><td/><td>556029105</td></row>
+		<row><td>IDS_SHORTCUT_DISPLAY_NAME14</td><td>1033</td><td>LAUNCH~1.EXE|Launch WorkbrainArchivingTool.vshost.exe</td><td>0</td><td/><td>556029105</td></row>
+		<row><td>IDS_SHORTCUT_DISPLAY_NAME15</td><td>1033</td><td>LAUNCH~1.EXE|Launch setup.exe</td><td>0</td><td/><td>556027089</td></row>
+		<row><td>IDS_SHORTCUT_DISPLAY_NAME16</td><td>1033</td><td>LAUNCH~1.EXE|Launch WorkbrainArchivingTool.exe</td><td>0</td><td/><td>556027089</td></row>
+		<row><td>IDS_SHORTCUT_DISPLAY_NAME17</td><td>1033</td><td>LAUNCH~1.EXE|Launch WorkbrainArchivingTool.vshost.exe</td><td>0</td><td/><td>556029137</td></row>
+		<row><td>IDS_SHORTCUT_DISPLAY_NAME18</td><td>1033</td><td>LAUNCH~1.EXE|Launch WorkbrainArchivingTool.vshost.exe</td><td>0</td><td/><td>556029137</td></row>
+		<row><td>IDS_SHORTCUT_DISPLAY_NAME19</td><td>1033</td><td>LAUNCH~1.EXE|Launch WorkbrainArchivingTool.exe</td><td>0</td><td/><td>556033233</td></row>
 		<row><td>IDS_SHORTCUT_DISPLAY_NAME2</td><td>1033</td><td>LAUNCH~1.EXE|Launch WorkbrainArchivingTool.exe</td><td>0</td><td/><td>-1465613488</td></row>
 		<row><td>IDS_SHORTCUT_DISPLAY_NAME3</td><td>1033</td><td>LAUNCH~1.EXE|Launch WorkbrainArchivingTool.vshost.exe</td><td>0</td><td/><td>-1465611440</td></row>
 		<row><td>IDS_SHORTCUT_DISPLAY_NAME4</td><td>1033</td><td>LAUNCH~1.EXE|Launch WorkbrainArchivingTool.vshost.exe</td><td>0</td><td/><td>-1465611440</td></row>
 		<row><td>IDS_SHORTCUT_DISPLAY_NAME5</td><td>1033</td><td>LAUNCH~1.EXE|Launch WorkbrainArchivingTool.exe</td><td>0</td><td/><td>-1465607344</td></row>
+		<row><td>IDS_SHORTCUT_DISPLAY_NAME6</td><td>1033</td><td>LAUNCH~1.EXE|Launch setup.exe</td><td>0</td><td/><td>556053265</td></row>
+		<row><td>IDS_SHORTCUT_DISPLAY_NAME7</td><td>1033</td><td>LAUNCH~1.EXE|Launch WorkbrainArchivingTool.exe</td><td>0</td><td/><td>556053265</td></row>
+		<row><td>IDS_SHORTCUT_DISPLAY_NAME8</td><td>1033</td><td>LAUNCH~1.EXE|Launch WorkbrainArchivingTool.vshost.exe</td><td>0</td><td/><td>556055313</td></row>
+		<row><td>IDS_SHORTCUT_DISPLAY_NAME9</td><td>1033</td><td>LAUNCH~1.EXE|Launch WorkbrainArchivingTool.vshost.exe</td><td>0</td><td/><td>556057361</td></row>
 		<row><td>IDS_SQLBROWSE_INTRO</td><td>1033</td><td>From the list of servers below, select the database server you would like to target.</td><td>0</td><td/><td>-1465601264</td></row>
 		<row><td>IDS_SQLBROWSE_INTRO_DB</td><td>1033</td><td>From the list of catalog names below, select the database catalog you would like to target.</td><td>0</td><td/><td>-1465601264</td></row>
 		<row><td>IDS_SQLBROWSE_INTRO_TEMPLATE</td><td>1033</td><td>[IS_SQLBROWSE_INTRO]</td><td>0</td><td/><td>-1465601264</td></row>
@@ -3914,14 +4658,16 @@
 		<row><td>IDS__TargetReq_DESC_PROCESSOR</td><td>1033</td><td>The processor is not adequate for running [ProductName].</td><td>0</td><td/><td>-1465601264</td></row>
 		<row><td>IDS__TargetReq_DESC_RAM</td><td>1033</td><td>The amount of RAM is not adequate for running [ProductName].</td><td>0</td><td/><td>-1465601264</td></row>
 		<row><td>IDS__TargetReq_DESC_RESOLUTION</td><td>1033</td><td>The screen resolution is not adequate for running [ProductName].</td><td>0</td><td/><td>-1465601264</td></row>
-		<row><td>ID_STRING1</td><td>1033</td><td>http://www.Safeway.com</td><td>0</td><td/><td>-1465601232</td></row>
-		<row><td>ID_STRING2</td><td>1033</td><td>Safeway Inc.</td><td>0</td><td/><td>-1465609424</td></row>
+		<row><td>ID_STRING1</td><td>1033</td><td>http://safeway.com</td><td>0</td><td/><td>556029073</td></row>
+		<row><td>ID_STRING2</td><td>1033</td><td>Safeway Inc.</td><td>0</td><td/><td>556049105</td></row>
 		<row><td>IIDS_UITEXT_FeatureUninstalled</td><td>1033</td><td>This feature will remain uninstalled.</td><td>0</td><td/><td>-1465601264</td></row>
 	</table>
 
 	<table name="ISSwidtagProperty">
 		<col key="yes" def="s72">Name</col>
 		<col def="s0">Value</col>
+		<row><td>SfwCreatorName</td><td>Gerard Igne</td></row>
+		<row><td>TagCreatorName</td><td>Gerard Igne</td></row>
 		<row><td>UniqueId</td><td>07FDD084-84E8-400B-81AF-3D1D39493D33</td></row>
 	</table>
 
@@ -4030,11 +4776,25 @@
 		<col def="S255">ISBuildSourcePath</col>
 		<col def="I2">ISIconIndex</col>
 		<row><td>ARPPRODUCTICON.exe</td><td/><td>C:\GitHub\WorkbrainArchivingTool\WorkbrainArchivingTool\ArchivingIcon.ico</td><td>0</td></row>
+		<row><td>WorkbrainArchiving_1330861DC92B4566AC4E854EC3AD19E7.exe</td><td/><td>C:\GitHub\WorkbrainArchivingTool\WorkbrainArchivingTool\bin\Debug\WorkbrainArchivingTool.exe</td><td>0</td></row>
 		<row><td>WorkbrainArchiving_13959E7A80194698B79B1B5CBFBB079D.exe</td><td/><td>&lt;ISProductFolder&gt;\redist\Language Independent\OS Independent\GenericExe.ico</td><td>0</td></row>
+		<row><td>WorkbrainArchiving_1CF8F66BEAED461FBFD940C8373AEF6D.exe</td><td/><td>&lt;ISProductFolder&gt;\redist\Language Independent\OS Independent\GenericExe.ico</td><td>0</td></row>
 		<row><td>WorkbrainArchiving_2E2E783BC0F749E7BD9A8C19DC0FC0DA.exe</td><td/><td>C:\GitHub\WorkbrainArchivingTool\WorkbrainArchivingTool\obj\Debug\WorkbrainArchivingTool.exe</td><td>0</td></row>
+		<row><td>WorkbrainArchiving_4EC669FB5B49436FBE3834B426A22B30.exe</td><td/><td>C:\GitHub\WorkbrainArchivingTool\WorkbrainArchivingTool\obj\Debug\WorkbrainArchivingTool.exe</td><td>0</td></row>
+		<row><td>WorkbrainArchiving_604030EF78784D3693C5F9DF4DBED867.exe</td><td/><td>C:\GitHub\WorkbrainArchivingTool\WorkbrainArchivingTool\bin\Debug\WorkbrainArchivingTool.exe</td><td>0</td></row>
+		<row><td>WorkbrainArchiving_7201FC31ECDE450CAEE8EEAF7028D3E6.exe</td><td/><td>&lt;ISProductFolder&gt;\redist\Language Independent\OS Independent\GenericExe.ico</td><td>0</td></row>
+		<row><td>WorkbrainArchiving_7C6BFB07E2004398ADA72D47A1B8841F.exe</td><td/><td>C:\GitHub\WorkbrainArchivingTool\WorkbrainArchivingTool\obj\Debug\WorkbrainArchivingTool.exe</td><td>0</td></row>
+		<row><td>WorkbrainArchiving_8B7A31DDC88E491FB07163A67F3250A9.exe</td><td/><td>&lt;ISProductFolder&gt;\redist\Language Independent\OS Independent\GenericExe.ico</td><td>0</td></row>
 		<row><td>WorkbrainArchiving_BB7D5F921A9845BB94B3AEBBCC01FDA2.exe</td><td/><td>&lt;ISProductFolder&gt;\redist\Language Independent\OS Independent\GenericExe.ico</td><td>0</td></row>
+		<row><td>WorkbrainArchiving_C8B11CB5D35C4AF0A3BAA065D67586D9.exe</td><td/><td>C:\GitHub\WorkbrainArchivingTool\WorkbrainArchivingTool\bin\Debug\WorkbrainArchivingTool.exe</td><td>0</td></row>
 		<row><td>WorkbrainArchiving_D718ACEDDE3D4BA69058D322D62F021B.exe</td><td/><td>C:\GitHub\WorkbrainArchivingTool\WorkbrainArchivingTool\bin\Debug\WorkbrainArchivingTool.exe</td><td>0</td></row>
+		<row><td>WorkbrainArchiving_DEC4B378B56A4B5DBF5EBAA455834A55.exe</td><td/><td>&lt;ISProductFolder&gt;\redist\Language Independent\OS Independent\GenericExe.ico</td><td>0</td></row>
+		<row><td>WorkbrainArchiving_F0E6179848284A37B925426580369402.exe</td><td/><td>&lt;ISProductFolder&gt;\redist\Language Independent\OS Independent\GenericExe.ico</td><td>0</td></row>
+		<row><td>WorkbrainArchiving_F91EBB26629446E693AC077A5694366F.exe</td><td/><td>&lt;ISProductFolder&gt;\redist\Language Independent\OS Independent\GenericExe.ico</td><td>0</td></row>
+		<row><td>setup.exe1_864CDFCDF4994025B42306B0CF4CB520.exe</td><td/><td>C:\GitHub\WorkbrainArchivingTool\WorkbrainArchivingTool\bin\Debug\app.publish\setup.exe</td><td>0</td></row>
 		<row><td>setup.exe_213F3BF1F4A74F35AF5DBC6C48CCE161.exe</td><td/><td>C:\GitHub\WorkbrainArchivingTool\WorkbrainArchivingTool\ArchivingIcon.ico</td><td>0</td></row>
+		<row><td>setup.exe_28A65B472C7D49C69A020BE0E1ECFBD2.exe</td><td/><td>C:\GitHub\WorkbrainArchivingTool\WorkbrainArchivingTool\bin\Debug\app.publish\setup.exe</td><td>0</td></row>
+		<row><td>setup.exe_72EB15A35C0F4E069CEFA3B05A610F3E.exe</td><td/><td>C:\GitHub\WorkbrainArchivingTool\WorkbrainArchivingTool\bin\Debug\app.publish\setup.exe</td><td>0</td></row>
 	</table>
 
 	<table name="IniFile">
@@ -4149,8 +4909,8 @@
 		<col def="S0">Value</col>
 		<row><td>ActiveLanguage</td><td>1033</td></row>
 		<row><td>Comments</td><td/></row>
-		<row><td>CurrentMedia</td><td dt:dt="bin.base64" md5="de9f554a3bc05c12be9c31b998217995">
-UwBpAG4AZwBsAGUASQBtAGEAZwBlAAEARQB4AHAAcgBlAHMAcwA=
+		<row><td>CurrentMedia</td><td dt:dt="bin.base64" md5="6d78a46bf2c52ee27034bbcad20f7f95">
+QwBEAF8AUgBPAE0AAQBFAHgAcAByAGUAcwBzAA==
 			</td></row>
 		<row><td>DefaultProductConfiguration</td><td>Express</td></row>
 		<row><td>EnableSwidtag</td><td>1</td></row>
@@ -4167,7 +4927,7 @@ UwBpAG4AZwBsAGUASQBtAGEAZwBlAAEARQB4AHAAcgBlAHMAcwA=
 		<row><td>ISTheme</td><td>InstallShield Blue.theme</td></row>
 		<row><td>ISUSLock</td><td>{92B13541-605E-40BB-894C-7041C49D6767}</td></row>
 		<row><td>ISUSSignature</td><td>{8DC31289-9D6C-4F2D-A31A-44F2897BDA20}</td></row>
-		<row><td>ISVisitedViews</td><td>viewAssistant,viewRelease</td></row>
+		<row><td>ISVisitedViews</td><td>viewAssistant,viewRelease,viewISToday,viewProject</td></row>
 		<row><td>Limited</td><td>1</td></row>
 		<row><td>LockPermissionMode</td><td>1</td></row>
 		<row><td>MsiExecCmdLineOptions</td><td/></row>
@@ -4540,8 +5300,8 @@ UwBpAG4AZwBsAGUASQBtAGEAZwBlAAEARQB4AHAAcgBlAHMAcwA=
 		<row><td>PROGMSG_IIS_ROLLBACKVROOTS</td><td>##IDS_PROGMSG_IIS_ROLLBACKVROOTS##</td><td/></row>
 		<row><td>PROGMSG_IIS_ROLLBACKWEBSERVICEEXTENSIONS</td><td>##IDS_PROGMSG_IIS_ROLLBACKWEBSERVICEEXTENSIONS##</td><td/></row>
 		<row><td>ProductCode</td><td>{29449D48-1935-4A59-94C2-D2319372C30E}</td><td/></row>
-		<row><td>ProductName</td><td>WBArchivingSetup</td><td/></row>
-		<row><td>ProductVersion</td><td>2.02.0000</td><td/></row>
+		<row><td>ProductName</td><td>Workbrain Archiving Tool</td><td/></row>
+		<row><td>ProductVersion</td><td>2.03.0000</td><td/></row>
 		<row><td>ProgressType0</td><td>install</td><td/></row>
 		<row><td>ProgressType1</td><td>Installing</td><td/></row>
 		<row><td>ProgressType2</td><td>installed</td><td/></row>
@@ -4616,13 +5376,11 @@ UwBpAG4AZwBsAGUASQBtAGEAZwBlAAEARQB4AHAAcgBlAHMAcwA=
 		<col def="L255">FileName</col>
 		<col def="s72">DirProperty</col>
 		<col def="i2">InstallMode</col>
-		<row><td>FileKey1</td><td>setup.exe</td><td/><td>safewa_1_safeway_inc.</td><td>2</td></row>
-		<row><td>FileKey2</td><td>setup.exe</td><td/><td>wbarch_1_wbarchivingsetup</td><td>2</td></row>
-		<row><td>WorkbrainArchivingTool.exe</td><td>WorkbrainArchivingTool.exe</td><td/><td>wbarch_1_wbarchivingsetup</td><td>2</td></row>
-		<row><td>WorkbrainArchivingTool.exe1</td><td>WorkbrainArchivingTool.exe1</td><td/><td>wbarch_1_wbarchivingsetup</td><td>2</td></row>
-		<row><td>WorkbrainArchivingTool.vshost.exe</td><td>WorkbrainArchivingTool.vshost.exe</td><td/><td>wbarch_1_wbarchivingsetup</td><td>2</td></row>
-		<row><td>WorkbrainArchivingTool.vshost.exe1</td><td>WorkbrainArchivingTool.vshost.exe1</td><td/><td>wbarch_1_wbarchivingsetup</td><td>2</td></row>
-		<row><td>setup.exe</td><td>setup.exe</td><td/><td>wbarch_1_wbarchivingsetup</td><td>2</td></row>
+		<row><td>WorkbrainArchivingTool.exe</td><td>WorkbrainArchivingTool.exe</td><td/><td>workbr_1_workbrain_archiving_tool</td><td>2</td></row>
+		<row><td>WorkbrainArchivingTool.exe1</td><td>WorkbrainArchivingTool.exe1</td><td/><td>workbr_1_workbrain_archiving_tool</td><td>2</td></row>
+		<row><td>WorkbrainArchivingTool.vshost.exe</td><td>WorkbrainArchivingTool.vshost.exe</td><td/><td>workbr_1_workbrain_archiving_tool</td><td>2</td></row>
+		<row><td>WorkbrainArchivingTool.vshost.exe1</td><td>WorkbrainArchivingTool.vshost.exe1</td><td/><td>workbr_1_workbrain_archiving_tool</td><td>2</td></row>
+		<row><td>setup.exe</td><td>setup.exe</td><td/><td>workbr_1_workbrain_archiving_tool</td><td>2</td></row>
 	</table>
 
 	<table name="RemoveIniFile">
@@ -4708,11 +5466,11 @@ UwBpAG4AZwBsAGUASQBtAGEAZwBlAAEARQB4AHAAcgBlAHMAcwA=
 		<col def="S255">ISComments</col>
 		<col def="S255">ISShortcutName</col>
 		<col def="I4">ISAttributes</col>
-		<row><td>WorkbrainArchivingTool.exe</td><td>wbarch_1_wbarchivingsetup</td><td>##IDS_SHORTCUT_DISPLAY_NAME2##</td><td>WorkbrainArchivingTool.exe</td><td>AlwaysInstall</td><td/><td/><td/><td>WorkbrainArchiving_D718ACEDDE3D4BA69058D322D62F021B.exe</td><td>1</td><td>1</td><td>DEBUG</td><td/><td/><td/><td/><td/><td/><td/></row>
-		<row><td>WorkbrainArchivingTool.exe1</td><td>wbarch_1_wbarchivingsetup</td><td>##IDS_SHORTCUT_DISPLAY_NAME5##</td><td>WorkbrainArchivingTool.exe1</td><td>AlwaysInstall</td><td/><td/><td/><td>WorkbrainArchiving_2E2E783BC0F749E7BD9A8C19DC0FC0DA.exe</td><td>1</td><td>1</td><td>DEBUG2</td><td/><td/><td/><td/><td/><td/><td/></row>
-		<row><td>WorkbrainArchivingTool.vshost.exe</td><td>wbarch_1_wbarchivingsetup</td><td>##IDS_SHORTCUT_DISPLAY_NAME3##</td><td>WorkbrainArchivingTool.vshost.exe</td><td>AlwaysInstall</td><td/><td/><td/><td>WorkbrainArchiving_13959E7A80194698B79B1B5CBFBB079D.exe</td><td>0</td><td>1</td><td>DEBUG</td><td/><td/><td/><td/><td/><td/><td/></row>
-		<row><td>WorkbrainArchivingTool.vshost.exe1</td><td>wbarch_1_wbarchivingsetup</td><td>##IDS_SHORTCUT_DISPLAY_NAME4##</td><td>WorkbrainArchivingTool.vshost.exe1</td><td>AlwaysInstall</td><td/><td/><td/><td>WorkbrainArchiving_BB7D5F921A9845BB94B3AEBBCC01FDA2.exe</td><td>0</td><td>1</td><td>DEBUG1</td><td/><td/><td/><td/><td/><td/><td/></row>
-		<row><td>setup.exe</td><td>wbarch_1_wbarchivingsetup</td><td>##IDS_SHORTCUT_DISPLAY_NAME1##</td><td>setup.exe</td><td>AlwaysInstall</td><td/><td/><td/><td>setup.exe_213F3BF1F4A74F35AF5DBC6C48CCE161.exe</td><td>0</td><td>1</td><td>APP.PUBLISH</td><td/><td/><td/><td/><td/><td/><td/></row>
+		<row><td>WorkbrainArchivingTool.exe</td><td>workbr_1_workbrain_archiving_tool</td><td>##IDS_SHORTCUT_DISPLAY_NAME16##</td><td>WorkbrainArchivingTool.exe</td><td>AlwaysInstall</td><td/><td/><td/><td>WorkbrainArchiving_C8B11CB5D35C4AF0A3BAA065D67586D9.exe</td><td>1</td><td>1</td><td>DEBUG</td><td/><td/><td/><td/><td/><td/><td/></row>
+		<row><td>WorkbrainArchivingTool.exe1</td><td>workbr_1_workbrain_archiving_tool</td><td>##IDS_SHORTCUT_DISPLAY_NAME19##</td><td>WorkbrainArchivingTool.exe1</td><td>AlwaysInstall</td><td/><td/><td/><td>WorkbrainArchiving_4EC669FB5B49436FBE3834B426A22B30.exe</td><td>1</td><td>1</td><td>DEBUG2</td><td/><td/><td/><td/><td/><td/><td/></row>
+		<row><td>WorkbrainArchivingTool.vshost.exe</td><td>workbr_1_workbrain_archiving_tool</td><td>##IDS_SHORTCUT_DISPLAY_NAME17##</td><td>WorkbrainArchivingTool.vshost.exe</td><td>AlwaysInstall</td><td/><td/><td/><td>WorkbrainArchiving_DEC4B378B56A4B5DBF5EBAA455834A55.exe</td><td>0</td><td>1</td><td>DEBUG</td><td/><td/><td/><td/><td/><td/><td/></row>
+		<row><td>WorkbrainArchivingTool.vshost.exe1</td><td>workbr_1_workbrain_archiving_tool</td><td>##IDS_SHORTCUT_DISPLAY_NAME18##</td><td>WorkbrainArchivingTool.vshost.exe1</td><td>AlwaysInstall</td><td/><td/><td/><td>WorkbrainArchiving_F91EBB26629446E693AC077A5694366F.exe</td><td>0</td><td>1</td><td>DEBUG1</td><td/><td/><td/><td/><td/><td/><td/></row>
+		<row><td>setup.exe</td><td>workbr_1_workbrain_archiving_tool</td><td>##IDS_SHORTCUT_DISPLAY_NAME15##</td><td>setup.exe</td><td>AlwaysInstall</td><td/><td/><td/><td>setup.exe_28A65B472C7D49C69A020BE0E1ECFBD2.exe</td><td>1</td><td>1</td><td>APP.PUBLISH</td><td/><td/><td/><td/><td/><td/><td/></row>
 	</table>
 
 	<table name="Signature">
